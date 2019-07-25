@@ -8,13 +8,13 @@ tagSurvivalLastDeath=你的团队失败了。
 #Achievements
 achGroupSurvival=残酷试炼
 
-achS001Title=试炼王者
+achS001Title=试炼冠军
 achS001Desc=完成 150波 残酷试炼。
 
 achS002Title=试炼征服者
 achS002Desc=在挑战者难度下完成 150波 残酷试炼。
 
-achS003Title=试炼霸主
+achS003Title=试炼主宰
 achS003Desc=在角斗者难度下完成 150波 残酷试炼。
 
 achS004Title=超越900000！
@@ -26,7 +26,7 @@ achS005Desc=在一场试炼中获得至少 5000000分。
 achS006Title=顶峰
 achS006Desc=在一场试炼中获得至少 10000000分。
 
-achS007Title=势不可挡的试炼霸主
+achS007Title=无法阻挡的试炼主宰
 achS007Desc=角斗者难度下在 第6批 怪物出生点激活时完成 150波 残酷试炼。
 
 achS008Title=防御状态
