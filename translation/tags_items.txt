@@ -568,6 +568,7 @@ tagWeaponCrossbow1hA002=^w复合弩
 tagWeaponCrossbow1hA003=^w滑轮弩
 tagWeaponCrossbow1hA004=^w连弩
 
+
 #Shields 盾牌
 
 tagShieldA000=^w木盾
@@ -844,13 +845,11 @@ tagStyle041=^s镀金
 tagStyle042=^s丰饶
 
 #ArmorClass 护甲种类
-
 tagArmorClass01=施法型
 tagArmorClass02=
 tagArmorClass03=重型
 
 #WeaponClass 武器种类
-
 tagOffHand=副手
 tagShield=盾牌
 
@@ -872,7 +871,6 @@ tagStaff=法杖
 tagWeaponUnknown=未知武器
 
 #ArmorSlots 装备槽
-
 tagRing=戒指
 tagAmulet=项链
 tagMedal=勋章
@@ -885,15 +883,14 @@ tagFeet=靴子
 tagGloves=护手
 
 #QualityClass 物品质量等级
-
 tagMagic=魔法
 tagRare=稀有
-tagEpic=史诗级
+tagEpic=史诗
 tagLegend=传奇
 
-tagStyleUniqueTier2=强化的
-tagStyleUniqueTier3=神话的
-tagStyleFactionTier2=精英级
+tagStyleUniqueTier2=强化
+tagStyleUniqueTier3=神话
+tagStyleFactionTier2=精英
 
 tagSoulbound=灵魂绑定
 tagDestroySoulbound=摧毁灵魂绑定的物品？
@@ -2257,7 +2254,6 @@ tagRelicD023=^i01^h-^c掠夺者护符
 tagRelicD023Desc="能够同时手持两把手枪进行精准射击的象征。"^o非审判开远程双持的高级选择之一
 
 #Crafting 锻造
-
 tagCraftTabArtifactA=圣物
 tagCraftTabArtifactB=护身符，圣物与强大的手工艺品。
 tagCraftTabMeleeA=近战武器
@@ -2462,8 +2458,8 @@ tagConsumable_DevotionReset=明晰药剂
 tagConsumable_DevotionReset_Desc="净化思绪并准备进行一场新的精神之旅。"
 
 #DLC
-tagDLCIllusionRemoval=除幻剂
-tagDLCIllusionRemovalDesc="100%纯度的正牌幻化清除剂。"
+tagDLCIllusionRemoval=除幻粉
+tagDLCIllusionRemovalDesc="100%纯度的正牌幻化清除粉。"
 tagDLCIllusionA01=幻化：假发魔粉
 tagDLCA01=假发魔粉
 tagDLCA01Desc="高雅和风尚的定义。"
@@ -3996,8 +3992,8 @@ tagSuffixA050=^y·蝮蛇
 tagSuffixA051=^y·公牛
 tagSuffixA052=^y·夜枭
 tagSuffixA053=^y·魔犬
-tagSuffixA054=^y之荒漠
-tagSuffixA055=^y之极地
+tagSuffixA054=^y·荒漠
+tagSuffixA055=^y·极地
 tagSuffixA056=^y·废土
 tagSuffixA057=^y·沼泽
 tagSuffixA058=^y·狂风
@@ -4022,7 +4018,7 @@ tagSuffixB009_Wpn_A=^g·热忱
 tagSuffixB010_Wpn_A=^g·残酷
 tagSuffixB011_Wpn_A=^g·无情
 tagSuffixB012_Wpn_A=^g·怒兽
-tagSuffixB013_Wpn_A=^g之怒火★
+tagSuffixB013_Wpn_A=^g·怒火★
 tagSuffixB014_Wpn_A=^g·凶猛
 tagSuffixB015_Wpn_A=^g·杀戮☆
 tagSuffixB016_Wpn_A=^g·猛袭

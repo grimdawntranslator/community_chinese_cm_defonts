@@ -183,7 +183,7 @@ tagGDX1Class08SkillName05B=^g<^F死灵法师^g>^c腐烂气息
 tagGDX1Class08SkillDescription05B=疫病恶魔传播的恶臭变得难以承受，这种气体会导致周围的生物呕吐和视觉模糊。
 tagGDX1Class08SkillName05C=^g<^F死灵法师^g>^c疫病爆发
 tagGDX1Class08SkillDescription05C=有毒气体在疫病恶魔的腐烂肉体中堆积，之后对毫无防备的敌人释放有毒的腐烂爆发。
-tagGDX1Class08SkillName05D=[死灵法师]不稳定畸变
+tagGDX1Class08SkillName05D=^g<^F死灵法师^g>^c不稳定畸变
 tagGDX1Class08SkillDescription05D=疫病恶魔既可以作为强大的护卫，又可以由死灵仪式转变成为高度不稳定的载体向战场传播腐烂和衰败。这些不稳定的憎恶将暴走肆虐你的敌人并在短时间后猛烈的喷发。
 
 tagGDX1Class08SkillName06A=^g<^F死灵法师^g>^c幽灵束缚
@@ -726,7 +726,7 @@ tagGDX1Devotion_C105=莱托什，暗影守望者 ^g[高级]（活力系『减抗
 tagGDX1Devotion_C105Desc=隐藏在阴影中，安克维亚伟大的守护者注视着现实世界的边界，确保没有恶魔逃脱精神境界肆虐生者。当安克维亚的诅咒蔓延开来，人民乞求莱托什的恩赐解脱，但他从未出现。
 
 tagGDX1DevotionEffectB101=谣言
-tagGDX1DevotionEffectB101Desc=穆谟的话语中包含的可怕真相在你的敌人中间流传，就像经久不衰的谣言，粉碎了他们的心智。^odebuff技能，具备传播扩撒性
+tagGDX1DevotionEffectB101Desc=穆谟话语中包含的可怕真相在你的敌人中间流传，就像经久不衰的谣言，粉碎了他们的心智。^odebuff技能，具备传播扩撒性
 tagGDX1DevotionEffectB102=凤凰烈焰
 tagGDX1DevotionEffectB102Desc=凤凰燃烧的羽毛在你周围盘旋，把你包围在保护性屏障里并焚烧所有靠得太近的敌人。
 tagGDX1DevotionEffectB103=激励
