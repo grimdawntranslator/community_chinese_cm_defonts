@@ -335,7 +335,7 @@ tagGDX1HeadC102=腐烂修理工的帽子
 tagGDX1HeadC103=净化的凝视
 tagGDX1HeadC103_Desc="这个世界充满了异教徒，受光明会的恩泽，理应净化这个诅咒。"
 tagGDX1HeadC104=赏金猎人的帽子
-tagGDX1HeadC105=艾柯特祖尔的号角
+tagGDX1HeadC105=艾柯特·祖尔的号角
 tagGDX1HeadC105_Desc="这个号角仍然充满着可感知的黑暗。"
 tagGDX1HeadC106=失魂的凝视
 tagGDX1HeadC107=污染的凝视
@@ -605,8 +605,8 @@ tagGDX1WaistA102=^w救世主护腰
 
 tagGDX1WaistB101=^l巫登沼泽束腰
 tagGDX1WaistB102=^l巫登沼泽护腰
-tagGDX1WaistB103=^l露娜瓦尔高斯的束腰
-tagGDX1WaistB104=^l露娜瓦尔高斯的护腰
+tagGDX1WaistB103=^l露娜·瓦尔高斯的束腰
+tagGDX1WaistB104=^l露娜·瓦尔高斯的护腰
 tagGDX1WaistB105=^y巨魔之心护腰
 tagGDX1WaistB106=^y石魔大师之链
 tagGDX1WaistB107=^y石板护腰
@@ -1224,7 +1224,6 @@ tagGDX1Consumable_AttributeReset_Desc="怪异的温暖充满全身，进行自�
 
 
 
-
 #ItemEnchantment 附魔
 
 tagGDX1EnchantA101A=星尘
@@ -1681,6 +1680,7 @@ tagGDX1ItemSetD122Desc="寒舌的盔甲。此人乃渗透和玩弄政治阴谋�
 tagGDX1ItemSetD123Name=血骑士
 tagGDX1ItemSetD123Desc="纳扎染染血的盔甲，猩红之王。从前以血骑士的名号闻名于世。"
 
+
 tagItemSetD001BName=审判者装甲
 tagItemSetD002BName=神圣平衡
 tagItemSetD003BName=野兽召唤者的华服
@@ -1691,7 +1691,7 @@ tagItemSetD007BName=屠魔者的装束
 tagItemSetD008BName=枪械师的双枪
 tagItemSetD009BName=野性之血先锋
 tagItemSetD010BName=洞察者
-tagItemSetD011BName=召魔者的元素
+tagItemSetD011BName=召魔者的意志
 tagItemSetD012BName=马尔科夫的堡垒
 tagItemSetD013BName=奥祖因的炼狱化身
 tagItemSetD014BName=德里格的罩衣

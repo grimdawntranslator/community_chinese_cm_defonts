@@ -704,40 +704,40 @@ xtagClass06SkillDescription03B=与风暴之力沟通是风暴召唤者们的神�
 XXXtagClass01SkillName15A=战斗暴怒
 XXXtagClass01SkillDescription15A=激烈的战斗唤醒狂怒的兽性增强了你的力量和速度但降低了你的防御和纪律感。
 XXXtagClass01SkillName15B=狂暴
-XXXtagClass01SkillDescription15B=Adrenaline and rage drive you on, giving you almost super-human speed but also making you more wreckless, reducing defensive ability.
+XXXtagClass01SkillDescription15B=肾上腺素和愤怒驱使你前进，给你几乎超人的速度，但也让你更鲁莽，降低防御能力。
 
 
-XXXtagClass03SkillName09=Fulcrum Training
-XXXtagClass03SkillDescription09=Channeling chaotic energy to bend the physical world is a volatile art that deforms and can eventually destroy the body of practicioners. Channeling through a fulcrum can mitigate some of this damage.
+XXXtagClass03SkillName09=中枢训练
+XXXtagClass03SkillDescription09=引导混乱能量去扭曲物质世界是一种会扭曲并摧毁施术者身体的一种不稳定艺术。透过中枢引导能够减轻这种伤害。
 
 
 XXXtagClass04SkillName03A=毒性炸弹
-XXXtagClass04SkillDescription03A=A combination of vicious toxins and explosive powders results in a deadly explosive charge that will leave enemies gasping for air.
+XXXtagClass04SkillDescription03A=一种剧毒物质和炸药粉末的混合物，在发生致命的爆炸后，让敌人喘不过气来。
 XXXtagClass04SkillName03B=腐坏毒气
-XXXtagClass04SkillDescription03B=The addition of an unstable agent to the Toxic Bomb causes weakened resolve and painful convulsions.
+XXXtagClass04SkillDescription03B=在毒性炸弹中添加一种不稳定药剂会导致信心的减弱和痛苦的抽搐。
 
 XXXtagClass03SkillName06A=元素光球
-XXXtagClass03SkillDescription06A=Lobs a pulsating orb of combined elemental force at enemies that explodes in a burst of heat, cold, and electricity.
+XXXtagClass03SkillDescription06A=向敌人抛出一个由元素力量组成的搏动之球，突然爆发热量，寒冷和电能。
 
 
 
 XXXtagClass03SkillName08A=狂风之力
-XXXtagClass03SkillDescription08A=A burst of wind and elemental energy knocks enemies away from the caster and inflicts elemental damage.
+XXXtagClass03SkillDescription08A=一阵风和元素能量的爆发将敌人从施法者身边击退并对其造成元素伤害。
 
 
 
 
 XXXtagClass03SkillName01C=旋风
-XXXtagClass03SkillDescription01C=The great raven controls the winds, channeling them into a swirling vortex of rocks and debris that pummel enemies within its path.
+XXXtagClass03SkillDescription01C=伟大的乌鸦控制风，引导他们形成由岩石和碎片组成的漩涡，猛击在其路径内的敌人。
 
 XXXtagClass03SkillName01D=风暴涡旋
-XXXtagClass03SkillDescription01D=Magnifies the power of Whirlwind and causes it to emit bolts of lightning.
+XXXtagClass03SkillDescription01D=放大旋风的力量，使之发出闪电。
 
 xxxtagClass05SkillName01A=邪恶毒剂
-xxxtagClass05SkillDescription01A=Bottled and hurled at enemies, this vile concoction releases a poisonous miasma that sickens enemies and eats away at their flesh.
+xxxtagClass05SkillDescription01A=装瓶并向敌人投掷，这种邪恶的混合物释放一片有毒的瘴气使敌人生病并侵蚀他们的肉体。
 
 xxxtagClass05SkillName02A=涂毒
-xxxtagClass05SkillDescription02A=将你的武器涂满堕落酿造之油。
+xxxtagClass05SkillDescription02A=将你的武器涂满邪恶毒剂。
 
 #ItemSkills
 
