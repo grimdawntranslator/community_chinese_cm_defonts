@@ -1,4 +1,4 @@
-#颜色对应表
+# 颜色对应表
 物理伤害——棕色——^e
 穿刺伤害——黄色——^y
 创伤伤害——棕色——^e
@@ -35,45 +35,7 @@
 所有速度——紫色——^p
 移动速度—卡其色——^k
 
-#颜色代码表
-
-Exemple: {^w} {^E} {^b} {^r} {^H} {^W} {^S} {^y} {^g} {^R}
-From Crate developer:
-^a aqua 浅绿色
-^b blue 蓝色
-^c cyan 青色
-^d dark grey 深灰色
-^e brown 棕色
-^f fuschia 梅红色/桃红色
-^g green 绿色
-^h light gold 浅金色
-^i indigo 靛蓝色
-^k khaki 卡其色/黄褐色
-^l olive 橄榄色 
-^m maroon 栗色
-^o orange 橙色
-^p purple 紫色
-^r red 红色
-^s silver 银色
-^t teal 水鸭色
-^w white 白色
-^y yellow 黄色
-^z azure 蔚蓝色
-
-Exemple: {%s} {%d} {%f} {%t} {%z}
-From Crate developer:
-%s string (from tag) 字符串
-%S capital string (from tag) 大写字符串
-%f rounded float 取整浮点数
-%g float 浮点数
-%d integer 整数
-%a adjective 形容词
-%A capital adjective 大写形容词
-%t text 文本
-%z time (seconds) 时间(秒)
-
-
-#Grim Internals
+# Grim Internals
 tagGI_GrimInternals=Grim Internals v1.73
 tagGI_CombatAttributeType_PhysicalPierce=物理穿刺
 tagGI_CombatAttributeType_Physical=物理
@@ -196,7 +158,7 @@ tagGameDifficultySetting03=终极难度
 tagDifficultyUnlocked=更高难度已解锁
 tagDifficultyLevelUnlocked=你现在可以进入 {^g}{%s0}{^w}！
 
-tagAutosort=自动整理
+tagAutosort=^c自动整理
 
 tagPromptButtonYes=是
 tagPromptButtonNo=否
@@ -238,7 +200,7 @@ tagDevotionSkillRank=当前等级 : {%d0} / {%d1}
 tagUndo=撤销
 Chat=聊天：
 
-tagGamePaused=游戏已经暂停
+tagGamePaused=^j游戏已经暂停
 
 tagSkillNotReady={^r}这项技能还未准备就绪
 
@@ -368,7 +330,7 @@ tagFactionOutlawsRewards8=N/A
 //tagFactionBeasts=野兽
 //tagFactionBeastsInfo=野兽就是野兽。
 tagFactionUser0=流浪者
-tagFactionUser0Info=营地:古安克维亚{^n}{^n}罗瓦里人，或者说是平常称呼的流浪者，是一群没有固定居所的人们。对他们而言，敞开的道路就是他们永恒的家园，耗尽毕生的时光去游历整个凯恩世界来净化伴随着他们的世俗诱惑和堕落腐败的文化。他们的大部分历史都流失在了久远的岁月里，而大多数的文明都认为他们只是流浪汉和小偷。{^n}{^n}流浪者憎恨暴力，并且不惜一切地要避免它，这时常导致他们在暴徒的手中被肆意虐待。
+tagFactionUser0Info=营地：古安克维亚{^n}{^n}罗瓦里人，或者说是平常称呼的流浪者，是一群没有固定居所的人们。对他们而言，敞开的道路就是他们永恒的家园，耗尽毕生的时光去游历整个凯恩世界来净化伴随着他们的世俗诱惑和堕落腐败的文化。他们的大部分历史都流失在了久远的岁月里，而大多数的文明都认为他们只是流浪汉和小偷。{^n}{^n}流浪者憎恨暴力，并且不惜一切地要避免它，这时常导致他们在暴徒的手中被肆意虐待。
 tagFactionUser0Rewards1=N/A
 tagFactionUser0Rewards2=N/A
 tagFactionUser0Rewards3=N/A
@@ -380,7 +342,7 @@ tagFactionUser0Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力�
 tagFactionUser1=中立
 tagFactionUser1Info=N/A
 tagFactionUser2=霍姆斯特德
-tagFactionUser2Info=营地: 霍姆斯特德{^n}{^n} 不论北方的农田什么在时候遭到攻击，农民和他们的家人都能在霍姆斯特德集合。这种团队意识在人类濒临灭绝的时候显得比其他任何方面都要重要。{^n}{^n} 在黑色军团的帮助下，霍姆斯特德已经成为了名副其实的堡垒，是这个死亡横行的世界中的安全居所；但随着强大的敌人从各个方向的逐渐侵袭，一些人开始思考坚守一个固定的位置是否是明智的决定。{^n}{^n} 在黑色军团挡住虚灵和冥煞的时候，霍姆斯特德的人们把注意力集中到了一个离家园更近的威胁上：贪婪的革翅目虫群，它们在大地上肆虐并感染了他们之前放弃的农田。
+tagFactionUser2Info=营地：霍姆斯特德{^n}{^n} 不论北方的农田什么在时候遭到攻击，农民和他们的家人都能在霍姆斯特德集合。这种团队意识在人类濒临灭绝的时候显得比其他任何方面都要重要。{^n}{^n} 在黑色军团的帮助下，霍姆斯特德已经成为了名副其实的堡垒，是这个死亡横行的世界中的安全居所；但随着强大的敌人从各个方向的逐渐侵袭，一些人开始思考坚守一个固定的位置是否是明智的决定。{^n}{^n} 在黑色军团挡住虚灵和冥煞的时候，霍姆斯特德的人们把注意力集中到了一个离家园更近的威胁上：贪婪的革翅目虫群，它们在大地上肆虐并感染了他们之前放弃的农田。
 tagFactionUser2Rewards1=N/A
 tagFactionUser2Rewards2=N/A
 tagFactionUser2Rewards3=N/A
@@ -410,7 +372,7 @@ tagFactionUser4Rewards6=新任务 {^n}可以领取赏金任务
 tagFactionUser4Rewards7=新任务 {^n}可以进入势力特有商店
 tagFactionUser4Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力武器 {^n}精英级势力护甲
 tagFactionUser5=死亡守夜人教团
-tagFactionUser5Info=营地:悲伤城堡{^n}{^n} 死亡守夜人教团代表了与近乎消失的巫术之间的最后联结，他们的顶级大师尤若布鲁克向成员们传授了珍贵的学识。{^n}{^n}教团的成员从不畏惧死亡。他们反而愿意接受严苛的训练，相信通过主宰死亡更能与这个世界的本质产生共鸣。{^n}{^n} 经过帝国数个世纪的压迫，现在没有外来者能与教团争锋，但他们从没遇到过像凯蒙的神选者那样无情残暴的人。神选者们一心只考虑净化凯恩的腐败，将教团视为必须净化的小丑。
+tagFactionUser5Info=营地：悲伤城堡{^n}{^n} 死亡守夜人教团代表了与近乎消失的巫术之间的最后联结，他们的顶级大师尤若布鲁克向成员们传授了珍贵的学识。{^n}{^n}教团的成员从不畏惧死亡。他们反而愿意接受严苛的训练，相信通过主宰死亡更能与这个世界的本质产生共鸣。{^n}{^n} 经过帝国数个世纪的压迫，现在没有外来者能与教团争锋，但他们从没遇到过像凯蒙的神选者那样无情残暴的人。神选者们一心只考虑净化凯恩的腐败，将教团视为必须净化的小丑。
 tagFactionUser5Rewards1=刷新复仇级单位
 tagFactionUser5Rewards2=刷新额外英雄单位
 tagFactionUser5Rewards3=刷新额外敌人
@@ -419,7 +381,7 @@ tagFactionUser5Rewards5=可以进入势力特有商店
 tagFactionUser5Rewards6=新任务 {^n}可领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲  {^n}势力特有设计图
 tagFactionUser5Rewards7=新任务 {^n}势力特有增幅 {^n}势力特有饰品 {^n}该势力赦令 {^n}势力特有设计图
 tagFactionUser5Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力武器 {^n}精英级势力护甲
-tagFactionUser6=不死族
+tagFactionUser6=安克维亚不死族
 tagFactionUser6Info=有很多关于不死生物在安克维亚废墟中不断游荡的传言。一些人认为他们是被禁锢在凡人领域的灵魂生物，无法穿越到他们的来世中去。另一些人则声称这都是死灵法师的杰作，有一支亡灵军团在侍奉着它们的主人。真相或许就是其中之一。{^n}{^n}所有人都认同的一点是不死生物对于生者来说是相当危险的。由此可见，抢劫那些被遗忘的废墟是一种很不理智的行为。
 tagFactionUser6Rewards1=刷新复仇级单位
 tagFactionUser6Rewards2=刷新额外英雄单位
@@ -430,7 +392,7 @@ tagFactionUser6Rewards6=N/A
 tagFactionUser6Rewards7=N/A
 tagFactionUser6Rewards8=N/A
 tagFactionUser7=黑色军团
-tagFactionUser7Info=营地:圣像堡{^n}{^n}黑色军团是帝国的精英，以死亡代言人的身份执行着帝国那偏激的意志。关于他们英勇事迹的传说和他们残忍暴力的传言同样的多。{^n}{^n}不管人们敬重他们还是畏惧他们，黑色军团都是唯一能在首都陷入恐怖黎明后存活下来的军队，并且也是人类发起反击的唯一希望。
+tagFactionUser7Info=营地：圣像堡{^n}{^n}黑色军团是帝国的精英，以死亡代言人的身份执行着帝国那偏激的意志。关于他们英勇事迹的传说和他们残忍暴力的传言同样的多。{^n}{^n}不管人们敬重他们还是畏惧他们，黑色军团都是唯一能在首都陷入恐怖黎明后存活下来的军队，并且也是人类发起反击的唯一希望。
 tagFactionUser7Rewards1=N/A
 tagFactionUser7Rewards2=N/A
 tagFactionUser7Rewards3=N/A
@@ -440,7 +402,7 @@ tagFactionUser7Rewards6={^n}势力特有武器 {^n}势力特有护甲  {^n}势�
 tagFactionUser7Rewards7=新的地下城/新任务 {^n}势力特有增幅 {^n}势力特有饰品 {^n}势力特有饰品 {^n}该势力赦令
 tagFactionUser7Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力武器 {^n}精英级势力护甲
 tagFactionUser8=凯蒙的神选者
-tagFactionUser8Info=营地:悲伤城堡{^n}{^n}凯蒙的神选者是至高之神的狂热追随者，光明使者将在闪耀荣光中重临凯恩，指引他的神选者们开创一个秩序和繁荣的新黎明。{^n}{^n}它由名为神父凯蒙的神能牧师领导并被他们的信仰所护佑，神选者们迫切地想清除凯恩所有的堕落，不管是邪恶的冥煞生物还是操纵死尸的死灵法师。为此，他们将消灭死亡守夜人教团作为最高优先级的目标。
+tagFactionUser8Info=营地：悲伤城堡{^n}{^n}凯蒙的神选者是至高之神的狂热追随者，光明使者将在闪耀荣光中重临凯恩，指引他的神选者们开创一个秩序和繁荣的新黎明。{^n}{^n}它由名为神父凯蒙的神能牧师领导并被他们的信仰所护佑，神选者们迫切地想清除凯恩所有的堕落，不管是邪恶的冥煞生物还是操纵死尸的死灵法师。为此，他们将消灭死亡守夜人教团作为最高优先级的目标。
 tagFactionUser8Rewards1=刷新复仇级单位
 tagFactionUser8Rewards2=刷新额外英雄单位
 tagFactionUser8Rewards3=刷新额外敌人
@@ -744,8 +706,8 @@ tagLootFilter31=速度
 tagLootFilter31Info=显示装备包含 攻击、施法或移动速度加成。
 tagLootFilter32=冷却减少
 tagLootFilter32Info=显示装备包含 减少技能冷却的加成。
-tagLootFilter33=暴击伤害
-tagLootFilter33Info=显示装备包含 暴击伤害。
+tagLootFilter33=暴击(Crit)伤害
+tagLootFilter33Info=显示装备包含 暴击(Crit)伤害。
 tagLootFilter34=攻击能力
 tagLootFilter34Info=显示装备包含 攻击能力。
 tagLootFilter35=防御能力
@@ -907,7 +869,7 @@ tagCharHeaderResistance=抗性
 tagCharHeaderDefense=防御属性
 tagCharHeaderOffense=攻击属性
 tagCharHeaderCombat=战斗属性
-tagCharHeaderDPS=每一击伤害(DPH)
+tagCharHeaderDPS=每一击的伤害(DPH)
 tagCharHeaderCharacter=人物
 tagCharHeaderPhysical=物理
 tagCharHeaderMagical=魔法
@@ -942,7 +904,7 @@ tagCharStatsArmorWaist=腰部：
 tagCharStatsArmorShoulders=肩部：
 
 tagFormulaLearned=已学会此设计图
-tagFormulaLearn01=你学会了如何锻造：{^t}{%t0}
+tagFormulaLearn01=你学会了如何制作：{^t}{%t0}
 tagFormulaLearn02={^r}你已经学过这张设计图了。
 tagFormulaLearn03={^r}[已习得]
 
@@ -958,11 +920,11 @@ tagItemInsufficientStatus={^r}声望不足
 tagCharStatsMaximumSpeed=最大速度
 
 #Character 人物
-tagCharStatsAttacksPerSecond=每秒攻击次数
+tagCharStatsAttacksPerSecond=每秒攻击次数(Hz)
 tagCharStatsAttacksPerSecondInfoo=每秒使用武器的攻击次数，包含加成。
 tagCharStatsRunSpeed=奔跑速度
 tagCharStatsRunSpeedInfo=人物相对于基础值的奔跑速度(包含整体速度)。
-tagCharStatsCritDmg=暴击伤害
+tagCharStatsCritDmg=暴击(Crit)伤害
 tagCharStatsCritDmgInfo=暴击伤害加成的百分比数。暴击的几率由你的攻击等级和目标的防御等级的差距决定。
 tagCharStatsLifeRegen=生命回复
 tagCharStatsLifeRegenInfo=战斗中生命回复速度。加成只影响从装备和技能获得的回复速度，不影响基于体格的基本回复速度。
@@ -976,7 +938,7 @@ tagCharStatsExpGainedBonus=经验加成
 tagCharStatsExpGainedBonusInfo=杀死怪物所得额外经验的百分数。
 tagCharStatsLightRadiusBonus=照亮范围奖励
 tagCharStatsLightRadiusBonusInfo=照亮范围额外的百分数。
-tagCharStatsAllSkillsBonus=所有技能加成
+tagCharStatsAllSkillsBonus=^y所有技能加成
 tagCharStatsAllSkillsBonusInfo=所有已习得技能的额外加成
 tagCharStatsSoldierSkillsBonus=战士技能加成
 tagCharStatsSoldierSkillsBonusInfo=所有士兵专精中已习得技能的额外加成。
@@ -992,7 +954,7 @@ tagCharStatsShamanSkillsBonus=萨满技能加成
 tagCharStatsShamanSkillsBonusInfo=所有萨满专精中已习得技能的额外加成。
 
 #Physical 物理
-tagCharStatsAttackSpeed=攻击速度
+tagCharStatsAttackSpeed=攻击速度(AS)
 tagCharStatsAttackSpeedDescription=相对于基本攻速的武器攻击速度(整体攻速)。慢速武器从攻速加成中的收益会减少。
 tagCharStatsAvgDmg=武器伤害
 tagCharStatsAvgDmgDescription=使用武器攻击每一击所造成的伤害值，已含加成。
@@ -1025,13 +987,13 @@ tagCharStatsDamageToHealth=生命窃取
 tagCharStatsDamageToHealthInfo=武器伤害用来回复生命的百分数。
 
 #Magical 魔法
-tagCharStatsCastSpeed=施法速度
+tagCharStatsCastSpeed=施法速度(CS)
 tagCharStatsCastSpeedInfo=人物相对于基础值的施法速度(包含整体速度)。
 
-tagCharStatsCooldownReduction=冷却时间缩短
+tagCharStatsCooldownReduction=冷却时间缩短(CDR)
 tagCharStatsCooldownReductionInfo=技能冷却时间缩短的百分数。通过装备获得的技能不享受冷却时间减少加成和特效。
 
-tagCharStatsManaCostReduction=技能的能量消耗减少
+tagCharStatsManaCostReduction=技能的能量消耗减少(SEC)
 tagCharStatsManaCostReductionInfo=减少技能施放所消耗能量值的百分数。
 
 tagCharStatsPercentHealthDamage=生命值百分比伤害
@@ -1201,28 +1163,28 @@ tagCharStatsProjDeflectChanceInfo=避开一次远程攻击的几率，无视该�
 tagCharStatsPhysicalResist=物理抗性
 tagCharStatsPhysicalResistInfo=对造成物理伤害和创伤伤害的攻击和技能的抗性。
 
-tagCharStatsDisruptionResist=打断施法抗性
+tagCharStatsDisruptionResist=^p打断施法抗性
 tagCharStatsDisruptionResistInfo=对能打断技能释放的攻击和法术的抗性。
 
-tagCharStatsLifeLeechResist=生命吸取抗性
+tagCharStatsLifeLeechResist=^p生命吸取抗性
 tagCharStatsLifeLeechResistInfo=对生命吸取攻击的抗性。
 
-tagCharStatsEnergyLeechResist=能量吸取抗性
+tagCharStatsEnergyLeechResist=^p能量吸取抗性
 tagCharStatsEnergyLeechResistInfo=对法力吸取的抗性。
 
-tagCharStatsTrapResist=禁锢效果抗性
+tagCharStatsTrapResist=^p禁锢效果抗性
 tagCharStatsTrapResistInfo=对陷阱禁锢效果的的抗性。
 
-tagCharStatsPetrifyResist=石化效果抗性
+tagCharStatsPetrifyResist=^p石化效果抗性
 tagCharStatsPetrifyResistInfo=对使你失去反抗能力的石化法术的抗性。
 
-tagCharStatsFreezeResist=冰冻效果抗性
+tagCharStatsFreezeResist=^p冰冻效果抗性
 tagCharStatsFreezeResistInfo=对使你冻结并失去反抗能力的法术的抗性。
 
-tagCharStatsSleepResist=昏睡效果抗性
+tagCharStatsSleepResist=^p昏睡效果抗性
 tagCharStatsSleepResistInfo=对使你昏睡的法术的抗性，昏睡效果会使你在被打醒之前不能作出任何反应。
 
-tagCharStatsSlowResist=减速效果抗性
+tagCharStatsSlowResist=^p减速效果抗性
 tagCharStatsSlowResistInfo=对所有能减缓你攻击、施法和移动能力的法术的抗性。
 
 #Retaliation反击
@@ -1317,7 +1279,7 @@ tagCharStatsItemLevel=平均物品等级
 tagCharStatsItemLevelInfo=你所有装备的平均物品等级。
 
 tagRecordTime=已用时间
-tagRecordTimeNumber={%d0}:{%d1}:{%d2}
+tagRecordTimeNumber={^d%d0}:{^t%d1}:{^s%d2}
 tagRecordTimeInfo=总游戏时间的天数，小时和分钟数。
 
 tagRecordMonsterKills=已击杀的怪物
@@ -1391,7 +1353,7 @@ CanNotBeSoldHere=这个店主不接受该物品。
 Sold=已售出
 
 
-#Crafting 锻造
+#Crafting 制作
 
 tagCrafting=合成
 tagInventorNamePlate=发明家
@@ -1555,7 +1517,7 @@ tagMapWindowName=本地地图
 tagRiftWindowName=裂缝地图
 tagWorldMapWindowName=世界地图
 
-tagMapSymbolAOI=出入口
+tagMapSymbolAOI=兴趣点
 tagMapSymbolAOIDesc=一处你可能感兴趣的地点。
 tagMapSymbolSmuggler=走私者
 tagMapSymbolSmugglerDesc=一名保存你的装备并能在各个角色之间转移装备的不法分子。
@@ -1595,7 +1557,7 @@ tagInfoTitle=信息
 tagInfoButtonYes=是
 tagInfoButtonNo=否
 tagInfoButtonOk=好
-tagGameOver=你死了！
+tagGameOver=^r你死了！
 
 SimpleStringFormat={%s0}
 SimpleStringsFormat={%s0}{%s1}
@@ -1637,12 +1599,12 @@ tagCharManaLimitReserveModifier={^E}预留能量值 {+%.0f0}%
 tagCharManaLimitReserveReductionModifier={^E}预留能量值减少效果提高 {%.0f0}%
 
 tagCharRunSpeed={%+.0f0}% {^k}移动速度
-tagCharSpellCastSpeed={%+.0f0}% {^p}施法速度
-tagCharAttackSpeed={%+.0f0}% {^p攻击速度
-tagCharTotalSpeedModifier={%+.0f0}% {^p}所有速度
+tagCharSpellCastSpeed={%+.0f0}% {^p}施法速度(CS)
+tagCharAttackSpeed={%+.0f0}% {^p}攻击速度(AS)
+tagCharTotalSpeedModifier={%+.0f0}% {^p}所有速度(TS)
 tagCharRunSpeedModifier={%+.0f0}% {^k}移动速度
-tagCharSpellCastSpeedModifier={%+.0f0}% {^p}施法速度
-tagCharAttackSpeedModifier={%+.0f0}% {^p}攻击速度
+tagCharSpellCastSpeedModifier={%+.0f0}% {^p}施法速度(CS)
+tagCharAttackSpeedModifier={%+.0f0}% {^p}攻击速度(AS)
 
 tagCharAttribute01R={%+.0f0}-{%.0f1} {^z}灵巧
 tagCharAttribute02R={%+.0f0}-{%.0f1} {^o}体格
@@ -1663,16 +1625,16 @@ tagCharManaLimitReserveReductionR=-({%.0f0}-{%.0f1}) {^E}预留能量消耗
 tagCharManaLimitReserveModifierR={+%.0f0}-{%.0f1}% {^E}预留能量
 tagCharManaLimitReserveReductionModifierR=-({%.0f0}-{%.0f1}%) {^E}预留能量
 tagCharRunSpeedR={%+.0f0}-{%.0f1}% {^k}移动速度
-tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% {^p}施法速度
-tagCharAttackSpeedR={%+.0f0}-{%.0f1}% {^p}攻击速度
-tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}% {^p}所有速度
+tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% {^p}施法速度(CS)
+tagCharAttackSpeedR={%+.0f0}-{%.0f1}% {^p}攻击速度(AS)
+tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}% {^p}所有速度(TS)
 tagCharRunSpeedModifierR={%+.0f0}-{%.0f1}% {^k}移动速度
-tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}% {^p}施法速度
-tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}% {^p}攻击速度
-tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} {^E}攻击能力
-tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} {^E}防御能力
-tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^E}攻击能力
-tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^E}防御能力
+tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}% {^p}施法速度(CS)
+tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}% {^p}攻击速度(AS)
+tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} {^E}攻击能力(OA)
+tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} {^E}防御能力(DA)
+tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^E}攻击能力(OA)
+tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^E}防御能力(DA)
 tagCharDefensiveBlockRecoveryReductionR=-({%.0f0}-%.0f1})% {^E}格挡恢复时间
 tagCharEnergyAbsorptionPercentR={%+.0f0}-{%.0f1}% {^E}敌人法术能量吸取
 tagCharDodgePercentR={%.0f0}-{%.0f1}% {^E}的几率无视近战攻击
@@ -1712,18 +1674,18 @@ SkillProjectileSpeedModifierR={^E}投射物飞行速度 {^H}{%+.0f0}%
 SkillManaCostReductionModifierR={^E}技能能量消耗减少效果提高 {^H}{%.0f0}%
 SkillCooldownReductionModifierR={^E}技能冷却时间缩短效果提高 {^H}{%.0f0}%
 
-tagDamageConversion={%.0f0}% {^E}的{%s1}转换为{%s2}
+tagDamageConversion={%.0f0}% {^E}的{%s1}^w转换为{%s2}
 tagDamageRemoval={^E}{%s1}减少 {^s}{%.0f0}%
-tagConversionPhysical=物理伤害
-tagConversionPierce=穿刺伤害
-tagConversionElemental=元素伤害
-tagConversionCold=冰冷伤害
-tagConversionFire=火焰伤害
-tagConversionPoison=酸性伤害
-tagConversionLightning=闪电伤害
-tagConversionLife=活力伤害
-tagConversionChaos=混乱伤害
-tagConversionAether=虚化伤害
+tagConversionPhysical=^k物理伤害
+tagConversionPierce=^s穿刺伤害
+tagConversionElemental=^l元素伤害
+tagConversionCold=^b冰冷伤害
+tagConversionFire=^r火焰伤害
+tagConversionPoison=^g酸性伤害
+tagConversionLightning=^y闪电伤害
+tagConversionLife=^o活力伤害
+tagConversionChaos=^f混乱伤害
+tagConversionAether=^t虚化伤害
 tagConversionStun=眩晕时间
 
 tagAttackSpeedNotSet=速度:未设定
@@ -1736,10 +1698,10 @@ tagAttackSpeedVeryFast=速度:非常快
 tagAttackSpeed={^S}每秒攻击{^W}{%.2f0}{^S}次
 tagAttackSpeedR={^S}每秒攻击{^W}{%.2f0}-{%.2f1}{^S}次
 
-tagCharOffensiveAbility={^E}攻击能力 {^H}{%+.0f0}
-tagCharDefensiveAbility={^E}防御能力 {^H}{%+.0f0}
-tagCharOffensiveAbilityModifier={^E}攻击能力 {^H}{%+.0f0}%
-tagCharDefensiveAbilityModifier={^E}防御能力 {^H}{%+.0f0}%
+tagCharOffensiveAbility={^E}攻击能力(OA) {^H}{%+.0f0}
+tagCharDefensiveAbility={^E}防御能力(DA) {^H}{%+.0f0}
+tagCharOffensiveAbilityModifier={^E}攻击能力(OA) {^H}{%+.0f0}%
+tagCharDefensiveAbilityModifier={^E}防御能力(DA) {^H}{%+.0f0}%
 
 tagCharDefensiveBlockRecoveryReduction={^E}格挡恢复时间 {^H}{-%.0f0}%
 tagCharEnergyAbsorptionPercent={^E}敌人法术能量吸收 {^H}{%+.0f0}%
@@ -1784,7 +1746,7 @@ Dexterity={^z}灵巧
 Intelligence={^c}精神
 Life={^f}生命
 Mana={^t}能量
-UnusedPointsText={%d0} 点可用点数
+UnusedPointsText={%d0} ^n点可用点数
 LifeText={%.0f0} 生命
 ManaText={%.0f0} 能量
 StrengthText={%.0f0} 体格
@@ -1805,8 +1767,8 @@ ShortLevel=等级 {%d0}
 HitFormat={%.0f0}
 CriticalHitFormat={%.0f0}
 CriticalHitFormatMult={%.0f0} (x{%.2f1})
-DurationCriticalHit=暴击
-DurationCriticalHitMult=暴击 (x{%.2f0})
+DurationCriticalHit=暴击(Crit)
+DurationCriticalHitMult=暴击(Crit) (x{%.2f0})
 tagMiss=未命中
 tagFumble=失误
 tagDodge=闪避
@@ -1824,14 +1786,14 @@ AttributePointFormat={%d0} 点属性点数
 MenuName=名字：
 MenuLevel=等级:{%d0}
 ItemSkillIncrement={^L}{%s1} {^E}技能等级 {^H}{+%d0}
-ItemMasteryIncrement={^g}<{^F}{%s1}{^g}> {^E}所有技能 {^H}{+%d0}
-ItemAllSkillIncrement={^y}所有技能 {^H}{+%d0}
+ItemMasteryIncrement={^L}{%s1} {^E}所有技能{^H}{+%d0}
+ItemAllSkillIncrement={^E}^y所有技能 {^H}{+%d0}
 ItemBasicAttributeBanner={^w}
 ItemBonusAttributeBanner={^b}
 tagPerSecond=每秒
 tagDPS=每秒 {%.1g0} 点伤害
 
-LevelRequirement=玩家等级
+LevelRequirement=^y玩家等级
 ShieldBlockAbsorption=格挡值 {%.0f0}%
 ShieldBlockRecoveryTime=格挡恢复时间 {%.2f0}
 MeetsRequirement=需要{%s0}:{%.0f1}
@@ -1897,7 +1859,7 @@ PressToAddUnusedDevotionPoints=左键点击来投入未使用的虔诚点数
 PressToActivateDevotion=左键点击以激活
 PressToAssignDevotion=左键点击以分配
 AssignDevotionForExp=必须进行分配来获取经验值
-SkillEnhancement=所有技能 +{%d0}
+SkillEnhancement=^y所有技能 +{%d0}
 NoSkillPointsToAdd=无可用技能点数
 NoDevotionPointsToAdd=没有可用的虔诚点数
 LockedDevotion=锁定 - 需要解锁前置的天星
@@ -1978,11 +1940,11 @@ tagShieldBlockInfo={%.0f0}% 的几率格挡 {^W}{%.0f1} 伤害
 
 
 
-SkillManaCostReduction={^E}技能能量消耗 {^H}-{%.0f0}%
-SkillCooldownReduction={^E}技能冷却时间缩短 {^H}{%.0f0}%
+SkillManaCostReduction={^E}技能能量消耗(SEC) {^H}-{%.0f0}%
+SkillCooldownReduction={^E}技能冷却时间缩短(CDR) {^H}{%.0f0}%
 SkillProjectileSpeedModifier={^E}投射物飞行速度 {^H}{%+.0f0}%
-SkillManaCostReductionModifier={^E}技能能量消耗减少效果提升 {^H}{%.0f0}%
-SkillCooldownReductionModifier={^E}技能冷却时间缩短效果提升 {^H}{%.0f0}%
+SkillManaCostReductionModifier={^E}技能能量消耗减少效(SEC)果提升 {^H}{%.0f0}%
+SkillCooldownReductionModifier={^E}技能冷却时间缩短(CDR)效果提升 {^H}{%.0f0}%
 
 GlobalChanceOfAllTag={^E}的几率:{^H}
 GlobalChanceOfOneTag={^E}随机触发下列效果之一:{^H}
@@ -2032,17 +1994,17 @@ tagDotLightning=遭受电击
 tagDotChaos=混乱
 tagDotAether=虚化
 tagDotVitality=活力衰减
-tagDotLifeLeech=生命吸取
-tagDotManaLeech=能量吸取
+tagDotLifeLeech=生命吸取(LS)
+tagDotManaLeech=能量吸取(EL)
 tagDotPhysical=内伤
-tagDotAttackSpeed=攻击速度
-tagDotCastSpeed=施法速度
+tagDotAttackSpeed=攻击速度(AS)
+tagDotCastSpeed=施法速度(CS)
 tagDotRunSpeed=奔跑速度
-tagDotOffensiveAbility=攻击能力
-tagDotDefensiveAbility=防御能力
+tagDotOffensiveAbility=攻击能力(OA)
+tagDotDefensiveAbility=防御能力(OA)
 tagDotFumble=近战攻击失手
 tagDotRangedFumble=远程瞄准失误
-tagDotTotalDamageReduction=全伤害
+tagDotTotalDamageReduction=全伤害(all)
 tagDotPhysicalDamageReduction=物理伤害
 tagDotElementalDamageReduction=元素伤害
 tagDotTotalResistReduction=全抗性
@@ -2059,31 +2021,31 @@ tagSecond={^E}秒
 tagSeconds={^E}秒
 DamagePerSecond={%.0f0}{^S} 点每秒伤害(装备后)
 DamagePerSecondOffHand={%.0f0} {^S}每秒伤害(副手)
-DamagePhysicalChance={%t0} ^e点物理伤害^-
-DamageBasePhysical={%t0} ^e点物理伤害^-
-DamageBasePierceRatio={%.0f0}% ^y穿刺转换^-
-DamageBasePierceRatioR={%.0f0}-{%.0f1}% ^y穿刺转换^-
-DamageBonusPhysical={%t0} ^e点物理伤害^-
-tagDamageBaseFire={%t0} ^r点火焰伤害^-
-tagDamageBaseLightning={%t0} ^c点闪电伤害^-
-tagDamageBaseCold={%t0} ^b点冰冷伤害^-
-tagDamageBaseVitality={%t0} ^f点活力伤害^-
-tagDamageBasePoison={%t0} ^g点酸性伤害^-
-tagDamageBaseChaos={%t0} ^o点混乱伤害^-
-tagDamageBaseAether={%t0} ^c点虚化伤害^-
-DamageCold={%t0} ^b冰冷伤害^-
-DamageFire={%t0} ^r火焰伤害^-
-DamageAether={%t0} ^t虚化伤害^-
-DamageChaos={%t0} ^o混乱伤害^-
-DamageLife={%t0} ^f活力伤害^-
-DamageLifeLeech={%t0}% ^r的攻击伤害转化为生命^-
-DamageLightning={%t0} ^c闪电伤害^-
-DamageElemental={%t0} ^l元素伤害^-
-DamageModifierElemental={%+.0f0}% ^l元素伤害^-
-DamageModifierElementalR={%+.0f0}-{%.0f1}% ^l元素伤害^-
-DamagePhysical=+{%t0} ^e物理伤害^-
-DamagePierce={%t0} ^y穿刺伤害^-
-DamagePoison={%t0} ^g酸性伤害^-
+DamagePhysicalChance={^k%t0} {^E}点物理伤害
+DamageBasePhysical={^k%t0} {^S}点物理伤害
+DamageBasePierceRatio={%.0f0}% {^S}^s穿刺转换
+DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}^s穿刺转换
+DamageBonusPhysical={^k%t0} {^E}点物理伤害
+tagDamageBaseFire={^r%t0} {^S}点火焰伤害
+tagDamageBaseLightning={^y%t0} {^S}点闪电伤害
+tagDamageBaseCold={^b%t0} {^S}点冰冷伤害
+tagDamageBaseVitality={^o%t0} {^S}点活力伤害
+tagDamageBasePoison={^g%t0} {^S}点酸性伤害
+tagDamageBaseChaos={^f%t0} {^S}点混乱伤害
+tagDamageBaseAether={^t%t0} {^S}点虚化伤害
+DamageCold={^b%t0} {^E}冰冷伤害
+DamageFire={^r%t0} {^E}火焰伤害
+DamageAether={^t%t0} {^E}虚化伤害
+DamageChaos={^f%t0} {^E}混乱伤害
+DamageLife={^o%t0} {^E}活力伤害
+DamageLifeLeech={%t0}% {^E}的攻击伤害转化为生命(LS)
+DamageLightning={^y%t0} {^E}闪电伤害
+DamageElemental={^l%t0} {^E}元素伤害
+DamageModifierElemental={^l%+.0f0}% {^E}元素伤害
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}元素伤害
+DamagePhysical=+{^k%t0} {^E}物理伤害
+DamagePierce={^s%t0} {^E}穿刺伤害
+DamagePoison={^g%t0} {^E}酸性伤害
 DamageKnockdown={^E}击倒目标{^H}{%t0}
 DamageStun={^E}眩晕目标 {%t0}
 DamageFreeze={^E}冻结目标 {%t0}
@@ -2100,28 +2062,28 @@ DamageManaDrain={%t0}% {^E}燃烧法力
 DamageManaBurnRatio= ({^E}造成的伤害为燃烧法力值的 {^H}{%.0f0}%)
 DamageModifierManaBurn={^E}法力燃烧造成的伤害提升 {^H}{%.0f0}%
 
-DamageDurationAttackSpeed=% {^E}降低敌人攻击速度
-DamageDurationCold= ^b点霜燃伤害^-
+DamageDurationAttackSpeed=% {^E}降低敌人攻击速度(AS)
+DamageDurationCold= {^E}点^b霜燃^n伤害
 DamageDurationReduced= {^E}防御减少
-DamageDurationFire= ^r点燃烧伤害^-
-DamageDurationLife= ^f点活力衰减伤害^-
-DamageDurationLifeLeach= ^r点生命吸取^-
-DamageDurationLightning= ^c点电击伤害^-
-DamageDurationManaLeach= ^t点能量吸取^-
-DamageDurationOffensiveAbility= {^E}点目标攻击能力降低
+DamageDurationFire= {^E}点^r燃烧^n伤害
+DamageDurationLife= {^E}点^o活力衰减^n伤害
+DamageDurationLifeLeach= {^E}点生命吸取
+DamageDurationLightning= {^E}点^y电击^n伤害
+DamageDurationManaLeach= {^E}点能量吸取
+DamageDurationOffensiveAbility= {^E}点目标攻击能力(OA)降低
 DamageDurationOffensiveReduction= {^E}点目标物理伤害降低
-DamageDurationDefensiveAbility= {^E}点目标防御能力降低
+DamageDurationDefensiveAbility= {^E}点目标防御能力(DA)降低
 DamageDurationDefensiveReduction= {^E}点目标护甲降低
-DamageDurationPhysical= ^e点创伤伤害^-
-DamageDurationPoison= ^g点毒素伤害^-
+DamageDurationPhysical= {^E}点^k创伤^n伤害
+DamageDurationPoison= {^E}点^g毒素^n伤害
 DamageDurationTotalSpeed=% {^E}减速目标
 DamageDurationRunSpeed=% {^E}目标移动速度降低
 DamageDurationSpellCastSpeed=% {^E}目标施法速度降低
-DamageDurationBleeding= ^m点流血伤害^-
-DamageDurationElemental= ^l元素燃烧^-
+DamageDurationBleeding= {^E}点^m流血^n伤害
+DamageDurationElemental= {^E}元素燃烧
 
-DamageTotalDamageReductionPercent=% {^E}目标伤害降低
-DamageTotalDamageReductionAbsolute= {^E}点目标伤害降低
+DamageTotalDamageReductionPercent=% {^E}目标伤害(all)降低
+DamageTotalDamageReductionAbsolute= {^E}点目标伤害(all)降低
 DamageTotalResistanceReductionPercent=% {^E}目标抗性降低
 DamagePhysicalReductionPercent=% {^E}减少目标的物理伤害
 DamageElementalReductionPercent=% {^E}减少目标的元素伤害
@@ -2133,28 +2095,28 @@ DamageElementalResistanceReductionAbsolute= {^E}减少目标的元素抗性
 DamageDurationFumble=% {^E}的几率目标攻击失误
 DamageDurationProjectileFumble=% {^E}的几率目标瞄准障碍
 
-DamageModifierPhysical={%+.0f0}% ^e物理伤害^-
-DamageModifierPhysicalR={%+.0f0}-{%.0f1}% ^e物理伤害^-
-DamageModifierPierceRatio={^H}+{%.0f0}% ^y穿刺转换^-
-DamageModifierPierceRatioR={^H}+{%.0f0}-{%.0f1}% ^y穿刺转换^- 
-DamageModifierPierce={%+.0f0}% ^y穿刺伤害^-
-DamageModifierPierceR={%+.0f0}-{%.0f1}% ^y穿刺伤害^-
-DamageModifierCold={%+.0f0}% ^b冰冷伤害^-
-DamageModifierColdR={%+.0f0}-{%.0f1}% ^b冰冷伤害^-
-DamageModifierFire={%+.0f0}% ^r火焰伤害^-
-DamageModifierFireR={%+.0f0}-{%.0f1}% ^r火焰伤害^-
-DamageModifierPoison={%+.0f0}% ^g酸性伤害^-
-DamageModifierPoisonR={%+.0f0}-{%.0f1}% ^g酸性伤害^-
-DamageModifierLightning={%+.0f0}% ^c闪电伤害^-
-DamageModifierLightningR={%+.0f0}-{%.0f1}% ^c闪电伤害^-
-DamageModifierLife={%+.0f0}% ^f活力伤害^-
-DamageModifierLifeR={%+.0f0}-{%.0f1}% ^f活力伤害^-
+DamageModifierPhysical={^k%+.0f0}% {^E}物理伤害
+DamageModifierPhysicalR={^k%+.0f0}-{%.0f1}% {^E}物理伤害
+DamageModifierPierceRatio={^H}+{%.0f0}% {^E}穿刺转换
+DamageModifierPierceRatioR={^H}+{%.0f0}-{%.0f1}% {^E}穿刺转换
+DamageModifierPierce={^s%+.0f0}% {^E}穿刺伤害
+DamageModifierPierceR={^s%+.0f0}-{%.0f1}% {^E}穿刺伤害
+DamageModifierCold={^b%+.0f0}% {^E}冰冷伤害
+DamageModifierColdR={^b%+.0f0}-{%.0f1}% {^E}冰冷伤害
+DamageModifierFire={^r%+.0f0}% {^E}火焰伤害
+DamageModifierFireR={^r%+.0f0}-{%.0f1}% {^E}火焰伤害
+DamageModifierPoison={^g%+.0f0}% {^E}酸性伤害
+DamageModifierPoisonR={^g%+.0f0}-{%.0f1}% {^E}酸性伤害
+DamageModifierLightning={^y%+.0f0}% {^E}闪电伤害
+DamageModifierLightningR={^y%+.0f0}-{%.0f1}% {^E}闪电伤害
+DamageModifierLife={^o%+.0f0}% {^E}活力伤害
+DamageModifierLifeR={^o%+.0f0}-{%.0f1}% {^E}活力伤害
 DamageModifierStun={%+.0f0}% {^E}眩晕持续时间
 DamageModifierStunR={%+.0f0}-{%.0f1}% {^E}击晕时间
-DamageModifierChaos={%+.0f0}% ^o混乱伤害^-
-DamageModifierChaosR={%+.0f0}-{%.0f1}% ^o混乱伤害^-
-DamageModifierAether={%+.0f0}% ^t虚化伤害^-
-DamageModifierAetherR={%+.0f0}-{%.0f1}% ^t虚化伤害^-
+DamageModifierChaos={^f%+.0f0}% {^E}混乱伤害
+DamageModifierChaosR={^f%+.0f0}-{%.0f1}% {^E}混乱伤害
+DamageModifierAether={^t%+.0f0}% {^E}虚化伤害
+DamageModifierAetherR={^t%+.0f0}-{%.0f1}% {^E}虚化伤害
 DamageModifierKnockdown={%+.0f0}% {^E}击倒时间
 DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}击倒时间
 DamageModifierTrap={%+.0f0}% {^E}陷阱持续时间
@@ -2164,35 +2126,35 @@ DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}冻结持续时间
 DamageModifierPetrify={%+.0f0}% {^E}石化持续时间
 DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}石化持续时间
 
-DamageDurationModifierPhysical={%+.0f0}% ^e创伤伤害^-
-DamageDurationModifierBleeding={%+.0f0}% ^m流血伤害^-
-DamageDurationModifierCold={%+.0f0}% ^b霜燃伤害^-
-DamageDurationModifierFire={%+.0f0}% ^r燃烧伤害^-
-DamageDurationModifierPoison={%+.0f0}% ^g毒素伤害^-
-DamageDurationModifierLightning={%+.0f0}% ^c电击伤害^-
-DamageDurationModifierLife={%+.0f0}% ^f活力衰减^-
+DamageDurationModifierPhysical={^k%+.0f0}% {^E}创伤伤害
+DamageDurationModifierBleeding={^m%+.0f0}% {^E}流血伤害
+DamageDurationModifierCold={^b%+.0f0}% {^E}霜燃伤害
+DamageDurationModifierFire={^r%+.0f0}% {^E}燃烧伤害
+DamageDurationModifierPoison={^g%+.0f0}% {^E}毒素伤害
+DamageDurationModifierLightning={^y%+.0f0}% {^E}电击伤害
+DamageDurationModifierLife={^o%+.0f0}% {^E}活力衰减
 DamageDurationModifierAttackSpeed={%+.0f0}% {^E}攻击减速
 DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}施法减速
 DamageDurationModifierRunSpeed={%+.0f0}% {^E}移动减速
-DamageDurationModifierLifeLeach={%+.0f0}% ^r生命吸取伤害^-
-DamageDurationModifierManaLeach={%+.0f0}% ^t能量吸取^-
-DamageDurationModifierOffensiveAbility={%+.0f0}% {^E}目标进攻能力降低
-DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}目标防御能力降低
+DamageDurationModifierLifeLeach={%+.0f0}% {^E}生命吸取伤害
+DamageDurationModifierManaLeach={%+.0f0}% {^E}能量吸取
+DamageDurationModifierOffensiveAbility={%+.0f0}% {^E}目标进攻能力(OA)降低
+DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}目标防御能力(DA)降低
 DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}目标物理伤害降低
 ImprovedTimeFormat= {^E}持续时间 {^H}{%+.0f0}%
 ImprovedTimeFormatR= {^E}持续时间增加 {^H}{%+.0f0}-{%.0f1}%
 IncreasedDuration= {^E}{%s1}的持续时间 {^H}{%+.0f0}%
 
-RetaliationCold={%t0} ^b点冰冷反击^-
-RetaliationFire={%t0} ^r点火焰反击^-
-RetaliationLife={%t0} ^f点活力反击^-
-RetaliationLightning={%t0} ^c点闪电反击^-
-RetaliationElemental={%t0} ^l点元素反击^-
-RetaliationPhysical={%t0} ^e点物理反击^-
-RetaliationPierce={%t0} ^y点穿刺反击^-
-RetaliationPoison={%t0} ^g点毒酸反击^-
-RetaliationAether={%t0} ^t点虚化反击^-
-RetaliationChaos={%t0} ^o点混乱反击^-
+RetaliationCold={^b%t0} {^E}点冰冷反击
+RetaliationFire={^r%t0} {^E}点火焰反击
+RetaliationLife={^o%t0} {^E}点活力反击
+RetaliationLightning={^y%t0} {^E}点闪电反击
+RetaliationElemental={^l%t0} {^E}点元素反击
+RetaliationPhysical={^k%t0} {^E}点物理反击
+RetaliationPierce={^s%t0} {^E}点穿刺反击
+RetaliationPoison={^g%t0} {^E}点毒酸反击
+RetaliationAether={^t%t0} {^E}点虚化反击
+RetaliationChaos={^f%t0} {^E}点混乱反击
 RetaliationStun={%t0} 眩晕反击
 RetaliationFreeze={%t0} 冻结反击
 RetaliationPetrify={%t0} 石化反击
@@ -2202,100 +2164,100 @@ RetaliationFear={%t0} 恐惧反击
 RetaliationConfusion={%t0} 迷惑反击
 RetaliationSleep={%t0} 昏睡反击
 RetaliationPercentCurrentLife={^E}反击造成敌人当前生命减少 {^H}{%t0}%
-RetaliationDurationAttackSpeed=% {^E}降低攻击速度反击
-RetaliationDurationCold= ^b点霜燃反击^-
-RetaliationDurationDefensiveAbility= {^E}降低防御能力反击
-RetaliationDurationFire= ^r点燃烧反击^-
-RetaliationDurationLife= ^f点活力衰减反击^-
-RetaliationDurationLifeLeach= ^r点生命吸取反击^-
-RetaliationDurationLightning= ^c点电击反击^-
-RetaliationDurationManaLeach= ^t点能量吸取反击^-
-RetaliationDurationOffensiveAbility= {^E}降低攻击能力反击
+RetaliationDurationAttackSpeed=% {^E}降低攻击速度(AS)反击
+RetaliationDurationCold= {^E}点^b霜燃^n反击
+RetaliationDurationDefensiveAbility= {^E}降低防御能力(DA)反击
+RetaliationDurationFire= {^E}点^r燃烧^n反击
+RetaliationDurationLife= {^E}^o活力衰减^n反击
+RetaliationDurationLifeLeach= {^E}点生命吸取反击
+RetaliationDurationLightning= {^E}点电击反击
+RetaliationDurationManaLeach= {^E}点能量吸取反击
+RetaliationDurationOffensiveAbility= {^E}降低攻击能力(OA)反击
 RetaliationDurationOffensiveReduction= {^E}伤害减少反击
-RetaliationDurationPhysical= ^e点创伤反击^-
-RetaliationDurationBleeding= ^m点流血反击^-
-RetaliationDurationPoison= ^g点毒素反击^-
+RetaliationDurationPhysical= {^E}点^k创伤^n反击
+RetaliationDurationBleeding= {^E}点^m流血^n反击
+RetaliationDurationPoison= {^E}点持续^g毒素^n反击
 RetaliationDurationRunSpeed=% {^E}降低移动速度反击
 RetaliationDurationSpellCastSpeed=% {^E}降低施法速度反击
-RetaliationModifierPhysical={%+.0f0}% ^e物理反击^-
-RetaliationModifierPierceRatio={%+.0f0}% ^y穿刺反击^-
-RetaliationModifierPierce={%+.0f0}% ^y穿刺反击^-
-RetaliationModifierCold={%+.0f0}% ^b冰冷反击^-
-RetaliationModifierFire={%+.0f0}% ^r火焰反击^-
-RetaliationModifierPoison={%+.0f0}% ^g酸性反击^-
-RetaliationModifierLightning={%+.0f0}% ^c闪电反击^-
-RetaliationModifierAether={%+.0f0}% ^t虚化反击^-
-RetaliationModifierChaos={%+.0f0}% ^o混乱反击^-
-RetaliationModifierElemental={%+.0f0}% ^l元素反击^-
-RetaliationModifierLife={%+.0f0}% ^f活力伤害反击^-
+RetaliationModifierPhysical={^k%+.0f0}% {^E}物理伤害反击
+RetaliationModifierPierceRatio={^s%+.0f0}% {^E}穿刺反击
+RetaliationModifierPierce={^s%+.0f0}% {^E}穿刺反击
+RetaliationModifierCold={^b%+.0f0}% {^E}冰冷反击
+RetaliationModifierFire={^r%+.0f0}% {^E}火焰反击
+RetaliationModifierPoison={^g%+.0f0}% {^E}酸性反击
+RetaliationModifierLightning={^y%+.0f0}% {^E}闪电反击
+RetaliationModifierAether={^t%+.0f0}% {^E}虚化反击
+RetaliationModifierChaos={^f%+.0f0}% {^E}混乱反击
+RetaliationModifierElemental={^l%+.0f0}% {^E}元素反击
+RetaliationModifierLife={^o%+.0f0}% {^E}活力伤害反击
 RetaliationModifierStun={%+.0f0}% {^E}眩晕反击
 RetaliationModifierSleep={%+.0f0}% {^E}昏睡反击
-RetaliationDurationModifierPhysical={%+.0f0}% ^e创伤反击^-
-RetaliationDurationModifierBleeding={%+.0f0}% ^m流血反击^-
-RetaliationDurationModifierCold={%+.0f0}% ^b霜燃反击^-
-RetaliationDurationModifierDefensiveAbility={%+.0f0}% {^E}降低防御能力反击
-RetaliationDurationModifierFire={%+.0f0}% ^r燃烧反击^-
-RetaliationDurationModifierLife={%+.0f0}% ^f活力衰减反击^-
-RetaliationDurationModifierLifeLeach={%+.0f0}% ^r生命吸取反击^-
-RetaliationDurationModifierLightning={%+.0f0}% ^c电击反击^-
-RetaliationDurationModifierManaLeach={%+.0f0}% ^t能量吸取反击^-
-RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}降低攻击能力反击
+RetaliationDurationModifierPhysical={^k%+.0f0}% {^E}创伤反击
+RetaliationDurationModifierBleeding={^d%+.0f0}% {^E}流血反击
+RetaliationDurationModifierCold={^b%+.0f0}% {^E}霜燃反击
+RetaliationDurationModifierDefensiveAbility={%+.0f0}% {^E}降低防御能力(DA)反击
+RetaliationDurationModifierFire={^r%+.0f0}% {^E}燃烧反击
+RetaliationDurationModifierLife={^o%+.0f0}% {^E}活力衰减反击
+RetaliationDurationModifierLifeLeach={%+.0f0}% {^E}生命吸取反击
+RetaliationDurationModifierLightning={^y%+.0f0}% {^E}电击反击
+RetaliationDurationModifierManaLeach={%+.0f0}% {^E}能量吸取反击
+RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}降低攻击能力(OA)反击
 RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}降低伤害反击
-RetaliationDurationModifierPoison={%+.0f0}% ^g毒素反击^-
+RetaliationDurationModifierPoison={^g%+.0f0}% {^E}持续毒素反击
 
 DefenseAbsorptionProtection={%.0f0} 点护甲
 DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} 点护甲
-DefenseAbsorptionProtectionPlus=+{%.0f0} {^b}点护甲
-DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^b}点护甲
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}点护甲
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}点护甲
 DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}点护甲加成
 DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}点护甲加成
-DefensePhysical={%.0f0}% {^b}物理抗性
-DefensePhysicalR={%.0f0}-{%.0f1}% {^b}物理抗性
-DefensePierce={%.0f0}% {^E}穿刺抗性
-DefensePierceR={%.0f0}-{%.0f1}% {^E}穿刺抗性
-DefenseElementalResistance={%.0f0}% {^E}元素抗性
-DefenseElementalResistanceR={%.0f0}-{%.0f1}% {^E}元素抗性
-DefenseCold={%.0f0}% {^E}冰冷抗性
-DefenseColdR={%.0f0}-{%.0f1}% {^E}冰冷抗性
-DefenseFire={%.0f0}% {^E}火焰抗性
-DefenseFireR={%.0f0}-{%.0f1}% {^E}火焰抗性
-DefenseAether={%.0f0}% {^E}虚化抗性
-DefenseAetherR={%.0f0}-{%.0f1}% {^E}虚化抗性
-DefenseChaos={%.0f0}% {^E}混乱抗性
-DefenseChaosR={%.0f0}-{%.0f1}% {^E}混乱抗性
-DefensePoison={%.0f0}% {^E}毒酸抗性
-DefensePoisonR={%.0f0}-{%.0f1}% {^E}毒酸抗性
-DefenseLightning={%.0f0}% {^E}闪电抗性
-DefenseLightningR={%.0f0}-{%.0f1}% {^E}闪电抗性
-DefenseLife={%.0f0}% {^E}活力抗性
-DefenseLifeR={%.0f0}-{%.0f1}% {^E}活力抗性
-DefenseStun={^E}减少 {^H}{%.0f0}% {^p}的眩晕时间
-DefenseStunNegative={%.0f0}% {^p}眩晕抗性
-DefenseStunR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^p}的眩晕时间
-DefenseLifeLeach={%.0f0}% {^E}生命吸取抗性
-DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}生命吸取抗性
-DefenseManaLeach={%.0f0}% {^E}能量吸取抗性
-DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}能量吸取抗性
-DefenseTrap={^E}减少 {^H}{%.0f0}% {^p}诱捕持续时间
-DefenseTrapNegative={%.0f0}% {^p}诱捕抗性
-DefenseTrapR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^p}诱捕持续时间
-DefenseFreeze={^E}减少 {^H}{%.0f0}% {^p}的冻结持续时间
-DefenseFreezeNegative={%.0f0}% {^p}冻结抗性
-DefenseFreezeR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^p}冻结持续时间
-DefenseKnockdown={^E}减少 {^H}{%.0f0}% {^E}击倒持续时间
-DefenseKnockdownNegative={%.0f0}% {^E}击倒抗性
-DefenseKnockdownR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^E}击倒持续时间
-DefensePetrify={^E}减少 {^H}{%.0f0}% {^p}石化持续时间
-DefensePetrifyNegative={%.0f0}% {^p}石化抗性
-DefensePetrifyR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^p}石化持续时间
-DefenseTaunt={%.0f0}% {^E}的嘲讽抵抗
-DefenseConvert={^E}减少 {^H}{%.0f0}% {^E}思维控制持续时间
-DefenseFear={^E}减少 {^H}{%.0f0} %{^E}恐惧持续时间
-DefenseConfusion={^E}减少 {^H}{%.0f0}% {^E}迷惑持续时间
-DefenseDisruption={%.0f0}% {^p}技能打断保护
+DefensePhysical={^k%.0f0}% {^E}物理抗性
+DefensePhysicalR={^k%.0f0}-{%.0f1}% {^E}物理抗性
+DefensePierce={^s%.0f0}% {^E}穿刺抗性
+DefensePierceR={^s%.0f0}-{%.0f1}% {^E}穿刺抗性
+DefenseElementalResistance={^l%.0f0}% {^E}元素抗性
+DefenseElementalResistanceR={^l%.0f0}-{%.0f1}% {^E}元素抗性
+DefenseCold={^b%.0f0}% {^E}冰冷抗性
+DefenseColdR={^b%.0f0}-{%.0f1}% {^E}冰冷抗性
+DefenseFire={^r%.0f0}% {^E}火焰抗性
+DefenseFireR={^r%.0f0}-{%.0f1}% {^E}火焰抗性
+DefenseAether={^t%.0f0}% {^E}虚化抗性
+DefenseAetherR={^t%.0f0}-{%.0f1}% {^E}虚化抗性
+DefenseChaos={^f%.0f0}% {^E}混乱抗性
+DefenseChaosR={^f%.0f0}-{%.0f1}% {^E}混乱抗性
+DefensePoison={^g%.0f0}% {^E}毒酸抗性
+DefensePoisonR={^g%.0f0}-{%.0f1}% {^E}毒酸抗性
+DefenseLightning={^y%.0f0}% {^E}闪电抗性
+DefenseLightningR={^y%.0f0}-{%.0f1}% {^E}闪电抗性
+DefenseLife={^o%.0f0}% {^E}活力抗性
+DefenseLifeR={^o%.0f0}-{%.0f1}% {^E}活力抗性
+DefenseStun={^E}减少 {^H}{%.0f0}% {^E}^p的眩晕时间
+DefenseStunNegative={%.0f0}% {^E}^p眩晕抗性
+DefenseStunR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^E}^p的眩晕时间
+DefenseLifeLeach={%.0f0}% {^E}^p生命吸取抗性
+DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}^p生命吸取抗性
+DefenseManaLeach={%.0f0}% {^E}^p能量吸取抗性
+DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}^p能量吸取抗性
+DefenseTrap={^E}减少 {^H}{%.0f0}% {^E}^p诱捕持续时间
+DefenseTrapNegative={%.0f0}% {^E}^p诱捕抗性
+DefenseTrapR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^E}^p诱捕持续时间
+DefenseFreeze={^E}减少 {^H}{%.0f0}% {^E}^p的冻结持续时间
+DefenseFreezeNegative={%.0f0}% {^E}^p冻结抗性
+DefenseFreezeR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^E}^p冻结持续时间
+DefenseKnockdown={^E}减少 {^H}{%.0f0}% {^E}^p击倒持续时间
+DefenseKnockdownNegative={%.0f0}% {^E}^p击倒抗性
+DefenseKnockdownR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^E}^p击倒持续时间
+DefensePetrify={^E}减少 {^H}{%.0f0}% {^E}^p石化持续时间
+DefensePetrifyNegative={%.0f0}% {^E}^p石化抗性
+DefensePetrifyR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^E}^p石化持续时间
+DefenseTaunt={%.0f0}% {^E}^p的嘲讽抵抗
+DefenseConvert={^E}减少 {^H}{%.0f0}% {^E}^p思维控制持续时间
+DefenseFear={^E}减少 {^H}{%.0f0} %{^E}^p恐惧持续时间
+DefenseConfusion={^E}减少 {^H}{%.0f0}% {^E}^p迷惑持续时间
+DefenseDisruption={%.0f0}% {^E}^p技能打断保护
 DefensePercentLife={%.0f0}% {^E}活力减少抗性
-DefenseBleeding={%.0f0}% {^E}流血抗性
-DefenseBleedingR={%.0f0}-{%.0f1}% {^E}流血抗性
+DefenseBleeding={^m%.0f0}% {^E}流血抗性
+DefenseBleedingR={^m%.0f0}-{%.0f1}% {^E}流血抗性
 DefenseBlock={%.0f0} {^E}伤害格挡
 DefenseReflect={%.0f0}% {^E}伤害反弹
 DefenseReflectR={^H}{%.0f0}-{%.0f1}% {^E}伤害反弹
@@ -2310,10 +2272,10 @@ DefenseLifeLeachDuration={^E}生命吸取持续时间减少 {^H}{%.0f0}%
 DefenseManaLeachDuration={^E}能量吸取持续时间 {^H}{%.0f0}%
 DefensePercentCurrentLife=+{%.0f0}% {^E}生命值百分比减少抗性
 DefenseManaBurnRatio=+{%.0f0}% {^E}法力燃烧抗性
-DefenseProtectionModifier={^b}护甲提高 {^H}{%.0f0}%
-DefenseProtectionModifierR={^b}护甲提高 {^H}{%.0f0}-{%.0f1}%
-DefenseAbsorptionModifier={^b}护甲吸收提高 {^H}{%.0f0}%
-DefenseAbsorptionModifierR={^b}护甲吸收提高 {^H}{%.0f0}-{%.0f1}%
+DefenseProtectionModifier={^E}护甲提高 {^H}{%.0f0}%
+DefenseProtectionModifierR={^E}护甲提高 {^H}{%.0f0}-{%.0f1}%
+DefenseAbsorptionModifier={^E}护甲吸收提高 {^H}{%.0f0}%
+DefenseAbsorptionModifierR={^E}护甲吸收提高 {^H}{%.0f0}-{%.0f1}%
 DefensePhysicalModifier={^E}总物理抗性加成 {^H}{%.0f0}%
 DefensePierceModifier={^E}总穿刺抗性加成 {^H}{%.0f0}%
 DefenseColdModifier={^E}总冰冷抗性加成 {^H}{%.0f0}%
@@ -2342,24 +2304,24 @@ DefenseLightningDurationModifier={^E}电击持续时间减少 {^H}{%+.0f0}%
 DefenseLifeDurationModifier={^E}活力衰减持续时间减少 {^H}{%+.0f0}%
 DefenseLifeLeachDurationModifier={^E}生命吸取持续时间减少 {^H}{%+.0f0}%
 DefenseManaLeachDurationModifier={^E}能量吸取持续时间减少 {^H}{%+.0f0}%
-DefensePhysicalMaxResist={%+.0f0}% {^E}最大物理抗性
-DefensePhysicalMaxResistR={%+.0f0}-{%.0f1}% {^E}最大物理抗性
-DefensePierceMaxResist={%+.0f0}% {^E}最大穿刺抗性
-DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^E}最大穿刺抗性
-DefenseColdMaxResist={%+.0f0}% {^E}最大冰冷抗性
-DefenseColdMaxResistR={%+.0f0}-{%.0f1}% {^E}最大冰冷抗性
-DefenseFireMaxResist={%+.0f0}% {^E}最大火焰抗性
-DefenseFireMaxResistR={%+.0f0}-{%.0f1}% {^E}最大火焰抗性
-DefenseAetherMaxResist={%+.0f0}% {^E}最大虚化抗性
-DefenseAetherMaxResistR={%+.0f0}-{%.0f1}% {^E}最大虚化抗性
-DefenseChaosMaxResist={%+.0f0}% {^E}最大混乱抗性
-DefenseChaosMaxResistR={%+.0f0}-{%.0f1}% {^E}最大混乱抗性
-DefensePoisonMaxResist={%+.0f0}% {^E}最大毒酸抗性
-DefensePoisonMaxResistR={%+.0f0}-{%.0f1}% {^E}最大毒酸抗性
-DefenseLightningMaxResist={%+.0f0}% {^E}最大闪电抗性
-DefenseLightningMaxResistR={%+.0f0}-{%.0f1}% {^E}最大闪电抗性
-DefenseLifeMaxResist={%+.0f0}% {^E}最大活力抗性
-DefenseLifeMaxResistR={%+.0f0}-{%.0f1}% {^E}最大活力抗性
+DefensePhysicalMaxResist={^k%+.0f0}% {^E}最大物理抗性
+DefensePhysicalMaxResistR={^k%+.0f0}-{%.0f1}% {^E}最大物理抗性
+DefensePierceMaxResist={^s%+.0f0}% {^E}最大穿刺抗性
+DefensePierceMaxResistR={^s%+.0f0}-{%.0f1}% {^E}最大穿刺抗性
+DefenseColdMaxResist={^b%+.0f0}% {^E}最大冰冷抗性
+DefenseColdMaxResistR={^b%+.0f0}-{%.0f1}% {^E}最大冰冷抗性
+DefenseFireMaxResist={^r%+.0f0}% {^E}最大火焰抗性
+DefenseFireMaxResistR={^r%+.0f0}-{%.0f1}% {^E}最大火焰抗性
+DefenseAetherMaxResist={^t%+.0f0}% {^E}最大虚化抗性
+DefenseAetherMaxResistR={^t%+.0f0}-{%.0f1}% {^E}最大虚化抗性
+DefenseChaosMaxResist={^f%+.0f0}% {^E}最大混乱抗性
+DefenseChaosMaxResistR={^f%+.0f0}-{%.0f1}% {^E}最大混乱抗性
+DefensePoisonMaxResist={^g%+.0f0}% {^E}最大毒酸抗性
+DefensePoisonMaxResistR={^g%+.0f0}-{%.0f1}% {^E}最大毒酸抗性
+DefenseLightningMaxResist={^y%+.0f0}% {^E}最大闪电抗性
+DefenseLightningMaxResistR={^y%+.0f0}-{%.0f1}% {^E}最大闪电抗性
+DefenseLifeMaxResist={^o%+.0f0}% {^E}最大活力抗性
+DefenseLifeMaxResistR={^o%+.0f0}-{%.0f1}% {^E}最大活力抗性
 DefenseStunMaxResist={%+.0f0}% {^E}最大眩晕时间减少
 DefenseStunMaxResistR={%+.0f0}-{%.0f1}% {^E}最大眩晕时间减少
 DefenseLifeLeachMaxResist={%+.0f0}% {^E}最大生命吸取抗性
@@ -2372,14 +2334,14 @@ DefenseFreezeMaxResist={%+.0f0}% {^E}最大冰冻持续时间减少
 DefenseFreezeMaxResistR={%+.0f0}-{%.0f1}% {^E}最大冰冻持续时间减少
 DefensePetrifyMaxResist={%+.0f0}% {^E}最大石化持续时间减少
 DefensePetrifyMaxResistR={%+.0f0}-{%.0f1}% {^E}最大石化持续时间减少
-DefenseDisruptionMaxResist={%+.0f0}% {^E}最大技能打断保护
-DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}最大技能打断保护
-DefenseBleedingMaxResist={%+.0f0}% {^E}最大流血抗性
-DefenseBleedingMaxResistR={%+.0f0}-{%.0f1}% {^E}最大流血抗性
+DefenseDisruptionMaxResist={%+.0f0}% {^E}^p最大技能打断保护
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}^p最大技能打断保护
+DefenseBleedingMaxResist={^m%+.0f0}% {^E}最大流血抗性
+DefenseBleedingMaxResistR={^m%+.0f0}-{%.0f1}% {^E}最大流血抗性
 DefenseSleepMaxResist={%+.0f0}% {^E}最大昏睡抗性
 DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}最大昏睡抗性
-DefenseAllMaxResist={%+.0f0}% {^o}最大全抗性
-DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^o}最大全抗性
+DefenseAllMaxResist={%+.0f0}% {^E}最大全抗性
+DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}最大全抗性
 DefenseReflectResist={%.0f0}% {^E}反弹伤害降低
 DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}反弹伤害降低
 
@@ -2392,17 +2354,17 @@ RacialBonusRaceName={%s0}
 
 tagDamageSleep={^E}使目标昏睡 {%t0}
 tagDamageModifierSleep={%+.0f0}% {^E}昏睡伤害
-tagDefenseSleep={%.0f0}% {^E}昏睡抗性
-tagDefenseSleepModifier={%+.0f0}% {^E}昏睡抗性
-tagDamageModifierTotalDamage={%+.0f0}% {^o}到所有类型伤害
-tagDamageModifierCritDamage={%+.0f0}% {^o}暴击伤害
-tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^E}暴击伤害
-tagDamageModifierDamageMult={^W}总伤害修正 {^H}{%.0f0}% 
+tagDefenseSleep={%.0f0}% {^E}^p昏睡抗性
+tagDefenseSleepModifier={%+.0f0}% {^E}^p昏睡抗性
+tagDamageModifierTotalDamage={%+.0f0}% {^E}到所有类型伤害
+tagDamageModifierCritDamage={%+.0f0}% {^E}暴击(Crit)伤害
+tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^E}暴击(Crit)伤害
+tagDamageModifierDamageMult={^E}总伤害修正 {^H}{%.0f0}%
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}到所有类型反击伤害
 tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}到所有类型反击伤害
-tagRetaliationModifierDamageMult={^W}总反击伤害修正 {^H}{%.0f0}%
-tagTotalSpeedResistance={%.0f0}% {^p}减速抗性
-tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^p}减速抗性
+tagRetaliationModifierDamageMult={^E}总反击伤害修正 {^H}{%.0f0}%
+tagTotalSpeedResistance={%.0f0}% {^E}^p减速抗性
+tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}^p减速抗性
 tagMindcontrolledMonster=思维控制
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
 tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
@@ -2424,7 +2386,7 @@ tagItemUseDirections=[右键点击来使用]
 
 tagInspectTitle=查看
 tagInspectOption=查看玩家
-tagInspectWarning=该玩家超出查看距离。
+tagInspectWarning=^r该玩家超出查看距离。
 tagGroup01=PVP开启
 tagGroup02=自动组队开启
 tagAutoItemSkill=(从物品获取-被动激活)
@@ -2528,8 +2490,8 @@ tagMPMessageBan={%t0}已被从游戏中封禁。
 tagMPMessageGameJoin={%t0}已加入游戏。游戏难度等级已根据人数调整。
 tagMPMessageGameLeave={%t0}已离开游戏。
 tagMPQuestionBan=你确定要从游戏中封禁{%t0}吗？
-tagMPInviteAccept=接受
-tagMPInviteDeny=拒绝
+tagMPInviteAccept=^g接受
+tagMPInviteDeny=^g拒绝
 tagMPStats=游戏状态
 tagMPMapName=地图名：
 tagMPServerName=服务器名：
@@ -2544,13 +2506,13 @@ tagMPNameLevel={%t0} ({%d1})
 tagMPClass={%s0}
 tagMPLocation={%s0}
 tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
-tagTradeError01={%t0}正在与其他玩家交易。
-tagTradeError02={%t0}拒绝了你的交易请求。
+tagTradeError01={%t0}^r正在与其他玩家交易。
+tagTradeError02={%t0}^m拒绝了你的交易请求^y。
 tagTradeError03={%t0}请求交易。
-tagTradeError04=你的物品栏没有足够的空间来接受这笔交易。
+tagTradeError04=^o你的物品栏没有足够的空间来接受这笔交易。
 tagTradeButton01=交易
 tagTradeButton02=取消
-tagTradeDistance=该玩家超出交易距离。
+tagTradeDistance=^r该玩家超出交易距离。
 tagChatGroup=队伍
 tagChatAll=所有人
 tagChatFriends=好友

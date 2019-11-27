@@ -1193,7 +1193,7 @@ tagItemSkillC084Name=瘴气
 tagItemSkillC084Desc=释放一片毒气之云窒息并使敌人混乱。
 
 tagItemSkillC085Name=召唤枯萎者 ~ 裂隙之灾
-tagItemSkillC085Desc=从深渊中召唤裂隙之灾，它将听命于你。^o同时只能召唤一只裂隙之灾。裂隙之灾会受到战宠加成影响。
+tagItemSkillC085Desc=从深渊中召唤裂隙之灾，它将听命于你。^o裂隙之灾会受到战宠加成影响。
 tagItemSkillC085PetSkillName01=酸液喷吐
 tagItemSkillC085PetSkillName02=剧毒新星
 
@@ -1325,8 +1325,8 @@ tagItemSkillC127Desc=从你身上放射出灌注了纯净虚化能量的闪电�
 tagItemSkillC128Name=萨迪厄斯之眼
 tagItemSkillC128Desc=萨迪厄斯之眼为你揭示脆弱敌人的弱点。
 
-tagItemSkillC129Name=灼烧弹药
-tagItemSkillC129Desc=用枪械发射一枚可以点燃任何物体并有极大概率穿透敌人的的灼烧弹药。^o使用默认武器攻击时激活。
+tagItemSkillC129Name=榴弹
+tagItemSkillC129Desc=用枪械发射一枚榴弹穿透敌人。^o使用默认武器攻击时激活。
 
 tagItemSkillC130Name=邪恶契约
 tagItemSkillC130Desc=与你的仆从订立一份邪恶契约，增强你与虚空黑暗之力的联系。^o这项技能必须保持开启以持续生效。
@@ -1401,7 +1401,7 @@ tagItemSkillD021Name=虚化冲击波
 tagItemSkillD021Desc=一阵虚化能量冲击将攻击你的敌人击退。
 
 tagItemSkillD022Name=虚化烈焰
-tagItemSkillD022Desc=从敌人脚下喷发出一阵纯净的奥术火焰。^o需装备施法副手。
+tagItemSkillD022Desc=从敌人脚下喷发出一阵纯净的奥术火焰。^o需要副手法器。
 
 tagItemSkillD023Name=虚化奔流
 tagItemSkillD023Desc=从你体内爆发出纯净的奥术能量并在敌人之间奔涌。
@@ -1795,7 +1795,7 @@ tagItemSkillD150Name=堕落灾疫
 tagItemSkillD150Desc=释放德里格的七种灾疫之一，一种强力的迷惑敌人并快速散播的灾疫。
 
 tagItemSkillD151Name=德里格的灾疫
-tagItemSkillD151Desc=释放巫神的至高法术，第九灾疫，一种使你的敌人满目疮痍的恶性病毒。
+tagItemSkillD151Desc=释放巫神的至高法术，一种使你的敌人满目疮痍的恶性病毒。
 
 tagItemSkillD152Name=疲劳灾疫
 tagItemSkillD152Desc=释放德里格的七种灾疫之一，一种强力的使人疲惫不堪并迅速传播的灾疫。
@@ -2419,7 +2419,7 @@ tagRelicSkillD020Name=曼海尔的壁垒
 tagRelicSkillD020Desc=掌握曼海尔的守护之灵，为你和你的队友抵挡一定伤害。
 
 tagRelicSkillD021Name=元素混乱
-tagRelicSkillD021Desc=你冒着施法中断的风险，谨慎地平衡着元素力量。释放一股让你的敌人后悔靠近你的力量。^o需要装备法器副手。
+tagRelicSkillD021Desc=你冒着施法中断的风险，谨慎地平衡着元素力量。释放一股让你的敌人后悔靠近你的力量。
 
 
 
@@ -2537,17 +2537,17 @@ tagDevotionAffinity04Info=你所拥有的秩序亲和点数，数量。{^n}{^n} 
 tagDevotionAffinity05=原始
 tagDevotionAffinity05Info=你所拥有的原始亲和点数，数量。{^n}{^n} 原始生物象征着创造，生命，死亡 {^n} 以及现实本身。
 
-tagDevotion_RequiresSword=^o需要一把剑。^c(单/双手皆可)
-tagDevotion_RequiresAxe=^o需要一把斧子。^c(单/双手皆可)
-tagDevotion_RequiresMace=^o需要一把锤子。^c(单/双手皆可)
-tagDevotion_RequiresCaster=^o需要一把权杖或匕首。
-tagDevotion_RequiresFocus=^o需要一件副手法器。
-tagDevotion_Requires1hRange=^o需要一把单手远程武器。
-tagDevotion_Requires2hRange=^o需要一把双手远程武器。
-tagDevotion_RequiresRange=^o需要一把远程武器。^c(单/双手皆可)
-tagDevotion_Requires2h=^o需要一把双手近战武器或双手远程武器。
-tagDevotion_RequiresShield=^o需要一面盾牌。
-tagDevotion_RequiresMagic=^o需要一把权杖，匕首或者法器副手。
+tagDevotion_RequiresSword=^o需要一把『剑』^c(单/双手皆可)。
+tagDevotion_RequiresAxe=^o需要一把『斧子』^c(单/双手皆可)。
+tagDevotion_RequiresMace=^o需要一把『锤子』^c(单/双手皆可)。
+tagDevotion_RequiresCaster=^o需要一把『权杖』或『匕首』。
+tagDevotion_RequiresFocus=^o需要一件『副手法器』。
+tagDevotion_Requires1hRange=^o需要一把『单手远程武器』。
+tagDevotion_Requires2hRange=^o需要一把『双手远程武器』。
+tagDevotion_RequiresRange=^o需要一把『远程武器』^c(单/双手皆可)。
+tagDevotion_Requires2h=^o需要一把『双手近战武器』或『双手远程武器』。
+tagDevotion_RequiresShield=^o需要一面『盾牌』。
+tagDevotion_RequiresMagic=^o需要一把『权杖』,『匕首』或者『法器副手』。
 
 tagDevotion_A01=蝙蝠^g[初级]（吸血系,穿刺+活力,5换5）
 tagDevotion_A01Desc=吸血蝙蝠很容易就能找到在夜空飞行的道路，猎杀那些闪烁的失落之星来汲取他们的光能。

@@ -1,6 +1,6 @@
-language=Simplified Chinese M Fonts
-version=v1.1.4.2
-fonts=DE
-author=EsclaveDuReve gpqkevin USunOfBeach kaiserchin sweet-lolin kuletco
-separators=。
-wordmode=false
+Language=Simplified Chinese M Fonts
+Author=EsclaveDuReve gpqkevin USunOfBeach kaiserchin sweet-lolin kuletco
+Version=v1.1.5.0
+Fonts=DE
+Separators=。
+Wordmode=false

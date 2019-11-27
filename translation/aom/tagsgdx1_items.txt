@@ -15,7 +15,7 @@ tagGDX1WeaponSwordD101=死亡刀锋
 tagGDX1WeaponSwordD102=帕加的背叛
 tagGDX1WeaponSwordD102_Desc="没有一次背叛比审判官帕加在光明会训练场与虚空势力勾结那天更令人印象深刻。"
 tagGDX1WeaponSwordD105=悲痛
-tagGDX1WeaponSwordD106=火焰之心★
+tagGDX1WeaponSwordD106=火焰之心☆
 tagGDX1WeaponSwordD106_Desc="一个字母D被刻在浸血的剑柄上。"
 tagGDX1WeaponSwordD107=贝尔戈斯安的切刀
 
@@ -93,7 +93,7 @@ tagGDX1WeaponGun1hD110_Desc="枪管内部的符文以超自然的力量将子弹
 tagGDX1WeaponGun1hD111=达加隆的歼灭者
 tagGDX1WeaponGun1hD112=哈加拉迪安执法者
 tagGDX1WeaponGun1hD112_Desc="枪膛内装满了哈加拉德原始符文的片段，每次射击都注入了刺骨的寒冷。"
-tagGDX1WeaponGun1hD114=^f加尔加伯的腐败
+tagGDX1WeaponGun1hD114=加尔加伯的腐败☆
 tagGDX1WeaponGun1hD114_Desc="曾经光荣的自然守护者，受到了虚空之触永远的腐蚀。"
 
 tagGDX1WeaponGun1hF101=女巫团手炮
@@ -134,14 +134,14 @@ tagGDX1WeaponGun2hF101=马尔茅斯卡宾枪
 tagGDX1WeaponGun2hF102=马尔茅斯步枪
 tagGDX1WeaponGun2hF103=温迪戈投桩机
 tagGDX1WeaponGun2hF104=黯灭
-tagGDX1WeaponGun2hF104_Desc="敌人无畏的抵抗也只能延缓其末日的降临。"
+tagGDX1WeaponGun2hF104_Desc="敌人无谓的抵抗只能延缓末日的降临。"
 
 
 tagGDX1WeaponMelee2hB101=^l血肉扭曲之核
 tagGDX1WeaponMelee2hB102=^l血肉扭曲碎片
 tagGDX1WeaponMelee2hB103=^y碎肠者战槌
 
-tagGDX1WeaponMelee2hC101=裂魂
+tagGDX1WeaponMelee2hC101=魂裂
 tagGDX1WeaponMelee2hC101_Desc="传说这把镰刀的刀刃切割的不仅仅是血肉。"
 tagGDX1WeaponMelee2hC102=塞萨兰的信念
 tagGDX1WeaponMelee2hC107=尤尔托斯之拳
@@ -206,7 +206,7 @@ tagGDX1WeaponCaster1hD114_Desc="凝视着这把武器就像凝视遥远的无尽
 tagGDX1WeaponCaster1hD115=迷失灵魂灯塔
 tagGDX1WeaponCaster1hD116=阿拉加斯特风暴束缚者
 tagGDX1WeaponCaster1hD117=死亡守卫之刃
-tagGDX1WeaponCaster1hD118=^f马尔茅斯的法令
+tagGDX1WeaponCaster1hD118=马尔茅斯的法令☆
 tagGDX1WeaponCaster1hD118Desc="瓦伯利港城市沦陷的景象充满你的脑海。"
 
 tagGDX1WeaponCaster1hF101=女巫团虚灵火花
@@ -712,7 +712,7 @@ tagGDX1NecklaceA102=^w尊贵的吊坠
 tagGDX1NecklaceA103=^w保护者护符
 tagGDX1NecklaceA104=^w保护者吊坠
 
-tagGDX1NecklaceB100=^p萨蒂娜的纪念品
+tagGDX1NecklaceB100=萨蒂娜的纪念品
 tagGDX1NecklaceB100_Desc="一条可以抵御邪恶的吊坠。刻有铭文："将恶兆封入魔网。"- 杰伊·派金斯"
 tagGDX1NecklaceB101=^l古尔盖佐之心
 tagGDX1NecklaceB102=^l维尔盖佐之心
@@ -1112,15 +1112,15 @@ tagGDX1Blueprint_AccessoryF105=设计图：^i监工徽记
 tagGDX1Blueprint_AccessoryF106=设计图：^i贪婪之王徽记
 
 #Relics 圣物
-tagGDX1RelicB101=^lm5^h-^c饕餮
+tagGDX1RelicB101=^lm5^h-^c饕餮-^s18
 tagGDX1RelicB101Desc="无尽饥渴。"
-tagGDX1RelicB102=^lm2^h-^c幽灵
+tagGDX1RelicB102=^lm2^h-^c幽灵-^s5
 tagGDX1RelicB102Desc="痛苦的灵魂在这石头中激荡。"
-tagGDX1RelicB103=^lm3^h-^c激情
+tagGDX1RelicB103=^lm3^h-^c激情-^s10
 tagGDX1RelicB103Desc="万物狂暴。"
-tagGDX1RelicB104=^lm1^h-^c刚毅
+tagGDX1RelicB104=^lm1^h-^c刚毅-^s3
 tagGDX1RelicB104Desc="英勇作战。"
-tagGDX1RelicB105=^lm4^h-^c癔症
+tagGDX1RelicB105=^lm4^h-^c癔症-^s14
 tagGDX1RelicB105Desc="超越死亡的疯狂。"
 
 tagGDX1RelicC101=^b死灵Lv35^h-^c死亡命运
@@ -1154,11 +1154,11 @@ tagGDX1RelicD112=^i审判Lv90^h-^c伊格纳法的燃烧
 tagGDX1RelicD112Desc="伊格纳法之石是光明会修复并净化的古代墓葬中的神器 。"
 tagGDX1RelicD113=^y全技能^h-^c莫格卓根的热忱
 tagGDX1RelicD113Desc="孤狼之死，群狼而生。"
-tagGDX1RelicD114=^im^h-^c死亡追猎者
+tagGDX1RelicD114=^im^h-^c死亡追猎者-^s攻击
 tagGDX1RelicD114Desc="恶灵寻求着解脱。"
 
 
-#Crafting 锻造
+#Crafting 制作
 tagGDX1CraftRandomLegendaryDesc2=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为94级。58级以下的人物可能会锻造出一件史诗级装备。
 tagGDX1CraftRandomLegendaryAccessoryDesc2=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为94级。58级以下的人物会锻造出一件史诗级装备。
 tagGDX1CraftRandomLegendaryItemDesc2=铁匠能打造一件符合你的等级的传奇装备，物品等级上限为94级。
@@ -1475,77 +1475,77 @@ tagGDX1EnchantC109Desc="来自掠夺者的礼物，强化凡体。"^w^n(用于�
 
 #ItemComponents 镶嵌物
 
-tagGDX1CompA101Name=^g03^h-^e力量之印
+tagGDX1CompA101Name=^g03^h-^e力量之印 ^sb5
 tagGDX1CompA101Desc="伟大尤尔加德佩戴的印章，聚集了大量造物主的奥术能量转为无与伦比的物理力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA102Name=^g02^h-^e刀刃之印
+tagGDX1CompA102Name=^g02^h-^e刀刃之印 ^sb3
 tagGDX1CompA102Desc="传说夜刃贝尔戈斯安设计的印章，加强刺客的致命攻击并使目标血流不止。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA103Name=^g04^h-^e天空之印
+tagGDX1CompA103Name=^g04^h-^e天空之印 ^sb6
 tagGDX1CompA103Desc="奥术大师特洛赞佩戴的第一枚印章，能够召唤天空的力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA104Name=^g07^h-^e疫病之印
+tagGDX1CompA104Name=^g07^h-^e疫病之印 ^sb15
 tagGDX1CompA104Desc="这枚印章注入了三巫神的力量，能唤起受害者曾遭受过的每一种疾病。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA105Name=^g08^h-^e腐败之印
+tagGDX1CompA105Name=^g08^h-^e腐败之印 ^sb18
 tagGDX1CompA105Desc="虽然这枚印章的创造者已被历史遗忘，但它仍有驾驭虚化的能力。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA106Name=^g09^h-^e虚空之印
+tagGDX1CompA106Name=^g09^h-^e虚空之印 ^sb19
 tagGDX1CompA106Desc="制做这枚印章的方法非常邪恶。那些使用它的人堕落且渴望力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA107Name=^g10^h-^e黑夜之印
+tagGDX1CompA107Name=^g10^h-^e黑夜之印 ^sb24
 tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA108Name=^g06^h-^e毁灭之印
+tagGDX1CompA108Name=^g06^h-^e毁灭之印 ^sb10
 tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA109Name=^g05^h-^e暗影之印
+tagGDX1CompA109Name=^g05^h-^e暗影之印 ^sb9
 tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA110Name=^g01^h-^e共鸣之印
+tagGDX1CompA110Name=^g01^h-^e共鸣之印 ^sb2
 tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA111Name=^g11^h-^e污染之心
+tagGDX1CompA111Name=^g11^h-^e污染之心 ^sb11
 tagGDX1CompA111Desc="一颗仍在跳动的心脏，跳动伴随着虚化腐败。"^w^n(用于项链和勋章)
 
-tagGDX1CompA112Name=^g13^h-^e炽热红宝石
+tagGDX1CompA112Name=^g13^h-^e炽热红宝石 ^sb14
 tagGDX1CompA112Desc="宝石的切面闪耀着烈焰之舞。"^w^n(用于项链和勋章)
 
-tagGDX1CompA113Name=^g14^h-^e符文束缚黄玉
+tagGDX1CompA113Name=^g14^h-^e符文束缚黄玉 ^sb17
 tagGDX1CompA113Desc="刻在宝石侧面的符文可以强化防护性能。"^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA114Name=^g12^h-^e血腥水晶
+tagGDX1CompA114Name=^g12^h-^e血腥水晶 ^sb20
 tagGDX1CompA114Desc="曾经白如珍珠的水晶吸收了无数杀戮的鲜血。"^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA115Name=^cm1^h-^o魔法大地
+tagGDX1CompA115Name=^cm1^h-^o魔法大地 ^sb22
 tagGDX1CompA115Desc="充满大地的生命精华能促进健康生长。"^w^n(用于所有护甲)
 
-tagGDX1CompA116Name=^cm4^h-^o魔法焚烧铠甲片
+tagGDX1CompA116Name=^cm4^h-^o魔法焚烧铠甲片 ^sb23
 tagGDX1CompA116Desc="破碎的铠甲片吸收了致命奥数攻击的魔法能量。"^w^n(用于所有护甲)
 
-tagGDX1CompA117Name=^cm2^h-^o刀刃铠甲片
+tagGDX1CompA117Name=^cm2^h-^o刀刃铠甲片 ^sb4
 tagGDX1CompA117Desc="铠甲上装满了成排的致命刀刃。是强盗和残酷暴君的最爱。"^w^n(用于所有护甲)
 
-tagGDX1CompA118Name=^cm3^h-^o巫登沼泽皮革
+tagGDX1CompA118Name=^cm3^h-^o巫登沼泽皮革 ^sb8
 tagGDX1CompA118Desc="来自巫登沼泽野兽的皮革。致命的沼泽创造了凯恩世界最强韧的野兽。"^w^n(用于所有护甲)
 
 
-tagGDX1CompB101Name=^l13^h-^k神圣铠甲片
+tagGDX1CompB101Name=^l13^h-^k神圣铠甲片 ^sb16
 tagGDX1CompB101Desc="据说来自至高神祝福过的强大护甲。"^w^n(用于护肩，胸甲和头盔)
 
-tagGDX1CompB102Name=^l12^h-^k活体护甲
+tagGDX1CompB102Name=^l12^h-^k活体护甲 ^sb12
 tagGDX1CompB102Desc="在你手中扭动的铠甲片有不同于金属的肉感，明显是受到了虚灵的操控。"^w^n(用于护肩，胸甲和头盔)
 
-tagGDX1CompB103Name=^l14^h-^k巨人铠甲片
+tagGDX1CompB103Name=^l14^h-^k巨人铠甲片 ^sb7
 tagGDX1CompB103Desc="这种铠甲片极为厚重，常人无法承受整套护甲的重量并移动。"^w^n(用于胸甲和头盔)
 
-tagGDX1CompB104Name=^l11^h-^k邪术之镜
+tagGDX1CompB104Name=^l11^h-^k邪术之镜 ^sb21
 tagGDX1CompB104Desc="镜面的颜色会随着移动而变换，凝视它会引起剧烈头痛，仿佛能看到另一个现实领域。"^w^n(用于胸甲和头盔)
 
-tagGDX1CompB105Name=^l10^h-^k湮灭之印
+tagGDX1CompB105Name=^l10^h-^k湮灭之印 ^sb13
 tagGDX1CompB105Desc="与奥能印章最轻微的触碰都会唤起暴力和屠戮的情绪，它渴望着杀戮。"^w^n(用于项链)
 
-tagGDX1CompB106Name=^l09^h-^k先祖之印
+tagGDX1CompB106Name=^l09^h-^k先祖之印 ^sb1
 tagGDX1CompB106Desc="奥能印章能唤起你的先祖记忆，甚至是那些你一生中从未见过的人。"^w^n(用于项链)
 
 
@@ -1819,7 +1819,7 @@ tagGDX1Chest_MadRamblingsReward=伊旺达的礼物
 tagGDX1Chest_MadRamblingsLoot=伊旺达的藏匿物
 tagGDX1Chest_MadRamblingsNote=伊旺达的宝箱
 
-tagGDX1Chest_KatrineCorpse=卡崔因的遗骸
+tagGDX1Chest_KatrineCorpse=卡特琳的遗骸
 tagGDX1Chest_RenochCorpse=瑞诺什的遗骸
 tagGDX1Chest_UnknownCorpse=腐尸
 
@@ -1895,10 +1895,17 @@ tagGDX1DLCIllusionA05=幻化：黑巫师
 tagGDX1DLCA05=黑巫师华服
 tagGDX1DLCA05Desc="邪恶黑巫师的华服。"
 
+tagGDX1DLCIllusionA06=幻化：巨狼盔甲
+tagGDX1DLCA06=巨狼盔甲
+tagGDX1DLCA06Desc="狂怒巨狼盔甲"
+
 tagGDX1DLCIllusionHelmInvisible=隐形头盔
 tagGDX1DLCIllusionHelmInvisibleDesc="100％的保护和0％的重量。 而且不含乳制品。"
 
 tagGDX1DLCIllusionShouldersInvisible=隐形护肩
 tagGDX1DLCIllusionShouldersInvisibleDesc="100％的保护和0％的重量。 而且不含乳制品。"
+
+tagGDX1DLCIllusionMedalInvisible=隐形勋章
+tagGDX1DLCIllusionMedalInvisibleDesc="100%的表彰却没有别针。而且不含乳制品。"
 
 

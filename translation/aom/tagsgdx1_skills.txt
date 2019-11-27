@@ -77,7 +77,7 @@ tagGDX1Class07SkillName04E=^g<^F审判官^g>^c污染之焰
 tagGDX1Class07SkillDescription04E=罕见的是，一些审判官已经堕落并信奉他们曾经对抗的力量。将虚无之力注入伊格纳法之石，使其释放出一道污染之焰。
 
 tagGDX1Class07SkillName05A=^g<^F审判官^g>^c哈加拉德符文
-tagGDX1Class07SkillDescription05A=哈格拉符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并受到玩家伤害加成的影响，中心总体伤害减少30%。
+tagGDX1Class07SkillDescription05A=哈格拉符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并受到玩家伤害加成的影响。冰锥最初的伤害会降低25%，向外扩散之后会造成全额伤害。
 tagGDX1Class07SkillName05A_PetSkill=寒冷冲击
 tagGDX1Class07SkillName05B=^g<^F审判官^g>^c凛冽
 tagGDX1Class07SkillDescription05B=哈加拉德符文散发的寒冷能量能使敌人思维迟缓更利于猎杀。
@@ -113,7 +113,7 @@ tagGDX1Class07SkillDescription11A=即使装备有一批强大的神器和圣物�
 tagGDX1Class07SkillName12A=^g<^F审判官^g>^c爆裂子弹
 tagGDX1Class07SkillDescription12A=一颗精确校准的子弹会在接触目标时引发爆炸并以烈焰吞噬附近的敌人。^o这是一项远程技能，由默认武器攻击触发。双持手枪时两把枪会同步攻击。
 tagGDX1Class07SkillName13A=^g<^F审判官^g>^c寒冰弹幕
-tagGDX1Class07SkillDescription13A=一轮充满寒冷奥术的弹幕射击将目标冻结至核心，以确保轻松击杀。^o这是一项远程技能，由默认武器攻击触发；连续发射2枚投射物。双持手枪时每一把手枪发射2个投射物。
+tagGDX1Class07SkillDescription13A=一轮充满寒冷奥术的弹幕射击将目标冻结至核心，以确保轻松击杀。^o这是一项远程技能，由默认武器攻击触发；连续发射2枚投射物。双持手枪时每一把手枪发射 2个 投射物。
 tagGDX1Class07SkillName14A=^g<^F审判官^g>^c风暴散射
 tagGDX1Class07SkillDescription14A=一种应对压倒性数量敌人的无畏技艺，一轮穿梭于面前的风暴散射可以迅速扭转劣势。^o这是一项远程技能，由默认武器攻击触发。双持手枪时每一把手枪发射一轮投射物。
 
@@ -312,7 +312,7 @@ tagGDX1ItemSkillD112Name=火焰碎片
 tagGDX1ItemSkillD112Desc=你点燃了敌人所站的土地。
 
 tagGDX1ItemSkillD113Name=真理之光
-tagGDX1ItemSkillD113Desc=神圣的真理之光笼罩你的敌人，使意志不坚者为你服务。
+tagGDX1ItemSkillD113Desc=神圣的真理之光笼罩你的敌人。
 
 tagGDX1ItemSkillD114Name=哈加拉德之刺
 tagGDX1ItemSkillD114Desc=从哈加拉德光明符文中释放冰刺魔法攻击敌人。
