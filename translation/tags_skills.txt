@@ -1795,7 +1795,7 @@ tagItemSkillD150Name=堕落灾疫
 tagItemSkillD150Desc=释放德里格的七种灾疫之一，一种强力的迷惑敌人并快速散播的灾疫。
 
 tagItemSkillD151Name=德里格的灾疫
-tagItemSkillD151Desc=释放巫神的至高法术，一种使你的敌人满目疮痍的恶性病毒。
+tagItemSkillD151Desc=释放巫神的至高法术，第九灾疫，一种使你的敌人满目疮痍的恶性病毒。
 
 tagItemSkillD152Name=疲劳灾疫
 tagItemSkillD152Desc=释放德里格的七种灾疫之一，一种强力的使人疲惫不堪并迅速传播的灾疫。
@@ -2663,7 +2663,7 @@ tagDevotion_B17Desc=螃蟹标志着一年中最兴盛的渔汛期到来，但同
 tagDevotion_B18=狮蝎 ^g[中级](毒系『点数减全抗』，6换2)
 tagDevotion_B18Desc=狮蝎是一种在夜空游荡并寻找下一个猎物的恶毒捕食者。它的牙齿和尾巴充满了毒液。
 tagDevotion_B19=庄严守望者 ^g[中级](防御系，%DA，5换5)
-tagDevotion_B19Desc=守望者 ~ 西蒙伫立并守卫着西蒙的病房直到死亡之日，保护帝国不受超自然现象的威胁。西蒙的永恒警戒在上天延续，就像他在活着的时候一样守望着凯恩。
+tagDevotion_B19Desc=守望者 ~ 西蒙守卫者他的领域直到他死亡的那天，保护帝国不受超自然现象的威胁。西蒙的永恒警戒在上天延续，就像他在活着的时候一样守望着凯恩。
 tagDevotion_B20=战争先驱 ^g[中级](反击系，反击+护甲，6换5)
 tagDevotion_B20Desc=战争先驱是恐惧与残暴的标志。先驱越过布满天星的夜空，预示着一个争执与冲突的新时代即将来临。
 tagDevotion_B21=海怪 ^g[中级](双手武器专属，暴击，5换5)
@@ -2688,6 +2688,7 @@ tagDevotion_B30=水域看守者 ~ 艾尔洛 ^g[中级](防御系，抗性+净化
 tagDevotion_B30Desc=艾尔洛象征着水流的无尽循环以及无法阻挡的流动，使河流再生，轮流灌溉湖泊与海洋。
 tagDevotion_B31=收割者的镰刀 ^g[中级](恢复系，6换6)
 tagDevotion_B31Desc=这杆长柄镰刀象征着馈赠和收获之时。在最热的月份里它会闪耀得最为明亮，为即将到来的秋之野猪让路。
+
 tagDevotion_C01=伊恩的沙漏 ^g[高级](防御系，抗性+刷新CD，6)
 tagDevotion_C01Desc=伊恩是时光守护者，是命运螺纹的主宰。人们的出生与死亡都由他掌控。他的标志就是沙漏。
 tagDevotion_C02=憎恶 ^g[高级](毒系，混乱系，8)
