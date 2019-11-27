@@ -25,7 +25,7 @@ tagGDX2WeaponSwordF203=放血者
 
 tagGDX2WeaponBluntB201=^l天蝎击锤
 tagGDX2WeaponBluntB202=^l天蝎锤棍
-tagGDX2WeaponBluntB203=^l甘纳'瓦卡之刺
+tagGDX2WeaponBluntB203=^l甘纳·瓦卡之刺
 tagGDX2WeaponBluntB204=^l巴高尔之根
 tagGDX2WeaponBluntB204Desc="巴高尔的根饥渴地寻找着魔力之源。"
 
@@ -540,8 +540,8 @@ tagGDX2NecklaceD202=阿兹拉卡之沙
 tagGDX2NecklaceD203=混乱化身
 tagGDX2NecklaceD203_Desc="人类七大神圣美的之三，被虚空扭曲至面目全非。"
 tagGDX2NecklaceD204=剑刃意志
-tagGDX2NecklaceD205=^f沙王之心
-tagGDX2NecklaceD205_Desc="甘纳'瓦卡，科凡沙漠之王的心脏。"
+tagGDX2NecklaceD205=沙王之心
+tagGDX2NecklaceD205_Desc="沙漠之王 ~ 甘纳·瓦卡的心脏。"
 tagGDX2NecklaceD206=碎境护符
 tagGDX2NecklaceD207=征服者的宝石☆
 tagGDX2NecklaceD208=贩骨者的宝石
@@ -1278,3 +1278,6 @@ tagGDX2DifficultyUnlock02_Desc=碾碎了凯恩恐怖之物的证明，允许你�
 tagGDX2DifficultyUnlockStats={^E}解锁低难度任务中获取的所有技能点及属性点
 tagGDX2DifficultyUnlockTeleporters={^E}解锁低一级难度的裂隙门
 tagGDX2DifficultyUnlockBags={^E}解锁所有额外物品栏
+
+
+
