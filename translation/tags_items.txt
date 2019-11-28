@@ -899,7 +899,7 @@ tagDestroySoulbound=摧毁灵魂绑定的物品？
 tagUntradeable=不可交易
 tagDestroyUntradeable=摧毁不可交易的物品？
 
-tagTransmuted=幻化:
+tagTransmuted={^z}幻化：
 tagTransmuteCapture=[右键点击以灌注]
 tagTransmuteApply=[右键点击以使用]
 tagTransmuteApplyRemove=[右键点击以移除幻化]
