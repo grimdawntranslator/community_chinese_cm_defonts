@@ -1695,8 +1695,8 @@ tagAttackSpeedAverage=速度:中等
 tagAttackSpeedFast=速度:快速
 tagAttackSpeedVeryFast=速度:非常快
 
-tagAttackSpeed={^S}每秒攻击{^W}{%.2f0}{^S}次
-tagAttackSpeedR={^S}每秒攻击{^W}{%.2f0}-{%.2f1}{^S}次
+tagAttackSpeed={^S}每秒攻击 {^W}{%.2f0}{^S} 次
+tagAttackSpeedR={^S}每秒攻击 {^W}{%.2f0}-{%.2f1}{^S} 次
 
 tagCharOffensiveAbility={^E}攻击能力(OA) {^H}{%+.0f0}
 tagCharDefensiveAbility={^E}防御能力(DA) {^H}{%+.0f0}
