@@ -150,6 +150,9 @@ tagGI_CinematicPrefixSuffixFound={^y}发现前缀和后缀!
 #new in v1.79
 tagGI_InfoBox_GameSpeed={^y}速度：
 
+#new in v1.90
+tagGI_CinematicIllusionAdded={^g}已添加新幻化！
+
 #General
 
 tagGameDifficultySetting01=普通难度
