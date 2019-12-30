@@ -151,7 +151,7 @@ tagGI_CinematicPrefixSuffixFound={^y}发现前缀和后缀!
 tagGI_InfoBox_GameSpeed={^y}速度：
 
 #new in v1.90
-tagGI_CinematicIllusionAdded={^g}已添加新幻化！
+tagGI_CinematicIllusionAdded={^g}获得了新的幻化！
 
 #General
 
