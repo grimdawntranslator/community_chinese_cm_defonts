@@ -1,13 +1,13 @@
 tagSkillClassName09=^f守誓者
 
-tagSkillClassName0109=^g战争领主^y(^o战士^s+^f守誓^y)
-tagSkillClassName0209=^g破盾者^y(^r爆破^s+^f守誓^y)
-tagSkillClassName0309=^g哨兵^y(^l神秘^s+^f守誓^y)
-tagSkillClassName0409=^g狂舞者^y(^z夜刃^s+^f守誓^y)
-tagSkillClassName0509=^g圣殿骑士^y(^c奥术^s+^f守誓^y)
-tagSkillClassName0609=^g执政官^y(^b萨满^s+^f守誓^y)
-tagSkillClassName0709=^g帕拉丁^y(^i审判^s+^f守誓^y)
-tagSkillClassName0809=^g压迫者^y(^a死灵^s+^f守誓^y)
+tagSkillClassName0109=^g战争领主^y(^o战士^w+^f守誓^y)
+tagSkillClassName0209=^g破盾者^y(^r爆破^w+^f守誓^y)
+tagSkillClassName0309=^g哨兵^y(^l神秘^w+^f守誓^y)
+tagSkillClassName0409=^g狂舞者^y(^z夜刃^w+^f守誓^y)
+tagSkillClassName0509=^g圣殿骑士^y(^c奥术^w+^f守誓^y)
+tagSkillClassName0609=^g执政官^y(^b萨满^w+^f守誓^y)
+tagSkillClassName0709=^g帕拉丁^y(^i审判^w+^f守誓^y)
+tagSkillClassName0809=^g压迫者^y(^a死灵^w+^f守誓^y)
 
 tagSkillClassDescription09=无论是出身于曼海尔神庙，抑或者将自己的灵魂奉献给巫神，所有的守誓者依然有着共通的两点：毫不动摇的忠诚与对宗教的狂热。守誓者是神圣墓地的保卫者，遵循着神圣的意志并且保持着忠诚。他们并不会躲藏在他们的神力与盾牌之下；对守誓者而言，这些就是他们的武器与伸张正义的手段来对付那些应该流血的恶人。
 
