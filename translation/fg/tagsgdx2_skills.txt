@@ -1,6 +1,6 @@
 tagSkillClassName09=^f守誓者
 
-tagSkillClassName0109=^g战争领主^y(^o战士^w+^f守誓^y)
+tagSkillClassName0109=^g战争领主^y(^o士兵^w+^f守誓^y)
 tagSkillClassName0209=^g破盾者^y(^r爆破^w+^f守誓^y)
 tagSkillClassName0309=^g哨兵^y(^l神秘^w+^f守誓^y)
 tagSkillClassName0409=^g狂舞者^y(^z夜刃^w+^f守誓^y)
