@@ -5,20 +5,20 @@ tagItemNameAndStack={%s0} ({%d1})
 
 #Weapons 武器
 
-tagWeaponSwordA000=刺刀
-tagWeaponSwordA001=罗马短剑
-tagWeaponSwordA002=剃刀
-tagWeaponSwordA003=短剑
-tagWeaponSwordA004=切肉刀
-tagWeaponSwordA005=长剑
-tagWeaponSwordA006=阔剑
-tagWeaponSwordA007=屠刀
-tagWeaponSwordA008=弯刀
-tagWeaponSwordA009=碎肉刀
-tagWeaponSwordA010=凶刃
-tagWeaponSwordA011=骨锯
-tagWeaponSwordA012=征服者之剑
-tagWeaponSwordA013=马刀
+tagWeaponSwordA000=^w刺刀
+tagWeaponSwordA001=^w罗马短剑
+tagWeaponSwordA002=^w剃刀
+tagWeaponSwordA003=^w短剑
+tagWeaponSwordA004=^w切肉刀
+tagWeaponSwordA005=^w长剑
+tagWeaponSwordA006=^w阔剑
+tagWeaponSwordA007=^w屠刀
+tagWeaponSwordA008=^w弯刀
+tagWeaponSwordA009=^w碎肉刀
+tagWeaponSwordA010=^w凶刃
+tagWeaponSwordA011=^w骨锯
+tagWeaponSwordA012=^w征服者之剑
+tagWeaponSwordA013=^w马刀
 
 tagWeaponSwordB001=^l萨拉查的王者之剑
 tagWeaponSwordB001Desc="此剑由冥神授予萨拉查，用来表彰他对冥神坚定不移的追随。"
@@ -86,17 +86,17 @@ tagWeaponSwordF002=神选之剑
 tagWeaponSwordF003=恶魔的契约
 tagWeaponSwordF004=军团切刀
 
-tagWeaponBluntA000=木棒
-tagWeaponBluntA001=球头锤
-tagWeaponBluntA002=钉锤
-tagWeaponBluntA003=凸缘钉头锤
-tagWeaponBluntA004=铁头锤
-tagWeaponBluntA005=晨星锤
-tagWeaponBluntA006=战仪杖
-tagWeaponBluntA007=刃锤
-tagWeaponBluntA008=棍锤
-tagWeaponBluntA009=战槌
-tagWeaponBluntA010=战锤
+tagWeaponBluntA000=^w木棒
+tagWeaponBluntA001=^w球头锤
+tagWeaponBluntA002=^w钉锤
+tagWeaponBluntA003=^w凸缘钉头锤
+tagWeaponBluntA004=^w铁头锤
+tagWeaponBluntA005=^w晨星锤
+tagWeaponBluntA006=^w战仪杖
+tagWeaponBluntA007=^w刃锤
+tagWeaponBluntA008=^w棍锤
+tagWeaponBluntA009=^w战槌
+tagWeaponBluntA010=^w战锤
 
 tagWeaponBluntB000=火炬
 tagWeaponBluntB001=^w典狱长的裁决
@@ -208,16 +208,16 @@ tagWeaponAxeF001=罗瓦里的正义
 tagWeaponAxeF002=日阳之斧
 tagWeaponAxeF003=亡者新月
 
-tagWeaponGun1hA001=手持短枪
-tagWeaponGun1hA002=狩猎手枪
-tagWeaponGun1hA003=转管手枪
-tagWeaponGun1hA004=手持火炮
-tagWeaponGun1hA005=左轮手枪
-tagWeaponGun1hA006=六发左轮
-tagWeaponGun1hA007=德林杰手枪
-tagWeaponGun1hA008=连发枪
-tagWeaponGun1hA009=精准左轮手枪
-tagWeaponGun1hA010=齐射枪
+tagWeaponGun1hA001=^w手持短枪
+tagWeaponGun1hA002=^w狩猎手枪
+tagWeaponGun1hA003=^w转管手枪
+tagWeaponGun1hA004=^w手持火炮
+tagWeaponGun1hA005=^w左轮手枪
+tagWeaponGun1hA006=^w六发左轮
+tagWeaponGun1hA007=^w德林杰手枪
+tagWeaponGun1hA008=^w连发枪
+tagWeaponGun1hA009=^w精准左轮手枪
+tagWeaponGun1hA010=^w齐射枪
 
 tagWeaponGun1hB001=^g双管手枪
 tagWeaponGun1hB002=^g手持迫击炮
@@ -273,17 +273,17 @@ tagWeaponGun1hF003=亡者的左轮枪
 tagWeaponGun1hF004=军团手持火炮
 tagWeaponGun1hF005=亡者的六发左轮
 
-tagWeaponGun2hA001=火枪
-tagWeaponGun2hA002=燧发步枪
-tagWeaponGun2hA003=手动步枪
-tagWeaponGun2hA004=大口径火枪
-tagWeaponGun2hA005=转轮步枪
-tagWeaponGun2hA006=连发步枪
-tagWeaponGun2hA007=卡宾枪
-tagWeaponGun2hA008=后膛枪
-tagWeaponGun2hA009=转轮火炮
-tagWeaponGun2hA010=霰弹枪
-tagWeaponGun2hA011=战斗霰弹枪
+tagWeaponGun2hA001=^w火枪
+tagWeaponGun2hA002=^w燧发步枪
+tagWeaponGun2hA003=^w手动步枪
+tagWeaponGun2hA004=^w大口径火枪
+tagWeaponGun2hA005=^w转轮步枪
+tagWeaponGun2hA006=^w连发步枪
+tagWeaponGun2hA007=^w卡宾枪
+tagWeaponGun2hA008=^w后膛枪
+tagWeaponGun2hA009=^w转轮火炮
+tagWeaponGun2hA010=^w霰弹枪
+tagWeaponGun2hA011=^w战斗霰弹枪
 
 tagWeaponGun2hB001=^g转拴步枪
 tagWeaponGun2hB002=^g前装枪
@@ -327,10 +327,10 @@ tagWeaponGun2hD007=瓦尔登的猎枪
 tagWeaponGun2hF001=恶魔的火枪
 tagWeaponGun2hF002=收割者的双管枪
 
-tagWeaponCrossbow2hA001=十字弩
-tagWeaponCrossbow2hA002=强弩
-tagWeaponCrossbow2hA003=重弩
-tagWeaponCrossbow2hA004=刺蝎弩
+tagWeaponCrossbow2hA001=^w十字弩
+tagWeaponCrossbow2hA002=^w强弩
+tagWeaponCrossbow2hA003=^w重弩
+tagWeaponCrossbow2hA004=^w刺蝎弩
 
 tagWeaponCrossbow2hB001=^w幽光十字弩
 tagWeaponCrossbow2hB002=^l幽光强弩
@@ -369,17 +369,17 @@ tagWeaponCrossbow2hF001=罗瓦里刺蝎弩
 tagWeaponCrossbow2hF002=神选爆弹枪
 tagWeaponCrossbow2hF003=罗瓦里劲弩
 
-tagWeaponMelee2hA001=巨剑
-tagWeaponMelee2hA002=战剑
-tagWeaponMelee2hA003=阔刃大剑
-tagWeaponMelee2hA004=焰形剑
-tagWeaponMelee2hA005=巨斧
-tagWeaponMelee2hA006=战斧
-tagWeaponMelee2hA007=镰刀
-tagWeaponMelee2hA008=战戟
-tagWeaponMelee2hA009=楔头槌
-tagWeaponMelee2hA010=大槌
-tagWeaponMelee2hA011=战锤
+tagWeaponMelee2hA001=^w巨剑
+tagWeaponMelee2hA002=^w战剑
+tagWeaponMelee2hA003=^w阔刃大剑
+tagWeaponMelee2hA004=^w焰形剑
+tagWeaponMelee2hA005=^w巨斧
+tagWeaponMelee2hA006=^w战斧
+tagWeaponMelee2hA007=^w镰刀
+tagWeaponMelee2hA008=^w战戟
+tagWeaponMelee2hA009=^w楔头槌
+tagWeaponMelee2hA010=^w大槌
+tagWeaponMelee2hA011=^w战锤
 
 tagWeaponMelee2hB001=^w巨魔裂头锤
 tagWeaponMelee2hB002=^l巨魔碎颅者
@@ -1802,12 +1802,12 @@ tagMedalB002=^g游骑兵徽章
 tagMedalB003=^l伊克里克斯的鳞片
 tagMedalB004=^l凯蒙的徽章
 tagMedalB005=^l血誓魔印
-tagMedalB006=伊尔戈的永恒警戒
+tagMedalB006=^l伊尔戈的永恒警戒
 tagMedalB006_Desc="苦痛阶梯的看守者们永恒的进行着无情的看守。"
-tagMedalB007=伊尔戈的永恒诅咒
-tagMedalB008=拉苟斯·阿克的虚空束缚
+tagMedalB007=^l伊尔戈的永恒诅咒
+tagMedalB008=^l拉苟斯·阿克的虚空束缚
 tagMedalB008_Desc="只是虚空及其主人庞大力量的回响"
-tagMedalB009=拉苟斯·阿克的缚血尘
+tagMedalB009=^l拉苟斯·阿克的缚血尘
 
 tagMedalC001=野兽屠杀者徽记
 tagMedalC002=坚韧徽章
@@ -2606,593 +2606,593 @@ tagEnchantmentSoulboundOverwrite=确定覆盖已有的增幅？附魔这件装�
 tagEnchantmentSoulboundRemoval=你确定要替换已经存在的增幅吗？覆盖掉现存的增幅会移除灵魂绑定状态。
 
 tagEnchantTest=TESTNAME
-tagEnchantTestDesc="A test description."{^W}{^n}(Used in rings)
+tagEnchantTestDesc="A test description."^w^n(Used in rings)
 
 tagEnchantA001A=蝎尾狮毒液
 tagEnchantA001B=蝎尾狮毒液 II
 tagEnchantA001C=蝎尾狮毒液 III
-tagEnchantA001Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA001Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA002A=烈性蝎尾狮毒液
 tagEnchantA002B=烈性蝎尾狮毒液 II
 tagEnchantA002C=烈性蝎尾狮毒液 III
-tagEnchantA002Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤。"{^W}{^n}(用于所有双手武器)
+tagEnchantA002Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤。"^w^n(用于所有双手武器)
 
 tagEnchantA003A=虚空野兽粉末
 tagEnchantA003B=虚空野兽粉末 II
 tagEnchantA003C=虚空野兽粉末 III
-tagEnchantA003Desc="从冥煞野兽的干燥残骸上提取的粉末。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA003Desc="从冥煞野兽的干燥残骸上提取的粉末。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA004A=强效虚空野兽粉末
 tagEnchantA004B=强效虚空野兽粉末 II
 tagEnchantA004C=强效虚空野兽粉末 III
-tagEnchantA004Desc="从冥煞野兽的干燥残骸上提取的粉末。"{^W}{^n}(用于所有双手武器)
+tagEnchantA004Desc="从冥煞野兽的干燥残骸上提取的粉末。"^w^n(用于所有双手武器)
 
 tagEnchantA005A=黑铁粉末
 tagEnchantA005B=黑铁粉末 II
 tagEnchantA005C=黑铁粉末 III
-tagEnchantA005Desc="只有黑色军团才了解的由钢铁和各种材料混合而成的神秘粉末。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA005Desc="只有黑色军团才了解的由钢铁和各种材料混合而成的神秘粉末。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA006A=强效黑铁粉末
 tagEnchantA006B=强效黑铁粉末 II
 tagEnchantA006C=强效黑铁粉末 III
-tagEnchantA006Desc="只有黑色军团才了解的由钢铁和各种材料混合而成的神秘粉末。"{^W}{^n}(用于所有双手武器)
+tagEnchantA006Desc="只有黑色军团才了解的由钢铁和各种材料混合而成的神秘粉末。"^w^n(用于所有双手武器)
 
 tagEnchantA007A=虚化尘埃
 tagEnchantA007B=虚化尘埃 II
 tagEnchantA007C=虚化尘埃 III
-tagEnchantA007Desc="萃取于虚灵残骸的浓缩盐分"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA007Desc="萃取于虚灵残骸的浓缩盐分"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA008A=强效虚化尘埃
 tagEnchantA008B=强效虚化尘埃 II
 tagEnchantA008C=强效虚化尘埃 III
-tagEnchantA008Desc="萃取于虚灵残骸的浓缩盐分"{^W}{^n}(用于所有双手武器)
+tagEnchantA008Desc="萃取于虚灵残骸的浓缩盐分"^w^n(用于所有双手武器)
 
 tagEnchantA009A=安克维亚玫瑰粉末
 tagEnchantA009B=安克维亚玫瑰粉末 II
 tagEnchantA009C=安克维亚玫瑰粉末 III
-tagEnchantA009Desc="萃取自只生长在古安克维亚巅峰之地的红色花朵粉末。"{^W}{^n}(用于戒指和项链)
+tagEnchantA009Desc="萃取自只生长在古安克维亚巅峰之地的红色花朵粉末。"^w^n(用于戒指和项链)
 
 tagEnchantA010A=腐败之花粉末
 tagEnchantA010B=腐败之花粉末 II
 tagEnchantA010C=腐败之花粉末 III
-tagEnchantA010Desc="萃取自一种生长在灭绝和腐败之地的棕灰色花朵的粉末。"{^W}{^n}(用于戒指和项链)
+tagEnchantA010Desc="萃取自一种生长在灭绝和腐败之地的棕灰色花朵的粉末。"^w^n(用于戒指和项链)
 
 tagEnchantA011A=蛇人草粉末
 tagEnchantA011B=蛇人草粉末 II
 tagEnchantA011C=蛇人草粉末 III
-tagEnchantA011Desc="提取自生长在沼泽和垃圾堆周围的野草的粉末，散发着腐烂之气。"{^W}{^n}(用于戒指和项链)
+tagEnchantA011Desc="提取自生长在沼泽和垃圾堆周围的野草的粉末，散发着腐烂之气。"^w^n(用于戒指和项链)
 
 tagEnchantA012A=风暴之尾蝮蛇毒液
 tagEnchantA012B=风暴之尾蝮蛇毒液 II
 tagEnchantA012C=风暴之尾蝮蛇毒液 III
-tagEnchantA012Desc="从一只风暴之尾蝮蛇的毒液小心提取的一种充满火花能量的液体。"{^W}{^n}(用于戒指和项链)
+tagEnchantA012Desc="从一只风暴之尾蝮蛇的毒液小心提取的一种充满火花能量的液体。"^w^n(用于戒指和项链)
 
 tagEnchantA013A=安克维亚骨粉
 tagEnchantA013B=安克维亚骨粉 II
 tagEnchantA013C=安克维亚骨粉 III
-tagEnchantA013Desc="来源于被诅咒的安克维亚的骨粉，流浪者先辈们使其能被安全地使用。"{^W}{^n}(用于所有单手武器，盾牌和副手)
+tagEnchantA013Desc="来源于被诅咒的安克维亚的骨粉，流浪者先辈们使其能被安全地使用。"^w^n(用于所有单手武器，盾牌和副手)
 
 tagEnchantA014A=强效安克维亚骨粉
 tagEnchantA014B=强效安克维亚骨粉 II
 tagEnchantA014C=强效安克维亚骨粉 III
-tagEnchantA014Desc="来源于被诅咒的安克维亚的骨粉，流浪者先辈们使其能被安全地使用。"{^W}{^n}(用于所有双手武器)
+tagEnchantA014Desc="来源于被诅咒的安克维亚的骨粉，流浪者先辈们使其能被安全地使用。"^w^n(用于所有双手武器)
 
 tagEnchantA015A=巨魔之疣粉末
 tagEnchantA015B=巨魔之疣粉末 II
 tagEnchantA015C=巨魔之疣粉末 III
-tagEnchantA015Desc="取自远古巨魔之疣的粉末。只能戴上手套来取用它。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA015Desc="取自远古巨魔之疣的粉末。只能戴上手套来取用它。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA016A=强效巨魔之疣粉末
 tagEnchantA016B=强效巨魔之疣粉末 II
 tagEnchantA016C=强效巨魔之疣粉末 III
-tagEnchantA016Desc="取自远古巨魔之疣的粉末。只能戴上手套来取用它。"{^W}{^n}(用于所有双手武器)
+tagEnchantA016Desc="取自远古巨魔之疣的粉末。只能戴上手套来取用它。"^w^n(用于所有双手武器)
 
 tagEnchantA017A=骨背尖刺
 tagEnchantA017B=骨背尖刺 II
 tagEnchantA017C=骨背尖刺 III
-tagEnchantA017Desc="取自骨背尖刺鼠怪的粗粉。"{^W}{^n}(用于戒指和项链)
+tagEnchantA017Desc="取自骨背尖刺鼠怪的粗粉。"^w^n(用于戒指和项链)
 
 tagEnchantA018A=蛇人毒液
 tagEnchantA018B=蛇人毒液 II
 tagEnchantA018C=蛇人毒液 III
-tagEnchantA018Desc="取自女性蛇人领袖的有毒唾液。"{^W}{^n}(用于戒指和项链)
+tagEnchantA018Desc="取自女性蛇人领袖的有毒唾液。"^w^n(用于戒指和项链)
 
 tagEnchantA019A=监察者之眼
 tagEnchantA019B=监察者之眼 II
 tagEnchantA019C=监察者之眼 III
-tagEnchantA019Desc="萃取自虚灵监察者碎裂之眼。"{^W}{^n}(用于戒指和项链)
+tagEnchantA019Desc="萃取自虚灵监察者碎裂之眼。"^w^n(用于戒指和项链)
 
 tagEnchantA020A=尸魔触手
 tagEnchantA020B=尸魔触手 II
 tagEnchantA020C=尸魔触手 III
-tagEnchantA020Desc="粉末在袋子中不停颤动，好像还活着一样。"{^W}{^n}(用于戒指和项链)
+tagEnchantA020Desc="粉末在袋子中不停颤动，好像还活着一样。"^w^n(用于戒指和项链)
 
 tagEnchantA021A=虚空藤曼粉末
 tagEnchantA021B=虚空藤曼粉末 II
 tagEnchantA021C=虚空藤曼粉末 III
-tagEnchantA021Desc="萃取自一种在冥界虚空肆意散播的蔓藤的粉末。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA021Desc="萃取自一种在冥界虚空肆意散播的蔓藤的粉末。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA022A=强效虚空藤曼粉末
 tagEnchantA022B=强效虚空藤曼粉末 II
 tagEnchantA022C=强效虚空藤曼粉末 III
-tagEnchantA022Desc="萃取自一种在冥界虚空肆意散播的蔓藤的粉末。"{^W}{^n}(用于所有双手武器)
+tagEnchantA022Desc="萃取自一种在冥界虚空肆意散播的蔓藤的粉末。"^w^n(用于所有双手武器)
 
 tagEnchantA023A=石牙野猪蹄
 tagEnchantA023B=石牙野猪蹄 II
 tagEnchantA023C=石牙野猪蹄 III
-tagEnchantA023Desc="取自破裂的石牙野猪蹄，制作过程包括了用重锤击打多次。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA023Desc="取自破裂的石牙野猪蹄，制作过程包括了用重锤击打多次。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA024A=强效石牙野猪蹄
 tagEnchantA024B=强效石牙野猪蹄 II
 tagEnchantA024C=强效石牙野猪蹄 III
-tagEnchantA024Desc="取自破裂的石牙野猪蹄，制作过程包括了用重锤击打多次。"{^W}{^n}(用于所有双手武器)
+tagEnchantA024Desc="取自破裂的石牙野猪蹄，制作过程包括了用重锤击打多次。"^w^n(用于所有双手武器)
 
 tagEnchantA025A=革翅目甲壳
 tagEnchantA025B=革翅目甲壳 II
 tagEnchantA025C=革翅目甲壳 III
-tagEnchantA025Desc="取自革翅目虫甲壳，进行了大量的酸化处理。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA025Desc="取自革翅目虫甲壳，进行了大量的酸化处理。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA026A=强效革翅目甲壳
 tagEnchantA026B=强效革翅目甲壳 II
 tagEnchantA026C=强效革翅目甲壳 III
-tagEnchantA026Desc="取自革翅目虫甲壳，进行了大量的酸化处理。"{^W}{^n}(用于所有双手武器)
+tagEnchantA026Desc="取自革翅目虫甲壳，进行了大量的酸化处理。"^w^n(用于所有双手武器)
 
 tagEnchantA027A=唤雨者粉末
 tagEnchantA027B=唤雨者粉末 II
 tagEnchantA027C=唤雨者粉末 III
-tagEnchantA027Desc="民间有个关于一种巫术粉末的传言，当村里的萨满用明火将其抛起后，两周内都会持续降雨。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA027Desc="民间有个关于一种巫术粉末的传言，当村里的萨满用明火将其抛起后，两周内都会持续降雨。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA028A=强效唤雨者粉末
 tagEnchantA028B=强效唤雨者粉末 II
 tagEnchantA028C=强效唤雨者粉末 III
-tagEnchantA028Desc="民间有个关于一种巫术粉末的传言，当村里的萨满用明火将其抛起后，两周内都会持续降雨。"{^W}{^n}(用于所有双手武器)
+tagEnchantA028Desc="民间有个关于一种巫术粉末的传言，当村里的萨满用明火将其抛起后，两周内都会持续降雨。"^w^n(用于所有双手武器)
 
 tagEnchantA029A=圣火
 tagEnchantA029B=圣火 II
 tagEnchantA029C=圣火 III
-tagEnchantA029Desc="凯蒙的神选者在仪式中使用的粉末。当扔在火盆上时，它会爆发出电火花。 "{^W}{^n}(用于戒指和项链)
+tagEnchantA029Desc="凯蒙的神选者在仪式中使用的粉末。当扔在火盆上时，它会爆发出电火花。 "^w^n(用于戒指和项链)
 
 tagEnchantA030A=祝福尘埃
 tagEnchantA030B=祝福尘埃 II
 tagEnchantA030C=祝福尘埃 III
-tagEnchantA030Desc="取自一位死去的凯蒙神选者的遗骸。"{^W}{^n}(用于戒指和项链)
+tagEnchantA030Desc="取自一位死去的凯蒙神选者的遗骸。"^w^n(用于戒指和项链)
 
 tagEnchantA031A=神圣之银
 tagEnchantA031B=神圣之银 II
 tagEnchantA031C=神圣之银 III
-tagEnchantA031Desc="供奉于神圣火焰之中用来和冥煞战斗的物品。"{^W}{^n}(用于戒指和项链)
+tagEnchantA031Desc="供奉于神圣火焰之中用来和冥煞战斗的物品。"^w^n(用于戒指和项链)
 
 tagEnchantA032A=仪式用盐
 tagEnchantA032B=仪式用盐 II
 tagEnchantA032C=仪式用盐 III
-tagEnchantA032Desc="在妖术仪式中使用的盐，经常洒在仪式圈周围用来避免受到躁动灵魂的干扰。"{^W}{^n}(用于戒指和项链)
+tagEnchantA032Desc="在妖术仪式中使用的盐，经常洒在仪式圈周围用来避免受到躁动灵魂的干扰。"^w^n(用于戒指和项链)
 
 tagEnchantA033A=坏死血肉
 tagEnchantA033B=坏死血肉 II
 tagEnchantA033C=坏死血肉 III
-tagEnchantA033Desc="取自死亡很久的尸体血肉，用来激发妖术仪式。"{^W}{^n}(用于戒指和项链)
+tagEnchantA033Desc="取自死亡很久的尸体血肉，用来激发妖术仪式。"^w^n(用于戒指和项链)
 
 tagEnchantA034A=尘世萦绕
 tagEnchantA034B=尘世萦绕 II
 tagEnchantA034C=尘世萦绕 III
-tagEnchantA034Desc="将躁动不安的灵魂用禁术转化为实质形态。"{^W}{^n}(用于戒指和项链)
+tagEnchantA034Desc="将躁动不安的灵魂用禁术转化为实质形态。"^w^n(用于戒指和项链)
 
 tagEnchantA035A=寒冬之花粉末
 tagEnchantA035B=寒冬之花粉末 II
 tagEnchantA035C=寒冬之花粉末 III
-tagEnchantA035Desc="萃取自一种奇怪的淡蓝色花朵，它只在严冬岁月中绽放。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA035Desc="萃取自一种奇怪的淡蓝色花朵，它只在严冬岁月中绽放。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA036A=强效寒冬之花粉末
 tagEnchantA036B=强效寒冬之花粉末 II
 tagEnchantA036C=强效寒冬之花粉末 III
-tagEnchantA036Desc="萃取自一种奇怪的淡蓝色花朵，它只在严冬岁月中绽放。"{^W}{^n}(用于所有双手武器)
+tagEnchantA036Desc="萃取自一种奇怪的淡蓝色花朵，它只在严冬岁月中绽放。"^w^n(用于所有双手武器)
 
 tagEnchantA037A=巫女粉末
 tagEnchantA037B=巫女粉末 II
 tagEnchantA037C=巫女粉末 III
-tagEnchantA037Desc="虽然在法律上是非法的，但很多军团的魔法师都在使用它。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA037Desc="虽然在法律上是非法的，但很多军团的魔法师都在使用它。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA038A=强效巫女粉末
 tagEnchantA038B=强效巫女粉末 II
 tagEnchantA038C=强效巫女粉末 III
-tagEnchantA038Desc="虽然在法律上是非法的，但很多军团的魔法师都在使用它。"{^W}{^n}(用于所有双手武器)
+tagEnchantA038Desc="虽然在法律上是非法的，但很多军团的魔法师都在使用它。"^w^n(用于所有双手武器)
 
 tagEnchantA039A=咒术师的粉末
 tagEnchantA039B=咒术师的粉末 II
 tagEnchantA039C=咒术师的粉末 III
-tagEnchantA039Desc="流浪者在各种仪式和冥想会话中使用的粉末。在召唤仪式中有惊人的效果。"{^W}{^n}(用于戒指和项链)
+tagEnchantA039Desc="流浪者在各种仪式和冥想会话中使用的粉末。在召唤仪式中有惊人的效果。"^w^n(用于戒指和项链)
 
 tagEnchantA040A=裂隙魔犬之盐
 tagEnchantA040B=裂隙魔犬之盐 II
 tagEnchantA040C=裂隙魔犬之盐 III
-tagEnchantA040Desc="萃取自裂隙魔犬首领灼热皮肤的粉末。"{^W}{^n}(用于戒指和项链)
+tagEnchantA040Desc="萃取自裂隙魔犬首领灼热皮肤的粉末。"^w^n(用于戒指和项链)
 
 tagEnchantA041A=驯兽者粉末
 tagEnchantA041B=驯兽者粉末 II
 tagEnchantA041C=驯兽者粉末 III
-tagEnchantA041Desc="霍姆斯特德农民用来驯服野兽的宁神药粉。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantA041Desc="霍姆斯特德农民用来驯服野兽的宁神药粉。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA042A=强效驯兽者粉末
 tagEnchantA042B=强效驯兽者粉末 II
 tagEnchantA042C=强效驯兽者粉末 III
-tagEnchantA042Desc="霍姆斯特德农民用来驯服野兽的宁神药粉。"{^W}{^n}(用于所有双手武器)
+tagEnchantA042Desc="霍姆斯特德农民用来驯服野兽的宁神药粉。"^w^n(用于所有双手武器)
 
 tagEnchantA043A=火焰之花粉末
 tagEnchantA043B=火焰之花粉末 II
 tagEnchantA043C=火焰之花粉末 III
-tagEnchantA043Desc="萃取自一种摸起来烫手的花朵，经常在火山附近生长。"{^W}{^n}(用于戒指和项链)
+tagEnchantA043Desc="萃取自一种摸起来烫手的花朵，经常在火山附近生长。"^w^n(用于戒指和项链)
 
 tagEnchantA044A=风暴粉末
 tagEnchantA044B=风暴粉末 II
 tagEnchantA044C=风暴粉末 III
-tagEnchantA044Desc="一种闪动着闪电打击的原始之力的蓝色粉末。"{^W}{^n}(用于戒指和项链)
+tagEnchantA044Desc="一种闪动着闪电打击的原始之力的蓝色粉末。"^w^n(用于戒指和项链)
 
 tagEnchantA045A=束缚尘埃
 tagEnchantA045B=束缚尘埃 II
 tagEnchantA045C=束缚尘埃 III
-tagEnchantA045Desc="教团用来束缚不死生物来服从其意志的粉尘。"{^W}{^n}(用于戒指和项链)
+tagEnchantA045Desc="教团用来束缚不死生物来服从其意志的粉尘。"^w^n(用于戒指和项链)
 
 tagEnchantA046A=冰心粉末
 tagEnchantA046B=冰心粉末 II
 tagEnchantA046C=冰心粉末 III
-tagEnchantA046Desc="取自亡灵的粉末。它似乎能从附近的空气中很容易地吸取热量。"{^W}{^n}(用于戒指和项链)
+tagEnchantA046Desc="取自亡灵的粉末。它似乎能从附近的空气中很容易地吸取热量。"^w^n(用于戒指和项链)
 
 tagEnchantB001A=艾格瑞姆的诡诈 I
 tagEnchantB001B=艾格瑞姆的诡诈 II
 tagEnchantB001BC=艾格瑞姆的诡诈 III
-tagEnchantB001Desc="没有人知道帝国第一刃是如何连结并创造出这种魔法粉末的，但没人质疑它的效果。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB001Desc="没有人知道帝国第一刃是如何连结并创造出这种魔法粉末的，但没人质疑它的效果。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB002A=强效艾格瑞姆的诡诈
 tagEnchantB002B=强效艾格瑞姆的诡诈 II
 tagEnchantB002BC=强效艾格瑞姆的诡诈 III
-tagEnchantB002Desc="没有人知道帝国第一刃是如何连结并创造出这种魔法粉末的，但没人质疑它的效果。"{^W}{^n}(用于所有双手武器)
+tagEnchantB002Desc="没有人知道帝国第一刃是如何连结并创造出这种魔法粉末的，但没人质疑它的效果。"^w^n(用于所有双手武器)
 
 tagEnchantB003A=克里德的机敏
 tagEnchantB003B=克里德的机敏 II
 tagEnchantB003BC=克里德的机敏 III
-tagEnchantB003Desc="审判者的粉末，只赐予他最信任的盟友，闪耀着秘术火花的能量。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB003Desc="审判者的粉末，只赐予他最信任的盟友，闪耀着秘术火花的能量。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB004A=强效克里德的机敏
 tagEnchantB004B=强效克里德的机敏 II
 tagEnchantB004BC=强效克里德的机敏 III
-tagEnchantB004Desc="审判者的粉末，只赐予他最信任的盟友，闪耀着秘术火花的能量。"{^W}{^n}(用于所有双手武器)
+tagEnchantB004Desc="审判者的粉末，只赐予他最信任的盟友，闪耀着秘术火花的能量。"^w^n(用于所有双手武器)
 
 tagEnchantB005A=奥莱隆的热情
 tagEnchantB005B=奥莱隆的热情 II
 tagEnchantB005BC=奥莱隆的热情 III
-tagEnchantB005Desc="一些黑色军团的士兵在冲锋陷阵时高喊着战争之神的名字。这种魔法只赋予了指挥官，以向军团的神致敬而得名。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB005Desc="一些黑色军团的士兵在冲锋陷阵时高喊着战争之神的名字。这种魔法只赋予了指挥官，以向军团的神致敬而得名。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB006A=强效奥莱隆的热情
 tagEnchantB006B=强效奥莱隆的热情 II
 tagEnchantB006BC=强效奥莱隆的热情 III
-tagEnchantB006Desc="一些黑色军团的士兵在冲锋陷阵时高喊着战争之神的名字。这种魔法只赋予了指挥官，以向军团的神致敬而得名。"{^W}{^n}(用于所有双手武器)
+tagEnchantB006Desc="一些黑色军团的士兵在冲锋陷阵时高喊着战争之神的名字。这种魔法只赋予了指挥官，以向军团的神致敬而得名。"^w^n(用于所有双手武器)
 
 tagEnchantB007A=虚化风暴粉末
 tagEnchantB007B=虚化风暴粉末 II
 tagEnchantB007BC=虚化风暴粉末 III
-tagEnchantB007Desc="黑色军团的魔法师们认为和敌人战斗的最佳方式是以己之道还施彼身。这种粉末是极少数被认可的实验案例。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB007Desc="黑色军团的魔法师们认为和敌人战斗的最佳方式是以己之道还施彼身。这种粉末是极少数被认可的实验案例。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB008A=强效虚化风暴粉末
 tagEnchantB008B=强效虚化风暴粉末 II
 tagEnchantB008BC=强效虚化风暴粉末 III
-tagEnchantB008Desc="黑色军团的魔法师们认为和敌人战斗的最佳方式是以己之道还施彼身。这种粉末是极少数被认可的实验案例。"{^W}{^n}(用于所有双手武器)
+tagEnchantB008Desc="黑色军团的魔法师们认为和敌人战斗的最佳方式是以己之道还施彼身。这种粉末是极少数被认可的实验案例。"^w^n(用于所有双手武器)
 
 tagEnchantB009A=冥神精华
 tagEnchantB009B=冥神精华 II
 tagEnchantB009BC=冥神精华 III
-tagEnchantB009Desc="武器涂上了冥煞生物内脏汁液会变得扭曲并难以辨认，但这正体现了虚空的精髓。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB009Desc="武器涂上了冥煞生物内脏汁液会变得扭曲并难以辨认，但这正体现了虚空的精髓。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB010A=强效冥神精华
 tagEnchantB010B=强效冥神精华 II
 tagEnchantB010BC=强效冥神精华 III
-tagEnchantB010Desc="武器涂上了冥煞生物内脏汁液会变得扭曲并难以辨认，但这正体现了虚空的精髓。"{^W}{^n}(用于所有双手武器)
+tagEnchantB010Desc="武器涂上了冥煞生物内脏汁液会变得扭曲并难以辨认，但这正体现了虚空的精髓。"^w^n(用于所有双手武器)
 
 tagEnchantB011A=罗万的智慧
 tagEnchantB011B=罗万的智慧 II
 tagEnchantB011BC=罗万的智慧 III
-tagEnchantB011Desc="罗万，安克维亚最后的帝王，也是罗瓦里的创始人，代表了流浪者的智慧。这件魔法物品以此命名来显示对他的尊敬。"{^W}{^n}(用于戒指和项链)
+tagEnchantB011Desc="罗万，安克维亚最后的帝王，也是罗瓦里的创始人，代表了流浪者的智慧。这件魔法物品以此命名来显示对他的尊敬。"^w^n(用于戒指和项链)
 
 tagEnchantB012A=莫格卓根的圣洁
 tagEnchantB012B=莫格卓根的圣洁 II
 tagEnchantB012BC=莫格卓根的圣洁 III
-tagEnchantB012Desc="传说在一段时期内，野兽之神莫格卓根和罗万签订了一个契约，在罗万和他的子民们举起屠刀之前，野兽都不会伤害他们。遗憾的是，被虚化的野兽并不受其约束。"{^W}{^n}(用于戒指和项链)
+tagEnchantB012Desc="传说在一段时期内，野兽之神莫格卓根和罗万签订了一个契约，在罗万和他的子民们举起屠刀之前，野兽都不会伤害他们。遗憾的是，被虚化的野兽并不受其约束。"^w^n(用于戒指和项链)
 
 tagEnchantB013A=旅行者的恩赐
 tagEnchantB013B=旅行者的恩赐 II
 tagEnchantB013BC=旅行者的恩赐 III
-tagEnchantB013Desc="流浪者开始漫长旅程前，长辈们都要准备这项魔法物品来保证旅途安全。"{^W}{^n}(用于戒指和项链)
+tagEnchantB013Desc="流浪者开始漫长旅程前，长辈们都要准备这项魔法物品来保证旅途安全。"^w^n(用于戒指和项链)
 
 tagEnchantB014A=生命之息
 tagEnchantB014B=生命之息 II
 tagEnchantB014BC=生命之息 III
-tagEnchantB014Desc="春天，复生之灵，重获新生的呼吸。"{^W}{^n}(用于戒指和项链)
+tagEnchantB014Desc="春天，复生之灵，重获新生的呼吸。"^w^n(用于戒指和项链)
 
 tagEnchantB015A=严冬之寒
 tagEnchantB015B=严冬之寒 II
 tagEnchantB015BC=严冬之寒 III
-tagEnchantB015Desc="严冬的真谛，一股改变和清净世界的可怕力量，使一切重新开始。"{^W}{^n}(用于戒指和项链)
+tagEnchantB015Desc="严冬的真谛，一股改变和清净世界的可怕力量，使一切重新开始。"^w^n(用于戒指和项链)
 
 tagEnchantB016A=罗万的决心
 tagEnchantB016B=罗万的决心 II
 tagEnchantB016BC=罗万的决心 III
-tagEnchantB016Desc="罗万，安克维亚最后的帝王，也是罗瓦里的创始人，据说他在领悟了大道的真谛后放弃了所有的财富。他在困难时期的信念和决心代表了一切，所有流浪者都为之努力。"{^W}{^n}(用于戒指和项链)
+tagEnchantB016Desc="罗万，安克维亚最后的帝王，也是罗瓦里的创始人，据说他在领悟了大道的真谛后放弃了所有的财富。他在困难时期的信念和决心代表了一切，所有流浪者都为之努力。"^w^n(用于戒指和项链)
 
 tagEnchantB017A=幸存者的机敏
 tagEnchantB017B=幸存者的机敏 II
 tagEnchantB017BC=幸存者的机敏 III
-tagEnchantB017Desc="由于供应有限，恶魔十字的人们想出了聪明的解决方法来解决一些威胁，其中就有这些魔法物品。"{^W}{^n}(用于戒指和项链)
+tagEnchantB017Desc="由于供应有限，恶魔十字的人们想出了聪明的解决方法来解决一些威胁，其中就有这些魔法物品。"^w^n(用于戒指和项链)
 
 tagEnchantB018A=幸存者的韧性
 tagEnchantB018B=幸存者的韧性 II
 tagEnchantB018BC=幸存者的韧性 III
-tagEnchantB018Desc="当最黑暗的时期来临时，人们的求生意志将达到最强。"{^W}{^n}(用于戒指和项链)
+tagEnchantB018Desc="当最黑暗的时期来临时，人们的求生意志将达到最强。"^w^n(用于戒指和项链)
 
 tagEnchantB019A=幸存者的坚毅
 tagEnchantB019B=幸存者的坚毅 II
 tagEnchantB019BC=幸存者的坚毅 III
-tagEnchantB019Desc="随着混沌和虚化之力的来临，幸存者们适应了新的威胁。"{^W}{^n}(用于戒指和项链)
+tagEnchantB019Desc="随着混沌和虚化之力的来临，幸存者们适应了新的威胁。"^w^n(用于戒指和项链)
 
 tagEnchantB020A=凯恩的希望
 tagEnchantB020B=凯恩的希望 II
 tagEnchantB020BC=凯恩的希望 III
-tagEnchantB020Desc="正当他们准备防御的时候，幸存者们声称世界将会免受侵略者的迫害。"{^W}{^n}(用于戒指和项链)
+tagEnchantB020Desc="正当他们准备防御的时候，幸存者们声称世界将会免受侵略者的迫害。"^w^n(用于戒指和项链)
 
 tagEnchantB021A=元素之歌
 tagEnchantB021B=元素之歌 II
 tagEnchantB021BC=元素之歌 III
-tagEnchantB021Desc="萨蒂娜，灵魂向导，他设计了这件包含了冰与火冲突之力的魔法物品。"{^W}{^n}(用于戒指和项链)
+tagEnchantB021Desc="萨蒂娜，灵魂向导，他设计了这件包含了冰与火冲突之力的魔法物品。"^w^n(用于戒指和项链)
 
 tagEnchantB022A=维洛斯之咬
 tagEnchantB022B=维洛斯之咬 II
 tagEnchantB022BC=维洛斯之咬 III
-tagEnchantB022Desc="传说中的蛇人首领，维洛斯，制作了具有超凡毒性的汁液。巴纳巴斯发现了将其转化为粉末的方法，提供给愿意为恶魔十字战斗的人们。"{^W}{^n}(用于戒指和项链)
+tagEnchantB022Desc="传说中的蛇人首领，维洛斯，制作了具有超凡毒性的汁液。巴纳巴斯发现了将其转化为粉末的方法，提供给愿意为恶魔十字战斗的人们。"^w^n(用于戒指和项链)
 
 tagEnchantB023A=监工的凝视
 tagEnchantB023B=监工的凝视 II
 tagEnchantB023BC=监工的凝视 III
-tagEnchantB023Desc="卡斯帕罗夫对实验有着无尽的耐性，在他试着将虚灵监工的眼珠转换为炸药的时候，偶然发现了它的特殊用途。"{^W}{^n}(用于戒指和项链)
+tagEnchantB023Desc="卡斯帕罗夫对实验有着无尽的耐性，在他试着将虚灵监工的眼珠转换为炸药的时候，偶然发现了它的特殊用途。"^w^n(用于戒指和项链)
 
 tagEnchantB024A=自然收割
 tagEnchantB024B=自然收割 II
 tagEnchantB024BC=自然收割 III
-tagEnchantB024Desc="一些农民祈求完整的收获。那些懂得魔法的人倾向于了解如何如何靠取巧提升成功率。当应用于武器时，这种狂野的生长会对血肉造成灾难性的打击。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB024Desc="一些农民祈求完整的收获。那些懂得魔法的人倾向于了解如何如何靠取巧提升成功率。当应用于武器时，这种狂野的生长会对血肉造成灾难性的打击。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB025A=强效自然收割
 tagEnchantB025B=强效自然收割 II
 tagEnchantB025BC=强效自然收割 III
-tagEnchantB025Desc="一些农民祈求完整的收获。那些懂得魔法的人倾向于了解如何如何靠取巧提升成功率。当应用于武器时，这种狂野的生长会对血肉造成灾难性的打击。"{^W}{^n}(用于所有双手武器)
+tagEnchantB025Desc="一些农民祈求完整的收获。那些懂得魔法的人倾向于了解如何如何靠取巧提升成功率。当应用于武器时，这种狂野的生长会对血肉造成灾难性的打击。"^w^n(用于所有双手武器)
 
 tagEnchantB026A=日阳之辉
 tagEnchantB026B=日阳之辉 II
 tagEnchantB026BC=日阳之辉 III
-tagEnchantB026Desc="魔法粉末之中禁锢着太阳的力量。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB026Desc="魔法粉末之中禁锢着太阳的力量。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB027A=强效日阳之辉
 tagEnchantB027B=强效日阳之辉 II
 tagEnchantB027BC=强效日阳之辉 III
-tagEnchantB027Desc="魔法粉末之中禁锢着太阳的力量。"{^W}{^n}(用于所有双手武器)
+tagEnchantB027Desc="魔法粉末之中禁锢着太阳的力量。"^w^n(用于所有双手武器)
 
 tagEnchantB028A=曼海尔的祝福
 tagEnchantB028B=曼海尔的祝福 II
 tagEnchantB028BC=曼海尔的祝福 III
-tagEnchantB028Desc="据说被曼海尔祝福过的土地都带来了丰收。当正确使用时，这种祝福效果可以延伸至工具、房屋以及武器上。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB028Desc="据说被曼海尔祝福过的土地都带来了丰收。当正确使用时，这种祝福效果可以延伸至工具、房屋以及武器上。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB029A=强效曼海尔的祝福
 tagEnchantB029B=强效曼海尔的祝福 II
 tagEnchantB029BC=强效曼海尔的祝福 III
-tagEnchantB029Desc="据说被曼海尔祝福过的土地都带来了丰收。当正确使用时，这项祝福可以延伸至工具、房屋以及武器上。"{^W}{^n}(用于所有双手武器)
+tagEnchantB029Desc="据说被曼海尔祝福过的土地都带来了丰收。当正确使用时，这项祝福可以延伸至工具、房屋以及武器上。"^w^n(用于所有双手武器)
 
 tagEnchantB030A=凯蒙的意志
 tagEnchantB030B=凯蒙的意志 II
 tagEnchantB030BC=凯蒙的意志 III
-tagEnchantB030Desc="凯蒙，被神灵选中的人，被授予了超越名利和意志的超凡地位。"{^W}{^n}(用于戒指和项链)
+tagEnchantB030Desc="凯蒙，被神灵选中的人，被授予了超越名利和意志的超凡地位。"^w^n(用于戒指和项链)
 
 tagEnchantB031A=凯蒙的愤怒
 tagEnchantB031B=凯蒙的愤怒 II
 tagEnchantB031BC=凯蒙的愤怒 III
-tagEnchantB031Desc="那些看见凯蒙战斗的人说他发出了像天神一般的复仇怒火。"{^W}{^n}(用于戒指和项链)
+tagEnchantB031Desc="那些看见凯蒙战斗的人说他发出了像天神一般的复仇怒火。"^w^n(用于戒指和项链)
 
 tagEnchantB032A=凯蒙的远见
 tagEnchantB032B=凯蒙的远见 II
 tagEnchantB032BC=凯蒙的远见 III
-tagEnchantB032Desc="凯蒙关于凯恩未来的预见使得神选者们在和凯恩的敌人们战斗时陷入了疯狂。"{^W}{^n}(用于戒指和项链)
+tagEnchantB032Desc="凯蒙关于凯恩未来的预见使得神选者们在和凯恩的敌人们战斗时陷入了疯狂。"^w^n(用于戒指和项链)
 
 tagEnchantB033A=尤若布鲁克的话语
 tagEnchantB033B=尤若布鲁克的话语 II
 tagEnchantB033BC=尤若布鲁克的话语 III
-tagEnchantB033Desc="在早先的一些训练中，尤若布鲁克大师握着尸体的手臂，只能说出一个词：起来。"{^W}{^n}(用于戒指和项链)
+tagEnchantB033Desc="在早先的一些训练中，尤若布鲁克大师握着尸体的手臂，只能说出一个词：起来。"^w^n(用于戒指和项链)
 
 tagEnchantB034A=尤若布鲁克的痛苦
 tagEnchantB034B=尤若布鲁克的痛苦 II
 tagEnchantB034BC=尤若布鲁克的痛苦 III
-tagEnchantB034Desc="尤若布鲁克大师在安克维亚人手中承受了难以想象的痛苦。这件可怕的魔法物品试图复制其遭受的苦难。"{^W}{^n}(用于戒指和项链)
+tagEnchantB034Desc="尤若布鲁克大师在安克维亚人手中承受了难以想象的痛苦。这件可怕的魔法物品试图复制其遭受的苦难。"^w^n(用于戒指和项链)
 
 tagEnchantB035A=尤若布鲁克之道
 tagEnchantB035B=尤若布鲁克之道 II
 tagEnchantB035BC=尤若布鲁克之道 III
-tagEnchantB035Desc="追随尤若布鲁克的道路即是寻求知识之路，无论路在何方。"{^W}{^n}(用于戒指和项链)
+tagEnchantB035Desc="追随尤若布鲁克的道路即是寻求知识之路，无论路在何方。"^w^n(用于戒指和项链)
 
 tagEnchantB036A=放逐者的威势
 tagEnchantB036B=放逐者的威势 II
 tagEnchantB036BC=放逐者的威势 III
-tagEnchantB036Desc="由放逐者设计的至强增幅，令使用者有如神助。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB036Desc="由放逐者设计的至强增幅，令使用者有如神助。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB037A=强效放逐者的威势
 tagEnchantB037B=强效放逐者的威势 II
 tagEnchantB037BC=强效放逐者的威势 III
-tagEnchantB037Desc="由放逐者设计的至强增幅，令使用者有如神助。"{^W}{^n}(用于所有双手武器)
+tagEnchantB037Desc="由放逐者设计的至强增幅，令使用者有如神助。"^w^n(用于所有双手武器)
 
 tagEnchantB038A=放逐者的霜冻
 tagEnchantB038B=放逐者的霜冻 II
 tagEnchantB038BC=放逐者的霜冻 III
-tagEnchantB038Desc="由放逐者设计的至强增幅，令使用者精通寒冰之力。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB038Desc="由放逐者设计的至强增幅，令使用者精通寒冰之力。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB039A=强效放逐者的霜冻
 tagEnchantB039B=强效放逐者的霜冻 II
 tagEnchantB039BC=强效放逐者的霜冻 III
-tagEnchantB039Desc="由放逐者设计的至强增幅，令使用者精通寒冰之力。"{^W}{^n}(用于所有双手武器)
+tagEnchantB039Desc="由放逐者设计的至强增幅，令使用者精通寒冰之力。"^w^n(用于所有双手武器)
 
 tagEnchantB040A=放逐者的炼狱
 tagEnchantB040B=放逐者的炼狱 II
 tagEnchantB040BC=放逐者的炼狱 III
-tagEnchantB040Desc="由放逐者设计的至强增幅，令使用者精通炼狱之火。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB040Desc="由放逐者设计的至强增幅，令使用者精通炼狱之火。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB041A=强效放逐者的炼狱
 tagEnchantB041B=强效放逐者的炼狱 II
 tagEnchantB041BC=强效放逐者的炼狱 III
-tagEnchantB041Desc="由放逐者设计的至强增幅，令使用者精通炼狱之火。"{^W}{^n}(用于所有双手武器)
+tagEnchantB041Desc="由放逐者设计的至强增幅，令使用者精通炼狱之火。"^w^n(用于所有双手武器)
 
 tagEnchantB042A=放逐者的雷霆
 tagEnchantB042B=放逐者的雷霆 II
 tagEnchantB042BC=放逐者的雷霆 III
-tagEnchantB042Desc="由放逐者设计的至强增幅，令使用者精通天堂之力。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB042Desc="由放逐者设计的至强增幅，令使用者精通天堂之力。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB043A=强效放逐者的雷霆
 tagEnchantB043B=强效放逐者的雷霆 II
 tagEnchantB043BC=强效放逐者的雷霆 III
-tagEnchantB043Desc="由放逐者设计的至强增幅，令使用者精通天堂之力。"{^W}{^n}(用于所有双手武器)
+tagEnchantB043Desc="由放逐者设计的至强增幅，令使用者精通天堂之力。"^w^n(用于所有双手武器)
 
 tagEnchantB044A=放逐者的毒液
 tagEnchantB044B=放逐者的毒液 II
 tagEnchantB044BC=放逐者的毒液 III
-tagEnchantB044Desc="由放逐者设计的至强增幅，令使用者精通毒素运用。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB044Desc="由放逐者设计的至强增幅，令使用者精通毒素运用。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB045A=强效放逐者的毒液
 tagEnchantB045B=强效放逐者的毒液 II
 tagEnchantB045BC=强效放逐者的毒液 III
-tagEnchantB045Desc="由放逐者设计的至强增幅，令使用者精通毒素运用。"{^W}{^n}(用于所有双手武器)
+tagEnchantB045Desc="由放逐者设计的至强增幅，令使用者精通毒素运用。"^w^n(用于所有双手武器)
 
 tagEnchantB046A=放逐者的死亡之触
 tagEnchantB046B=放逐者的死亡之触 II
 tagEnchantB046BC=放逐者的死亡之触 III
-tagEnchantB046Desc="由放逐者设计的至强增幅，令使用者掌握生命精华。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB046Desc="由放逐者设计的至强增幅，令使用者掌握生命精华。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB047A=强效放逐者的死亡之触
 tagEnchantB047B=强效放逐者的死亡之触 II
 tagEnchantB047BC=强效放逐者的死亡之触 III
-tagEnchantB047Desc="由放逐者设计的至强增幅，令使用者掌握生命精华。"{^W}{^n}(用于所有双手武器)
+tagEnchantB047Desc="由放逐者设计的至强增幅，令使用者掌握生命精华。"^w^n(用于所有双手武器)
 
 tagEnchantB048A=放逐者的愤怒
 tagEnchantB048B=放逐者的愤怒 II
 tagEnchantB048BC=放逐者的愤怒 III
-tagEnchantB048Desc="由放逐者设计的至强增幅，令使用者精通虚化之力。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB048Desc="由放逐者设计的至强增幅，令使用者精通虚化之力。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB049A=强效放逐者的愤怒
 tagEnchantB049B=强效放逐者的愤怒 II
 tagEnchantB049BC=强效放逐者的愤怒 III
-tagEnchantB049Desc="由放逐者设计的至强增幅，令使用者精通虚化之力。"{^W}{^n}(用于所有双手武器)
+tagEnchantB049Desc="由放逐者设计的至强增幅，令使用者精通虚化之力。"^w^n(用于所有双手武器)
 
 tagEnchantB050A=放逐者的时空风暴
 tagEnchantB050B=放逐者的时空风暴 II
 tagEnchantB050BC=放逐者的时空风暴 III
-tagEnchantB050Desc="由放逐者设计的至强增幅，令使用者精通混乱虚空之力。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB050Desc="由放逐者设计的至强增幅，令使用者精通混乱虚空之力。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB051A=强效放逐者的时空风暴
 tagEnchantB051B=强效放逐者的时空风暴 II
 tagEnchantB051BC=强效放逐者的时空风暴 III
-tagEnchantB051Desc="由放逐者设计的至强增幅，令使用者精通混乱虚空之力。"{^W}{^n}(用于所有双手武器)
+tagEnchantB051Desc="由放逐者设计的至强增幅，令使用者精通混乱虚空之力。"^w^n(用于所有双手武器)
 
 tagEnchantB052A=放逐者的堡垒
 tagEnchantB052B=放逐者的堡垒 II
 tagEnchantB052BC=放逐者的堡垒 III
-tagEnchantB052Desc="由放逐者设计的至强增幅，令使用者的皮肤犹如钢铁。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB052Desc="由放逐者设计的至强增幅，令使用者的皮肤犹如钢铁。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB053A=强效放逐者的堡垒
 tagEnchantB053B=强效放逐者的堡垒 II
 tagEnchantB053BC=强效放逐者的堡垒 III
-tagEnchantB053Desc="由放逐者设计的至强增幅，令使用者的皮肤犹如钢铁。"{^W}{^n}(用于所有双手武器)
+tagEnchantB053Desc="由放逐者设计的至强增幅，令使用者的皮肤犹如钢铁。"^w^n(用于所有双手武器)
 
 tagEnchantB054A=自然之怒
 tagEnchantB054B=自然之怒 II
 tagEnchantB054C=自然之怒 III
-tagEnchantB054Desc="毒药和毒素的强力混合物，只有流浪者能掌握，也只在极端环境中使用。"{^W}{^n}(用于戒指和项链)
+tagEnchantB054Desc="毒药和毒素的强力混合物，只有流浪者能掌握，也只在极端环境中使用。"^w^n(用于戒指和项链)
 
 tagEnchantB055A=复仇之魂
 tagEnchantB055B=复仇之魂 II
 tagEnchantB055C=复仇之魂 III
-tagEnchantB055Desc="从安克维亚废墟中捕获的邪恶复仇之灵。坩埚内部被刻上了保护性的符文。"{^W}{^n}(用于戒指和项链)
+tagEnchantB055Desc="从安克维亚废墟中捕获的邪恶复仇之灵。坩埚内部被刻上了保护性的符文。"^w^n(用于戒指和项链)
 
 tagEnchantB056A=幸存者的同盟
 tagEnchantB056B=幸存者的同盟 II
 tagEnchantB056C=幸存者的同盟 III
-tagEnchantB056Desc="当缺少盟友的时候，野兽伙伴是唯一值得信任的朋友。"{^W}{^n}(用于戒指和项链)
+tagEnchantB056Desc="当缺少盟友的时候，野兽伙伴是唯一值得信任的朋友。"^w^n(用于戒指和项链)
 
 tagEnchantB057A=野兽之王的呼唤
 tagEnchantB057B=野兽之王的呼唤 II
 tagEnchantB057BC=野兽之王的呼唤 III
-tagEnchantB057Desc="霍姆斯特德的人们用来祝福他们兽群的一种调和剂。"{^W}{^n}(用于所有单手武器，盾牌和法器副手)
+tagEnchantB057Desc="霍姆斯特德的人们用来祝福他们兽群的一种调和剂。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB058A=强效野兽之王的呼唤
 tagEnchantB058B=强效野兽之王的呼唤 II
 tagEnchantB058BC=强效野兽之王的呼唤 III
-tagEnchantB058Desc="霍姆斯特德的人们用来祝福他们兽群的一种调和剂。"{^W}{^n}(用于所有双手武器)
+tagEnchantB058Desc="霍姆斯特德的人们用来祝福他们兽群的一种调和剂。"^w^n(用于所有双手武器)
 
 tagEnchantB059A=莫格卓根的祝福
 tagEnchantB059B=莫格卓根的祝福 II
 tagEnchantB059C=莫格卓根的祝福 III
-tagEnchantB059Desc="据说是由野兽之神亲自施加祝福来增强人与野兽之间联系的粉末。"{^W}{^n}(用于戒指和项链)
+tagEnchantB059Desc="据说是由野兽之神亲自施加祝福来增强人与野兽之间联系的粉末。"^w^n(用于戒指和项链)
 
 tagEnchantB060A=至高之神的触摸
 tagEnchantB060B=至高之神的触摸 II
 tagEnchantB060C=至高之神的触摸 III
-tagEnchantB060Desc="由光明使者触碰过的闪动着火花的粉末。"{^W}{^n}(用于戒指和项链)
+tagEnchantB060Desc="由光明使者触碰过的闪动着火花的粉末。"^w^n(用于戒指和项链)
 
 tagEnchantB061A=炼狱粉尘
 tagEnchantB061B=炼狱粉尘 II
 tagEnchantB061C=炼狱粉尘 III
-tagEnchantB061Desc="燃烧着至高之神怒火的魔法粉末。"{^W}{^n}(用于戒指和项链)
+tagEnchantB061Desc="燃烧着至高之神怒火的魔法粉末。"^w^n(用于戒指和项链)
 
 tagEnchantB062A=马卡达的冰毒
 tagEnchantB062B=马卡达的冰毒 II
 tagEnchantB062C=马卡达的冰毒 III
-tagEnchantB062Desc="马卡达创造的魔法粉末，他是教团的第一名核心成员。"{^W}{^n}(用于戒指和项链)
+tagEnchantB062Desc="马卡达创造的魔法粉末，他是教团的第一名核心成员。"^w^n(用于戒指和项链)
 
 tagEnchantB063A=守卫者的连结之尘
 tagEnchantB063B=守卫者的连结之尘 II
 tagEnchantB063C=守卫者的连结之尘 III
-tagEnchantB063Desc="守卫者制造的将最强的不死仆从与自身绑定的粉尘。"{^W}{^n}(用于戒指和项链)
+tagEnchantB063Desc="守卫者制造的将最强的不死仆从与自身绑定的粉尘。"^w^n(用于戒指和项链)
 
 tagEnchantC001A=人族的监视
-tagEnchantC001Desc="由军团奥术师所制作的保护士兵免受虚灵和冥煞伤害的粉末。"{^W}{^n}(用于所有护甲)
+tagEnchantC001Desc="由军团奥术师所制作的保护士兵免受虚灵和冥煞伤害的粉末。"^w^n(用于所有护甲)
 tagEnchantC002A=皇家护卫粉末
-tagEnchantC002Desc="源自皇室行装而被命名，但人们发现在战斗中同样很有价值。"{^W}{^n}(用于所有护甲)
+tagEnchantC002Desc="源自皇室行装而被命名，但人们发现在战斗中同样很有价值。"^w^n(用于所有护甲)
 
 tagEnchantC003A=恶毒守卫粉末
-tagEnchantC003Desc="从几种野兽和植物发源地萃取的致命毒素。"{^W}{^n}(用于所有护甲)
+tagEnchantC003Desc="从几种野兽和植物发源地萃取的致命毒素。"^w^n(用于所有护甲)
 tagEnchantC004A=暗夜之影粉末
-tagEnchantC004Desc="萃取自阿斯特堪的暗影花瓣，这是一种只在月光下绽放的花朵。"{^W}{^n}(用于所有护甲)
+tagEnchantC004Desc="萃取自阿斯特堪的暗影花瓣，这是一种只在月光下绽放的花朵。"^w^n(用于所有护甲)
 
 tagEnchantC005A=刀锋护卫魔药
-tagEnchantC005Desc="萨蒂娜发明的魔药，用来守护恶魔十字的保卫者免于物理伤害。"{^W}{^n}(用于所有护甲)
+tagEnchantC005Desc="萨蒂娜发明的魔药，用来守护恶魔十字的保卫者免于物理伤害。"^w^n(用于所有护甲)
 tagEnchantC006A=莫格卓根的触摸
-tagEnchantC006Desc="来自野兽之神的祝福，使其追随者们免受自然的复仇。"{^W}{^n}(用于所有护甲)
+tagEnchantC006Desc="来自野兽之神的祝福，使其追随者们免受自然的复仇。"^w^n(用于所有护甲)
 
 tagEnchantC007A=火焰编织魔尘
-tagEnchantC007Desc="取自被太阳晒黑的蝎尾狮骨头，通常用来增强护甲的抗火能力。"{^W}{^n}(用于所有护甲)
+tagEnchantC007Desc="取自被太阳晒黑的蝎尾狮骨头，通常用来增强护甲的抗火能力。"^w^n(用于所有护甲)
 tagEnchantC008A=日光风暴魔尘
-tagEnchantC008Desc="这种特殊粉末只能在日食环境下混合调制出来，以保证它不会失去奥术能量，从而变得和普通灰尘一样。"{^W}{^n}(用于所有护甲)
+tagEnchantC008Desc="这种特殊粉末只能在日食环境下混合调制出来，以保证它不会失去奥术能量，从而变得和普通灰尘一样。"^w^n(用于所有护甲)
 
 tagEnchantC009A=凯蒙的祝福
-tagEnchantC009Desc="神父凯蒙亲自祝福的保护他的追随者免受至高之神烈焰灼烧的神秘魔尘。"{^W}{^n}(用于所有护甲)
+tagEnchantC009Desc="神父凯蒙亲自祝福的保护他的追随者免受至高之神烈焰灼烧的神秘魔尘。"^w^n(用于所有护甲)
 tagEnchantC010A=凯蒙的引线
-tagEnchantC010Desc="神父凯蒙创造的引导闪电远离佩带者心脏的魔尘。"{^W}{^n}(用于所有护甲)
+tagEnchantC010Desc="神父凯蒙创造的引导闪电远离佩带者心脏的魔尘。"^w^n(用于所有护甲)
 tagEnchantC011A=恶魔之祸魔尘
-tagEnchantC011Desc="神选牧师所创造的保护盟友免受虚灵生物侵害的魔法粉末。"{^W}{^n}(用于所有护甲)
+tagEnchantC011Desc="神选牧师所创造的保护盟友免受虚灵生物侵害的魔法粉末。"^w^n(用于所有护甲)
 
 tagEnchantC012A=幽魂之触粉末
-tagEnchantC012Desc="灌注了被抓获的幽灵精髓的魔法粉尘。"{^W}{^n}(用于所有护甲)
+tagEnchantC012Desc="灌注了被抓获的幽灵精髓的魔法粉尘。"^w^n(用于所有护甲)
 tagEnchantC013A=灵魂向导粉末
-tagEnchantC013Desc="取自已故亡灵巫师骨灰的魔法粉尘。"{^W}{^n}(用于所有护甲)
+tagEnchantC013Desc="取自已故亡灵巫师骨灰的魔法粉尘。"^w^n(用于所有护甲)
 tagEnchantC014A=符咒守护者粉末
-tagEnchantC014Desc="教团高等级的熟练奥术师制造了这种粉末来保护盟友免受秘术仪式伤害。"{^W}{^n}(用于所有护甲)
+tagEnchantC014Desc="教团高等级的熟练奥术师制造了这种粉末来保护盟友免受秘术仪式伤害。"^w^n(用于所有护甲)
 
 tagEnchantC015A=放逐者的守护之力
-tagEnchantC015Desc="放逐者对于奥术的精通使得他们能制作出即便是最虚弱的人也能保护其抗衡虚化破坏之力的粉末。"{^W}{^n}(用于所有护甲)
+tagEnchantC015Desc="放逐者对于奥术的精通使得他们能制作出即便是最虚弱的人也能保护其抗衡虚化破坏之力的粉末。"^w^n(用于所有护甲)
 tagEnchantC016A=放逐者的元素平衡
-tagEnchantC016Desc="放逐者制作的特殊粉末，能够保护使用者免受冰火元素冲突之力的影响。"{^W}{^n}(用于所有护甲)
+tagEnchantC016Desc="放逐者制作的特殊粉末，能够保护使用者免受冰火元素冲突之力的影响。"^w^n(用于所有护甲)
 tagEnchantC017A=放逐者的天空卫士粉末
-tagEnchantC017Desc="放逐者制作的特殊粉末，帮助使用者抵抗天空法术。"{^W}{^n}(用于所有护甲)
+tagEnchantC017Desc="放逐者制作的特殊粉末，帮助使用者抵抗天空法术。"^w^n(用于所有护甲)
 
 
 
@@ -3210,257 +3210,257 @@ tagComponentCombine=[右键点击以组合]
 tagComponentConfirmation=你确定要组合成完整镶嵌物吗？
 
 tagCompA001Name=^x07^h-^o尖刺外壳
-tagCompA001Desc="一种长着锯齿状尖刺的厚重甲壳。"{^W}{^n}(用于所有护甲)
+tagCompA001Desc="一种长着锯齿状尖刺的厚重甲壳。"^w^n(用于所有护甲)
 
 tagCompA002Name=^x19^h-^o冲击铠甲片
-tagCompA002Desc="一种用来抵御箭头和子弹的古老盔甲的碎片。"{^W}{^n}(用于胸甲)
+tagCompA002Desc="一种用来抵御箭头和子弹的古老盔甲的碎片。"^w^n(用于胸甲)
 
 tagCompA003Name=^x09^h-^o圣骨
-tagCompA003Desc="一名牺牲在圣战中的骑士身上经过净化的骨头。"{^W}{^n}(用于胸甲和头盔)
+tagCompA003Desc="一名牺牲在圣战中的骑士身上经过净化的骨头。"^w^n(用于胸甲和头盔)
 
 tagCompA004Name=^x13^h-^o坚韧兽皮
-tagCompA004Desc="一块厚厚的兽皮，粗糙的表面非常适合用来吸收突如其来的冲击。"{^W}{^n}(用于头盔)
+tagCompA004Desc="一块厚厚的兽皮，粗糙的表面非常适合用来吸收突如其来的冲击。"^w^n(用于头盔)
 
 tagCompA005Name=^x11^h-^o符文之石
-tagCompA005Desc="一种神秘的符文灌注在这块石头之中。"{^W}{^n}(用于头盔)
+tagCompA005Desc="一种神秘的符文灌注在这块石头之中。"^w^n(用于头盔)
 
 tagCompA006Name=^s07^h-^o突变脓水
-tagCompA006Desc="从感染了异世界能量的生物身上取得。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA006Desc="从感染了异世界能量的生物身上取得。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA007Name=^x14^h-^o腐坏之心
-tagCompA007Desc="受死灵法术影响而不再搏动的枯萎心脏。"{^W}{^n}(用于胸甲)
+tagCompA007Desc="受死灵法术影响而不再搏动的枯萎心脏。"^w^n(用于胸甲)
 
 tagCompA008Name=突变鳞片
-tagCompA008Desc="因暴露在虚灵能量下产生了突变，这种鳞片变得异常厚重和坚硬。"{^W}{^n}(用于胸甲，护肩，腿甲以及手套)
+tagCompA008Desc="因暴露在虚灵能量下产生了突变，这种鳞片变得异常厚重和坚硬。"^w^n(用于胸甲，护肩，腿甲以及手套)
 
 tagCompA009Name=尸尘
-tagCompA009Desc="从死尸身上提炼来的尘埃，经常用于施放魔法和妖术。"{^W}{^n}(用于戒指，项链以及勋章)
+tagCompA009Desc="从死尸身上提炼来的尘埃，经常用于施放魔法和妖术。"^w^n(用于戒指，项链以及勋章)
 
 tagCompA010Name=灵魂碎片
-tagCompA010Desc="传闻说这是猎魔人用来困住邪魔的一种魔法宝石。"{^W}{^n}(用于戒指，项链和勋章)
+tagCompA010Desc="传闻说这是猎魔人用来困住邪魔的一种魔法宝石。"^w^n(用于戒指，项链和勋章)
 
 tagCompA011Name=^s11^h-^o灵质
-tagCompA011Desc="有时会从无形生物身上留下的胶状残留物。"{^W}{^n}(用于头盔、戒指，项链和勋章)
+tagCompA011Desc="有时会从无形生物身上留下的胶状残留物。"^w^n(用于头盔、戒指，项链和勋章)
 
 tagCompA012Name=^x15^h-^o赐福钢铁
-tagCompA012Desc="受到曼海尔麾下的牧师赐福的钢铁，用来驱逐不断侵袭的黑暗。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA012Desc="受到曼海尔麾下的牧师赐福的钢铁，用来驱逐不断侵袭的黑暗。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA013Name=毒牙
-tagCompA013Desc="一枚滴着毒液的尖牙。"{^W}{^n}(用于近战武器)
+tagCompA013Desc="一枚滴着毒液的尖牙。"^w^n(用于近战武器)
 
 tagCompA014Name=^x06^h-^o纯净之盐
-tagCompA014Desc="被提炼用来驱除和威慑异世恶魔的石盐。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA014Desc="被提炼用来驱除和威慑异世恶魔的石盐。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA015Name=^x03^h-^o中空之牙
-tagCompA015Desc="一枚弯曲的牙齿，用来汲取生命力。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA015Desc="一枚弯曲的牙齿，用来汲取生命力。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA016Name=^s33^h-^o断裂之爪
-tagCompA016Desc="从一种猛兽的肢体上扯下来的利爪。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA016Desc="从一种猛兽的肢体上扯下来的利爪。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA017Name=^x05^h-^o灌魔银粉
-tagCompA017Desc="灌注了强大魔力的银粉。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA017Desc="灌注了强大魔力的银粉。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA018Name=^s15^h-^o恶毒尖刺
-tagCompA018Desc="从一只非自然生物身上得来的尖刺。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA018Desc="从一只非自然生物身上得来的尖刺。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA019Name=^s32^h-^o辐光宝石
-tagCompA019Desc="一块发光的宝石，随着不同的元素而闪烁着。"{^W}{^n}(用于盾牌和法器副手)
+tagCompA019Desc="一块发光的宝石，随着不同的元素而闪烁着。"^w^n(用于盾牌和法器副手)
 
 tagCompA020Name=^s29^h-^o诛魔弹药
-tagCompA020Desc="神力加持的子弹，带给渎神者以极大的痛苦。"{^W}{^n}(用于枪械，双手弩和法器副手)
+tagCompA020Desc="神力加持的子弹，带给渎神者以极大的痛苦。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA021Name=^s17^h-^o死寒箭矢
-tagCompA021Desc="给敌人带去死亡般的寒冷。"{^W}{^n}(用于枪械，双手弩和法器副手)
+tagCompA021Desc="给敌人带去死亡般的寒冷。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA022Name=^x12^h-^o虚化之魂
-tagCompA022Desc="一块含有能量并震颤着的石头。在现实位面被杀死的虚灵经常会留下这种石头。"{^W}{^n}(用于项链和勋章)
+tagCompA022Desc="一块含有能量并震颤着的石头。在现实位面被杀死的虚灵经常会留下这种石头。"^w^n(用于项链和勋章)
 
 tagCompA023Name=^s12^h-^o坚硬外壳
-tagCompA023Desc="一块坚硬的外壳，似乎对冲击免疫。"{^W}{^n}(用于所有护甲)
+tagCompA023Desc="一块坚硬的外壳，似乎对冲击免疫。"^w^n(用于所有护甲)
 
 tagCompA024Name=^s18^h-^o熔岩皮肤
-tagCompA024Desc="一块厚厚的皮层，来源于一种浑身冒火的生物。"{^W}{^n}(用于所有护甲)
+tagCompA024Desc="一块厚厚的皮层，来源于一种浑身冒火的生物。"^w^n(用于所有护甲)
 
 tagCompA025Name=^s31^h-^o魔法火石
-tagCompA025Desc="通过和武器的摩擦，这种被施加了魔法的火石能够将火之精魂附在武器上。"{^W}{^n}(用于近战武器，盾牌和法器副手)
+tagCompA025Desc="通过和武器的摩擦，这种被施加了魔法的火石能够将火之精魂附在武器上。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA026Name=^s21^h-^o寒石
-tagCompA026Desc="民间传说中，这种既神秘又散发着寒冷的石头是游魂的心脏。"{^W}{^n}(用于近战武器，盾牌和法器副手)
+tagCompA026Desc="民间传说中，这种既神秘又散发着寒冷的石头是游魂的心脏。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA027Name=^s25^h-^o琥珀
-tagCompA027Desc="据说有时候，当树木遭到雷击时，风暴之灵会被困在树木结晶的汁液之中。"{^W}{^n}(用于近战武器，盾牌和法器副手)
+tagCompA027Desc="据说有时候，当树木遭到雷击时，风暴之灵会被困在树木结晶的汁液之中。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA028Name=^s22^h-^o强酸结石
-tagCompA028Desc="邪恶野兽的胆囊中生成的酸性结石。"{^W}{^n}(用于近战武器，盾牌和法器副手)
+tagCompA028Desc="邪恶野兽的胆囊中生成的酸性结石。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA029Name=^x08^h-^o赐福磨石
-tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。"{^W}{^n}(用于斧，剑，火枪和十字弩)
+tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。"^w^n(用于斧，剑，火枪和十字弩)
 
 tagCompA030Name=^x04^h-^o丝绸
-tagCompA030Desc="西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。"{^W}{^n}(用于护肩，胸甲和护腿)
+tagCompA030Desc="西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。"^w^n(用于护肩，胸甲和护腿)
 
 tagCompA031Name=^x02^h-^o鳞状兽皮
-tagCompA031Desc="这种致密却轻便的鳞片能被附加在盔甲上以提供额外的防护。"{^W}{^n}(用于护肩，胸甲和护腿)
+tagCompA031Desc="这种致密却轻便的鳞片能被附加在盔甲上以提供额外的防护。"^w^n(用于护肩，胸甲和护腿)
 
 tagCompA032Name=^s19^h-^o燧石弹药
-tagCompA032Desc="被施了魔法的燧石，表面迸发着火焰。"{^W}{^n}(用于枪械，双手弩和法器副手)
+tagCompA032Desc="被施了魔法的燧石，表面迸发着火焰。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA033Name=^s24^h-^o浸毒弹药
-tagCompA033Desc="子弹的尖端涂抹着来自一种动物毒囊的毒液。"{^W}{^n}(用于枪械，双手弩和法器副手)
+tagCompA033Desc="子弹的尖端涂抹着来自一种动物毒囊的毒液。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA034Name=旅者标记
-tagCompA034Desc="旅行者在穿越荒野的时候使用这种标记，这样就不会被野兽之神莫格卓根错认成猎人。"{^W}{^n}(用于足具)
+tagCompA034Desc="旅行者在穿越荒野的时候使用这种标记，这样就不会被野兽之神莫格卓根错认成猎人。"^w^n(用于足具)
 
 tagCompA035Name=神圣裹布
-tagCompA035Desc="冥煞邪教徒所使用的血迹斑斑的裹布。"{^W}{^n}(用于手套)
+tagCompA035Desc="冥煞邪教徒所使用的血迹斑斑的裹布。"^w^n(用于手套)
 
 tagCompA036Name=^x16^h-^o躁动遗骸
-tagCompA036Desc="生前倍受折磨，死后不愿安息。"{^W}{^n}(用于手套)
+tagCompA036Desc="生前倍受折磨，死后不愿安息。"^w^n(用于手套)
 
 tagCompA037Name=^s20^h-^o茂密毛皮
-tagCompA037Desc="一块厚实的毛皮，用来应对冬季的严寒再合适不过了。"{^W}{^n}(用于所有护甲)
+tagCompA037Desc="一块厚实的毛皮，用来应对冬季的严寒再合适不过了。"^w^n(用于所有护甲)
 
 tagCompA038Name=^s08^h-^o锯齿尖刺
-tagCompA038Desc="一种野兽身上的尖刺，脆弱却异常的锋利。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA038Desc="一种野兽身上的尖刺，脆弱却异常的锋利。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA039Name=^s05^h-^o灼热余烬
-tagCompA039Desc="不灭的余烬，来自被烧毁殆尽的家园。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA039Desc="不灭的余烬，来自被烧毁殆尽的家园。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA040Name=^s04^h-^o淬火钢铁
-tagCompA040Desc="这块钢铁被灌注了寒冬之风。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA040Desc="这块钢铁被灌注了寒冬之风。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA041Name=^s06^h-^o破裂磁石
-tagCompA041Desc="表面闪烁着能量的火花。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA041Desc="表面闪烁着能量的火花。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA042Name=破碎之爪
-tagCompA042Desc="一种残忍的掠食者身上的爪子。当然这次，它终于遇上了旗鼓相当的对手。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompA042Desc="一种残忍的掠食者身上的爪子。当然这次，它终于遇上了旗鼓相当的对手。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA043Name=^s01^h-^o回收铠甲片
-tagCompA043Desc="从废旧的铠甲上取下来的盔甲片。"{^W}{^n}(用于所有护甲)
+tagCompA043Desc="从废旧的铠甲上取下来的盔甲片。"^w^n(用于所有护甲)
 
 tagCompA044Name=^s03^h-^o粗硬毛皮
-tagCompA044Desc="一片来自一种非自然魔兽的厚厚的毛皮"{^W}{^n}(用于所有护甲)
+tagCompA044Desc="一片来自一种非自然魔兽的厚厚的毛皮"^w^n(用于所有护甲)
 
 tagCompA045Name=^s13^h-^o弹性铠甲片
-tagCompA045Desc="从一件经历了无数战斗的盔甲上取下的凯甲片，看起来让它退役还早得很。"{^W}{^n}(用于盾牌，副手，胸甲和护肩)
+tagCompA045Desc="从一件经历了无数战斗的盔甲上取下的凯甲片，看起来让它退役还早得很。"^w^n(用于盾牌，副手，胸甲和护肩)
 
 tagCompA046Name=抛光翡翠
-tagCompA046Desc="纯净的宝石，抛光后已臻完美。"{^W}{^n}(用于盾牌，法器副手，戒指，头盔和胸甲)
+tagCompA046Desc="纯净的宝石，抛光后已臻完美。"^w^n(用于盾牌，法器副手，戒指，头盔和胸甲)
 
 tagCompA047Name=^s09^h-^o冰封之心
-tagCompA047Desc="永远地被包裹在黑冰之中。"{^W}{^n}(用于戒指)
+tagCompA047Desc="永远地被包裹在黑冰之中。"^w^n(用于戒指)
 
 tagCompA048Name=^s10^h-^o翻腾鲜血
-tagCompA048Desc="沸腾着曾经激发过它的怒火。"{^W}{^n}(用于戒指，项链和勋章)
+tagCompA048Desc="沸腾着曾经激发过它的怒火。"^w^n(用于戒指，项链和勋章)
 
 tagCompA049Name=^x01^h-^o守护之石
-tagCompA049Desc="一块蚀刻有古老守护符印的石头。"{^W}{^n}(用于项链和勋章)
+tagCompA049Desc="一块蚀刻有古老守护符印的石头。"^w^n(用于项链和勋章)
 
 tagCompA050Name=^x18^h-^o聚焦棱镜
-tagCompA050Desc="奥术师在特殊的关键仪式中使用它来引导能量。"{^W}{^n}(用于项链)
+tagCompA050Desc="奥术师在特殊的关键仪式中使用它来引导能量。"^w^n(用于项链)
 
 tagCompA051Name=^x17^h-^o黑色油脂
-tagCompA051Desc="冥煞仪式中蜡烛燃烧的油脂。"{^W}{^n}(用于项链和勋章)
+tagCompA051Desc="冥煞仪式中蜡烛燃烧的油脂。"^w^n(用于项链和勋章)
 
 tagCompA052Name=^x10^h-^o复仇之魂
-tagCompA052Desc="复仇的灵魂。"{^W}{^n}(用于戒指，项链和勋章)
+tagCompA052Desc="复仇的灵魂。"^w^n(用于戒指，项链和勋章)
 
 tagCompA053Name=幻象印记
-tagCompA053Desc="一种象征着力量的符号，许多铭文中都会用到它。"{^W}{^n}(用于戒指和项链)
+tagCompA053Desc="一种象征着力量的符号，许多铭文中都会用到它。"^w^n(用于戒指和项链)
 
 tagCompA054Name=恶毒下颚
-tagCompA054Desc="这种野兽的下颌长着整齐的颚骨，如同尖刺一般。"{^W}{^n}(用于项链和勋章)
+tagCompA054Desc="这种野兽的下颌长着整齐的颚骨，如同尖刺一般。"^w^n(用于项链和勋章)
 
 tagCompA055Name=^s23^h-^o愤怒之石
-tagCompA055Desc="震动不止，活物不近。"{^W}{^n}(用于近战武器，盾牌和法器副手)
+tagCompA055Desc="震动不止，活物不近。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA056Name=^s28^h-^o裂缝之石
-tagCompA056Desc="充满了虚空中的原始能量。"{^W}{^n}(用于近战武器，盾牌和法器副手)
+tagCompA056Desc="充满了虚空中的原始能量。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA057Name=^s26^h-^o虚化钢铁弹药
-tagCompA057Desc="用虚化生物的精华增强过的子弹。"{^W}{^n}(用于枪械，双手弩和法器副手)
+tagCompA057Desc="用虚化生物的精华增强过的子弹。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA058Name=^s27^h-^o虚空之触弹药
-tagCompA058Desc="浸染了冥煞的鲜血。"{^W}{^n}(用于枪械，双手弩和法器副手)
+tagCompA058Desc="浸染了冥煞的鲜血。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA059Name=^s14^h-^o强固外壳
-tagCompA059Desc="几乎不可能被穿透的外壳，能够吸收无数次的打击。"{^W}{^n}(用于盾牌)
+tagCompA059Desc="几乎不可能被穿透的外壳，能够吸收无数次的打击。"^w^n(用于盾牌)
 
 tagCompA060Name=^s02^h-^o磨损外壳
-tagCompA060Desc="承受了难以想象之多次数的打击，这枚外壳依然坚硬如初。"{^W}{^n}(用于盾牌)
+tagCompA060Desc="承受了难以想象之多次数的打击，这枚外壳依然坚硬如初。"^w^n(用于盾牌)
 
 tagCompA061Name=^s16^h-^o抗毒血清
-tagCompA061Desc="来自一种中和过的特殊有毒生物的胆汁。"{^W}{^n}(用于所有护甲)
+tagCompA061Desc="来自一种中和过的特殊有毒生物的胆汁。"^w^n(用于所有护甲)
 
 tagCompA062Name=^s30^h-^o锯齿外壳
-tagCompA062Desc="坚硬的甲壳，上面长有成串剃刀般锋利的尖刺。"{^W}{^n}(用于盾牌)
+tagCompA062Desc="坚硬的甲壳，上面长有成串剃刀般锋利的尖刺。"^w^n(用于盾牌)
 
 
 tagCompB001Name=^k拜斯迈之缚
-tagCompB001Desc="拜斯迈的巫术组织运用魔法编织出的缚魂之物，用来加强对召唤生物的控制。"{^W}{^n}(用于胸甲)
+tagCompB001Desc="拜斯迈的巫术组织运用魔法编织出的缚魂之物，用来加强对召唤生物的控制。"^w^n(用于胸甲)
 
 tagCompB002Name=^k奥莱隆之链
-tagCompB002Desc="挣断的锁链，它曾束缚着神祇奥莱隆的愤怒。"{^W}{^n}(用于胸甲)
+tagCompB002Desc="挣断的锁链，它曾束缚着神祇奥莱隆的愤怒。"^w^n(用于胸甲)
 
 tagCompB003Name=^k神圣之土
-tagCompB003Desc="一块象征着大地之神曼海尔的巨石底部的泥土。"{^W}{^n}(用于胸甲)
+tagCompB003Desc="一块象征着大地之神曼海尔的巨石底部的泥土。"^w^n(用于胸甲)
 
 tagCompB004Name=^l07^h-^k棱光钻石
-tagCompB004Desc="钻石的核心闪耀着无尽的能量。"{^W}{^n}(用于头盔)
+tagCompB004Desc="钻石的核心闪耀着无尽的能量。"^w^n(用于头盔)
 
 tagCompB005Name=^k魔力织物
-tagCompB005Desc="从覆盖着强大魔法的尸衣上切下来的一段织物。"{^W}{^n}(用于手套)
+tagCompB005Desc="从覆盖着强大魔法的尸衣上切下来的一段织物。"^w^n(用于手套)
 
 tagCompB006Name=^k邪恶铭文
-tagCompB006Desc="用一种古代语言书写的词句，蕴含着强大的力量。凡人无法理解这种语言。"{^W}{^n}(用于手套)
+tagCompB006Desc="用一种古代语言书写的词句，蕴含着强大的力量。凡人无法理解这种语言。"^w^n(用于手套)
 
 tagCompB007Name=^k远古盔甲片
-tagCompB007Desc="来自一套曾经坚固无比的铠甲。"{^W}{^n}(用于胸甲和护腿)
+tagCompB007Desc="来自一套曾经坚固无比的铠甲。"^w^n(用于胸甲和护腿)
 
 tagCompB008Name=^k奥术透镜
-tagCompB008Desc="它能揭示出宇宙中奥术洪流的轨迹。"{^W}{^n}(用于项链)
+tagCompB008Desc="它能揭示出宇宙中奥术洪流的轨迹。"^w^n(用于项链)
 
 tagCompB009Name=^k恶魔之触弹药
-tagCompB009Desc="灌注了天谴之焰。"{^W}{^n}(用于枪械，双手弩和法器副手)
+tagCompB009Desc="灌注了天谴之焰。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompB010Name=^l03^h-^k银核弹药
-tagCompB010Desc="涤荡邪恶，毫发无损。"{^W}{^n}(用于枪械，双手弩和法器副手)
+tagCompB010Desc="涤荡邪恶，毫发无损。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompB011Name=^k索拉尔的符号
-tagCompB011Desc="索拉尔的信徒使用的绝密符号，用来识别是否是自己人。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompB011Desc="索拉尔的信徒使用的绝密符号，用来识别是否是自己人。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompB012Name=^k德里格的印记
-tagCompB012Desc="铭文刻画了一只无睑的眼睛，滴落着血泪。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompB012Desc="铭文刻画了一只无睑的眼睛，滴落着血泪。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompB013Name=^l01^h-^k魂铁
-tagCompB013Desc="禁锢在其中的魂灵让你满脑子都是疯狂的私语。"{^W}{^n}(用于所有武器，盾牌和法器副手)
+tagCompB013Desc="禁锢在其中的魂灵让你满脑子都是疯狂的私语。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompB014Name=^l08^h-^k贝若纳斯的碎片
-tagCompB014Desc="虽然只是传说中杀死贝若纳斯的神圣之矛的一块碎片，但仍残留着强大的力量。"{^W}{^n}(用于所有类型的武器，盾牌和副手法器)
+tagCompB014Desc="虽然只是传说中杀死贝若纳斯的神圣之矛的一块碎片，但仍残留着强大的力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
 tagCompB015Name=^l02^h-^k血腥磨石
-tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发利刃对鲜血无比的饥渴。"{^W}{^n}(用于斧，剑，火枪和十字弩)
+tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发利刃对鲜血无比的饥渴。"^w^n(用于斧，剑，火枪和十字弩)
 
 tagCompB016Name=^k共鸣磁石
-tagCompB016Desc="蕴生于风暴雷电之中，这些稀有且威力强大的石头上仍然回响着孕育它们的雷电之力。"{^W}{^n}(用于项链和勋章)
+tagCompB016Desc="蕴生于风暴雷电之中，这些稀有且威力强大的石头上仍然回响着孕育它们的雷电之力。"^w^n(用于项链和勋章)
 
 tagCompB017Name=^l04^h-^k莫格卓根的印记
-tagCompB017Desc="野兽之神莫格卓根麾下德鲁伊教徒佩戴的隐秘徽记。"{^W}{^n}(用于足具)
+tagCompB017Desc="野兽之神莫格卓根麾下德鲁伊教徒佩戴的隐秘徽记。"^w^n(用于足具)
 
 tagCompB018Name=^k恐惧头骨
-tagCompB018Desc="一位刺客完成了一项极为危险的赏金任务之后被授予的徽记。"{^W}{^n}(用于项链和勋章)
+tagCompB018Desc="一位刺客完成了一项极为危险的赏金任务之后被授予的徽记。"^w^n(用于项链和勋章)
 
 tagCompB019Name=^l06^h-^k奥术火花
-tagCompB019Desc="闪耀着最纯粹的奥术能量。"{^W}{^n}(用于项链和勋章)
+tagCompB019Desc="闪耀着最纯粹的奥术能量。"^w^n(用于项链和勋章)
 
 tagCompB020Name=^k侍从印记
-tagCompB020Desc="蕴含着强大力量的徽记，授予战场上最勇猛无畏的将士。"{^W}{^n}(用于盾牌)
+tagCompB020Desc="蕴含着强大力量的徽记，授予战场上最勇猛无畏的将士。"^w^n(用于盾牌)
 
 tagCompB021Name=^l05^h-^k奥莱隆之血
-tagCompB021Desc="战神的圣血。"{^W}{^n}(用于所有武器)
+tagCompB021Desc="战神的圣血。"^w^n(用于所有武器)
 
 tagCompB022Name=^k基尔利安的碎裂之魂
-tagCompB022Desc="基尔利安腐化的灵魂，安克维亚地下城的恐惧之源。"{^W}{^n}(用于胸甲)
+tagCompB022Desc="基尔利安腐化的灵魂，安克维亚地下城的恐惧之源。"^w^n(用于胸甲)
 
 
 tagCompAetherCrystal=虚化水晶
@@ -3963,7 +3963,7 @@ tagPrefixB020_Sh_A=^g白霜·
 tagPrefixB021_Sh_A=^g恶魔·
 tagPrefixB022_Sh_A=^g虚火·
 
-#Suffixes后缀
+#Suffixes 后缀
 
 tagSuffixA001=^y·英勇
 tagSuffixA002=^y·刚毅
