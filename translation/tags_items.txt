@@ -2587,7 +2587,7 @@ tagDLCIllusionA43=幻化：巨狼护胸
 tagDLCA43=巨狼护胸
 
 
-#ItemNote阅读记录
+#ItemNote 阅读记录
 
 tagNoteHelp=[右键点击来阅读]
 tagNoteKnown=[已读过]
@@ -4305,7 +4305,7 @@ tagChestOneShot_CultistSummoner={^M}卡若兹的宝箱
 tagChestOneShot_ChthonicAbomination={^I}冥煞宝箱
 tagChestOneShot_HiddenWealth={^I}隐藏的宝藏
 
-#InteractiveObjects
+#Interactive Objects 交互物体
 tagShrineConstitutionA01=未动过的食物
 tagShrineBossLocked= {^R} ~ 由强大的存在封印着
 tagShrineMogdrogenLocked= {^R} ~ 由冥煞能量封印着
@@ -4386,7 +4386,7 @@ tagQuestItemSlithRingDesc="这枚戒指上有一股挥之不去的恶臭。"
 tagItemTest=^m人形凝视者^b♂
 tagItemTestDesc="一个成就不凡的家伙把凝视者套在了身上。"
 
-#Equipment Locations
+#Equipment Locations 装备位置
 
 tagSlotLeftHand= (左手)
 tagSlotRightHand= (右手)
