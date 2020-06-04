@@ -373,7 +373,7 @@ tagGDX2Devotion_B202Desc=海瑞恩是创建者塔戈的不朽造物，数千年�
 
 tagGDX2Devotion_C201=邪术之阳 ~ 寇瓦克 ^g[高级](召唤，辅助攻击，6)
 tagGDX2Devotion_C201Desc=邪术之阳再次升起，自宣天神之王。
-tagGDX2Devotion_C202=永恒之沙 ~ 阿兹拉卡 ^g[高级](穿刺、物理系，速度，6)
+tagGDX2Devotion_C202=永恒之沙 ~ 阿兹拉卡 ^g[高级](穿刺系，速度，6)
 tagGDX2Devotion_C202Desc=阿兹拉卡，伊恩的永恒伴星，是她创造了，决定凡人命运的时光守护者手中的时之沙。她是他的配偶，也是最值得信赖的顾问，她能缓和伊恩的严苛审判，并为她所怜爱的凡人提供慰藉。
 tagGDX2Devotion_C203=无尽贪夜 ~ 尤戈尔 ^g[高级](冰系，酸系，类召唤技能，6)
 tagGDX2Devotion_C203Desc=当至高神的光辉第一次照耀到众生之外时，众神发现一个巨大的黑暗在虚无中膨胀。只有一个名字：尤戈尔。尤戈尔那无尽的饥渴威胁着要吞噬原神精心创造的一切，只有千万颗星星的怜悯之光才能阻止它的前进。
@@ -388,7 +388,7 @@ tagGDX2DevotionEffectC201Desc=寇瓦克投来的可怕目光将会在你身边�
 tagGDX2DevotionEffectC202=流沙
 tagGDX2DevotionEffectC202Desc=阿兹拉卡变化莫测的沙子可以听从你的号令，它将起伏穿梭于战场，向你的敌人释放出沙暴，最终回到你手中。
 tagGDX2DevotionEffectC203=尤戈尔的黑血
-tagGDX2DevotionEffectC203Desc=处于永恒黑暗的尤戈尔黑血会从你的伤口溢出，在战场上扩散并搜寻敌人让他们在永恒黑暗中消灭。
+tagGDX2DevotionEffectC203Desc=处于永恒黑暗的尤戈尔黑血会从你的伤口溢出，在战场上扩散并搜寻敌人让他们在永恒黑暗中消灭。^odebuff属性攻击技能。
 tagGDX2DevotionEffectC203_PetSkill=黑血
 
 

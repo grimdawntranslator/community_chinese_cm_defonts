@@ -17,7 +17,7 @@ tagGDX2WeaponSwordD205=冷冽之心☆
 tagGDX2WeaponSwordD205_Desc=" '困于异界，速来救援' 的字样被匆忙地刻在了剑柄上。"
 tagGDX2WeaponSwordD206=沙魔之刃
 tagGDX2WeaponSwordD207=沙魔切刀
-tagGDX2WeaponSwordD208=夜之祷告
+tagGDX2WeaponSwordD208=夜之祈祷
 
 tagGDX2WeaponSwordF201=拜斯迈之刃
 tagGDX2WeaponSwordF202=索拉尔切刀
@@ -751,10 +751,10 @@ tagGDX2RelicD201Desc="可以看见更远大图景的心灵。"
 tagGDX2RelicD202=^i守誓Lv70^h-^c荣耀
 tagGDX2RelicD202Desc="在不义的世界中对正义的不懈追求。"
 
-tagGDX2RelicD203=^if1^h-^c阿兹拉卡的时代
+tagGDX2RelicD203=^if1^h-^c阿兹拉卡的时代-^s攻击
 tagGDX2RelicD203Desc="时间皱褶中的一丝涟漪。"
 
-tagGDX2RelicD204=^if2^h-^c尤戈尔的饥饿
+tagGDX2RelicD204=^if2^h-^c尤戈尔的饥饿-^s攻击
 tagGDX2RelicD204Desc="万物中最无可匹敌的贪食欲望。"
 
 tagGDX2RelicD205=^y全技能^h-^c宁静
