@@ -581,7 +581,7 @@ tagGDX1LegsD110_Desc="用来制作铠甲的野兽毛皮，似乎不是伊露兰�
 
 
 #ArmorFeet 靴子
-tagGDX1FeetB101=^y无畏战靴
+tagGDX1FeetB101=^y无畏战靴☆
 tagGDX1FeetB102=^y石板胫甲☆
 
 tagGDX1FeetC101=恐怖收割长靴
