@@ -1,1 +1,14 @@
-*.zip
+
+# Exclude all files
+/*
+
+# Include folders
+!/.github
+!/tools
+!/translation
+
+# Include files
+!.gitignore
+!build_zip.bat
+!README.md
+!*.txt
