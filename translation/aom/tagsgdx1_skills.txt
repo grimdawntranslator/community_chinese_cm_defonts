@@ -621,7 +621,7 @@ tagGDX1RelicSkillD108Name=尼达拉的最后一击
 tagGDX1RelicSkillD108Desc=夜刃大师尼达拉最喜爱的技能，释放飞刃刀扇穿透敌人，并使他们的裂开的伤口泛起毒泡。魔法刀刃之后会飞回起点。
 
 tagGDX1RelicSkillD109Name=时间循环
-tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备副手法器。
+tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备法器副手。
 
 tagGDX1RelicSkillD110Name=鲜血脊刺
 tagGDX1RelicSkillD110Desc=以扇形向敌人施放数根涂满鲜血的脊骨。
@@ -739,7 +739,7 @@ tagGDX1DevotionEffectC102Desc=春天的抚慰之风将你包裹在一个保护�
 tagGDX1DevotionEffectC103=维尔之拳
 tagGDX1DevotionEffectC103Desc=维尔的碎裂之拳拔地而起，以大地之力征服敌人。
 tagGDX1DevotionEffectC104=奥术电流
-tagGDX1DevotionEffectC104Desc=在地上刻下怪异的符号，迅速对附近敌人释放奥术能量电流。^o奥术电流受到玩家伤害加成的影响。地面攻击，会被地面障碍物阻挡。
+tagGDX1DevotionEffectC104Desc=在地上刻下怪异的符号，迅速对附近敌人释放奥术能量电流。^o奥术电流会受到玩家伤害加成的影响。地面攻击，会被地面障碍物阻挡。
 tagGDX1DevotionEffectC104PetSkill=汹涌
 tagGDX1DevotionEffectC105=莱托什的意志
 tagGDX1DevotionEffectC105Desc=用莱托什的符号标记敌人的灵魂。他们的生命和命运已被封印，任由莱托什的仆从堤丰摆布。^odebuff技能。

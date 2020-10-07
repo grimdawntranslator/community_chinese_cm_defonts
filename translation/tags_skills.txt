@@ -146,7 +146,7 @@ tagClass01SkillName12A=^g<^F士兵^g>^c功勋卓著
 tagClass01SkillDescription12A=在白热化的战场上保持冷静思考的能力，使老兵们能够更轻易地切入敌人的防御空档，或是预判敌人的攻击节奏来实施反击。
 
 tagClass01SkillName13A=^g<^F士兵^g>^c曼海尔的壁垒
-tagClass01SkillDescription13A=召唤大地之神曼海尔，护佑其追随者拥有大地般的坚韧。^o需要一面盾牌。这项技能必须保持开启以持续生效。持盾安全保障。
+tagClass01SkillDescription13A=召唤大地之神曼海尔，护佑其追随者拥有大地般的坚韧。^o需要一面盾牌或双手近战武器。这项技能必须保持开启以持续生效。持盾安全保障。
 
 tagClass01SkillName14A=^g<^F士兵^g>^c奥莱隆之怒
 tagClass01SkillDescription14A=召唤远古战神奥莱隆，鼓舞其追随者燃起无法动摇的凶猛战意。^o这项技能必须保持开启以持续生效。
@@ -211,7 +211,7 @@ tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮�
 tagClass02SkillName05B=^g<^F爆破^g>^c重型武器
 tagClass02SkillDescription05B=强力的法术提升迫击炮弹的伤害并附加电能伤害。^o同时影响基本的迫击炮技能和巨型炸弹。
 tagClass02SkillName05C=^g<^F爆破^g>^c巨型炸弹
-tagClass02SkillDescription05C=向迫击抛射器装载代号为“大家伙”的毁灭性炸弹，将向迫击抛射炮弹幕的初始方向发射。即便你的敌人存活下来，由此产生的巨大的爆炸也将给他们造成极度的恐慌。
+tagClass02SkillDescription05C=向迫击抛射器装载代号为“大家伙”的毁灭性炸弹，将向迫击抛射炮弹幕的初始方向发射并在随后的射击中周期性的装载。即便你的敌人存活下来，由此产生的巨大的爆炸也将给他们造成极度的恐慌。
 tagClass02SkillName05D=^g<^F爆破^g>^c火力迫击炮
 tagClass02SkillDescription05D=向敌人发射爆炸的迫击炮弹。
 tagClass02SkillName05E=^g<^F爆破^g>^c电击迫击炮

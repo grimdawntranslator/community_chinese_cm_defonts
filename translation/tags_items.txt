@@ -3598,10 +3598,10 @@ tagPotionEnergyA01=^a能量药水
 tagPotionEnergyA01Desc="恢复精力，补充灵魂。"
 
 tagPotionConstitutionA01=食物补给
-tagPotionConstitutionA01Desc="尝起来像腐烂的污物，不过却能永久保存，还能回复体力。"
+tagPotionConstitutionA01Desc="尝起来像腐烂的污物，不过却能永久保存，还能恢复体力。"
 
 tagPotionConstitutionB01=生命精华
-tagPotionConstitutionB01Desc="拥有着挥之不去的生命能量，能够被吸收以回复体力。"
+tagPotionConstitutionB01Desc="拥有着挥之不去的生命能量，能够被吸收以恢复体力。"
 
 tagPotionDirections=[右键点击以使用]
 tagCombineStacks=[Ctrl+左键来拆分堆叠物品]
@@ -3716,8 +3716,8 @@ tagItemSetC023Desc="久战沙场的老兵所穿的装甲，是对他们在战场
 tagItemSetC024Name=持火者
 tagItemSetC024Desc="一颗炽烈的心脏，内部灌注了一只火焰之灵。"^o（神话级与普通的混搭不能取得套装效果）
 
-tagItemSetC025Name=卡里多的徽记
-tagItemSetC025Desc="卡里多大师的器物，崇尚奥术师并创造了奥术风暴的技艺。"^o（神话级与普通的混搭不能取得套装效果）
+tagItemSetC025Name=卡里多的华服
+tagItemSetC025Desc="大师卡里多的装备，受尊崇的奥术师以及奥术风暴技艺的创造者。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetC026Name=密尔弥冬的装甲
 tagItemSetC026Desc="黑色军团发放给精英先锋的装甲。"^o（神话级与普通的混搭不能取得套装效果）
@@ -4364,7 +4364,7 @@ tagUGDoorRuin01=废墟入口
 tagUGDoorIronDoorSecret01=铁门
 tagUGDoorIronGate=铁制大门
 tagUGDoorPortcullisFloor01=吊门
-tagUGDoorBoat=渡船
+tagUGDoorBoat=划艇
 tagUGDoorObsidian=黑曜石尖刺
 tagUGDoorFort=城堡入口
 tagUGDoorCrypt=地下墓室入口
