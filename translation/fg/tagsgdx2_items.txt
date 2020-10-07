@@ -57,7 +57,7 @@ tagGDX2WeaponAxeB202=^l熔爪切刀
 tagGDX2WeaponAxeB203=^l裂爪切刀
 tagGDX2WeaponAxeB204=^l骨制切刀
 tagGDX2WeaponAxeB205=^l仆从的切肉斧
-tagGDX2WeaponAxeB206=布鲁格鲁的染疫之锋
+tagGDX2WeaponAxeB206=^l布鲁格鲁的染疫之锋
 
 tagGDX2WeaponAxeC201=帷幕之锋
 
@@ -76,7 +76,7 @@ tagGDX2WeaponGun1hB201=^l毒蛇喷砂枪
 tagGDX2WeaponGun1hB202=^l毒蛇放血枪
 tagGDX2WeaponGun1hB203=^l巫登沼泽连发枪
 tagGDX2WeaponGun1hB103Desc="枪中注入了温迪戈的灵魂。"
-tagGDX2WeaponGun1hB204=鲁特尼克的爆破枪
+tagGDX2WeaponGun1hB204=^l鲁特尼克的爆破枪
 tagGDX2WeaponGun1hB204Desc="渴望残酷的终结。
 
 tagGDX2WeaponGun1hC201=沙刺
@@ -121,7 +121,7 @@ tagGDX2WeaponMelee2hB205=^l科凡邪术戟
 tagGDX2WeaponMelee2hB206=^l科凡收割戟
 tagGDX2WeaponMelee2hB207=^l科凡天界戟
 tagGDX2WeaponMelee2hB207_Desc="锋利的刀锋渴望杀戮。"
-tagGDX2WeaponMelee2hB209=太阳先驱的阔剑
+tagGDX2WeaponMelee2hB209=^l太阳先驱的阔剑
 
 tagGDX2WeaponMelee2hC201=游魂之锋
 tagGDX2WeaponMelee2hC202=怒刃
@@ -187,7 +187,7 @@ tagGDX2ShieldB202=^l圣甲虫甲壳
 tagGDX2ShieldB203=^l巨像防御者
 tagGDX2ShieldB204=^l血肉扭曲护盾
 tagGDX2ShieldB205=^l黑曜石防御盾
-tagGDX2ShieldB206=冷血的尸体
+tagGDX2ShieldB206=^l冷血的尸体
 
 tagShieldC015B=角斗士
 
@@ -216,7 +216,7 @@ tagGDX2FocusB202=^l格罗布邪恶神像
 tagGDX2FocusB203=^l受压迫的灵魂
 tagGDX2FocusB204=^l受压制的灵魂
 tagGDX2FocusB205=^l扎尔泽兰的档案
-tagGDX2FocusB206=阿巴多斯的布道
+tagGDX2FocusB206=^l阿巴多斯的布道
 tagGDX2FocusB206_Desc="目前尚不清楚阿巴多斯的说教是何时从曼海尔的仁慈之语转向虚无的邪恶黑暗，也不清楚有多少人因他而入了邪教。"
 
 tagGDX2FocusC201=清算法典
