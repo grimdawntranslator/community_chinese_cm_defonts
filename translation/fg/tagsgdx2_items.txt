@@ -521,7 +521,7 @@ tagGDX2WaistF203B=索拉尔邪恶束腰
 
 
 #Rings 戒指
-tagGDX2RingB201=爬藤指环
+tagGDX2RingB201=^l爬藤指环
 
 tagGDX2RingC201=血红荆棘指环
 tagGDX2RingC202=纱幕守望指环
