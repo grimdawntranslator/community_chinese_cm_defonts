@@ -3964,7 +3964,7 @@ tagPrefixB010_Class_A=^g破法者·
 tagPrefixB011_Class_A=^g战士·
 tagPrefixB012_Class_A=^g纵火者·
 tagPrefixB013_Class_A=^g异教徒·
-tagPrefixB014_Class_A=^g刺客的
+tagPrefixB014_Class_A=^g刺客·
 tagPrefixB015_Class_A=^g法师·
 tagPrefixB016_Class_A=^g守卫·
 tagPrefixB017_Class_A=^g元素使者·
@@ -3975,7 +3975,7 @@ tagPrefixB021_Class_A=^g先知·
 
 tagPrefixB001_Sh_A=^g恒定★·
 tagPrefixB002_Sh_A=^g看守者·
-tagPrefixB003_Sh_A=^g过载的★·
+tagPrefixB003_Sh_A=^g过载★·
 tagPrefixB004_Sh_A=^g时光术士★·
 tagPrefixB005_Sh_A=^g霸主·
 tagPrefixB006_Sh_A=^g驯犬者·
