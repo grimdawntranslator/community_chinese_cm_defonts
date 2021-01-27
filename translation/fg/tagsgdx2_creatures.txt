@@ -1,4 +1,5 @@
-
+# 格式：头衔 ~ 职业/称谓/状态 名称<阵营> [其他]
+# TODO: FORMAT CREATURES NAME
 #CreatureFriendly
 
 tagGDX2FriendlyCultBysmiel_Guard01=拜斯迈教团 ~ 哨兵
