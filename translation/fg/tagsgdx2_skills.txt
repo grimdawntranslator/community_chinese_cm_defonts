@@ -106,8 +106,8 @@ tagGDX2ItemSkillB202Desc=向四周爆发出一阵熔火，焚烧附近的敌人�
 tagGDX2ItemSkillB203Name=寒冰骨刺
 tagGDX2ItemSkillB203Desc=召唤寒冷的骨刺击穿你面前的大地。
 
-tagGDX2ItemSkillB204Name=争斗者的竭力
-tagGDX2ItemSkillB204Desc=在你无情的攻势下，敌人将会殚精竭力。
+tagGDX2ItemSkillB204Name=争斗者的枯竭
+tagGDX2ItemSkillB204Desc=你无尽的攻击让敌人精疲力尽，削弱他们的耐力。
 
 tagGDX2ItemSkillB205Name=虚化散射
 tagGDX2ItemSkillB205Desc=向目标区域疯狂地倾泻注入虚化能量的弹药。^o这是一项远程武器技能。同时开启双持远程武器的能力。
