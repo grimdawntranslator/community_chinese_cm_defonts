@@ -36,7 +36,7 @@
 移动速度——卡其色——{^K}
 
 # Grim Internals
-tagGI_GrimInternals=Grim Internals v1.73
+tagGI_GrimInternals=Grim Internals v1.99
 tagGI_CombatAttributeType_PhysicalPierce=物理穿刺
 tagGI_CombatAttributeType_Physical=物理
 tagGI_CombatAttributeType_PierceRatio=穿刺转换
@@ -117,20 +117,20 @@ tagGI_InfoBox_DebuffReductionPercent=%降低(Debuff)
 tagGI_InfoBox_DebuffReductionAbsolut=降低(Debuff)
 tagGI_InfoBox_DebuffChanceToMiss=%失误(Debuff)
 tagGI_InfoBox_DebuffDPS=DPS(Debuff)
-tagGI_InfoBox_Close={^R}* 请关闭程序界面! *
+tagGI_InfoBox_Close={^r}* 请关闭程序界面! *
 tagGI_FloatingText_RareItemLooted="稀有物品掉落"
 
 #Grim Internals Cinematic Text Tags
-tagGI_CinematicDeathMsg1={^R}! 你已死亡 !
-tagGI_CinematicDeathMsg2={^Y} R. I. P.
-tagGI_CinematicDeathMsg3={^Y} R. I. P. (死亡次数：{%d})
-tagGI_CinematicInfoBoxEnabled={^Y} 统计信息框已启用!
-tagGI_CinematicInfoBoxDisabled={^Y} 统计信息框已禁用!
-tagGI_CinematicNemesisAlert={^Y}!! 复仇者警报 !!
-tagGI_CinematicCantTeleport={^R}!! 你不能传送 !!
+tagGI_CinematicDeathMsg1={^r}! 你已死亡 !
+tagGI_CinematicDeathMsg2={^y} R. I. P.
+tagGI_CinematicDeathMsg3={^y} R. I. P. (死亡次数：{%d})
+tagGI_CinematicInfoBoxEnabled={^y} 统计信息框已启用!
+tagGI_CinematicInfoBoxDisabled={^y} 统计信息框已禁用!
+tagGI_CinematicNemesisAlert={^y}!! 复仇者警报 !!
+tagGI_CinematicCantTeleport={^r}!! 你不能传送 !!
 
 #changes in v1.73
-tagGI_InfoBox_ItemsHidden={^R}* 隐藏丢弃的物品! (按键：{%c})
+tagGI_InfoBox_ItemsHidden={^r}* 隐藏丢弃的物品! (按键：{%c})
 
 #new in v1.73
 tagGI_CrucibleMap_Random=挑战随机地图 (默认)
@@ -143,15 +143,18 @@ tagGI_QuickTeleportList=快速传送门列表
 #new in v1.744
 tagGI_PrefixSearchDisabled=前缀搜索已禁用!
 tagGI_SuffixSearchDisabled=后缀搜索已禁用!
-tagGI_CinematicPrefixFound={^Y}发现前缀!
-tagGI_CinematicSuffixFound={^Y}发现后缀!
-tagGI_CinematicPrefixSuffixFound={^Y}发现前缀和后缀!
+tagGI_CinematicPrefixFound={^y}发现前缀!
+tagGI_CinematicSuffixFound={^y}发现后缀!
+tagGI_CinematicPrefixSuffixFound={^y}发现前缀和后缀!
 
 #new in v1.79
-tagGI_InfoBox_GameSpeed={^Y}速度：
+tagGI_InfoBox_GameSpeed={^y}速度：
 
 #new in v1.90
-tagGI_CinematicIllusionAdded={^G}获得了新的幻化！
+tagGI_CinematicIllusionAdded={^g}获得了新的幻化！
+
+#new in v1.99
+tagGI_CloudSavingWarning=警告：已启用云存储！{^n}当使用 Grim Internals 时{^n}，请考虑在选项菜单中禁用此功能！
 
 #General
 
