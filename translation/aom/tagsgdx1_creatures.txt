@@ -450,7 +450,7 @@ tagGDX1DevotionAetherialCorruption_H04=提兰达尔 ~ [时光扭曲]
 
 tagGDX1DevotionAetherialFleshshaper_H01=菲纳德尔扎德 ~ [燃烧]
 tagGDX1DevotionAetherialFleshshaper_H02=诺克萨斯 ~ [冰冻]
-tagGDX1DevotionAetherialFleshshaper_H03=卡萨拉斯 ~ [迅捷]
+tagGDX1DevotionAetherialFleshshaper_H03=卡萨拉斯 ~ [电击]
 tagGDX1DevotionAetherialFleshshaper_H04=珀兰达罗斯 ~ [免疫控制]
 
 tagGDX1DevotionBasilisk_H01=风暴之肤 ~ 拉加斯林

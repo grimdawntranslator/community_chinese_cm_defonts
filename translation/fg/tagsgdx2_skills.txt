@@ -733,3 +733,4 @@ tagGDX2EnemySkillD22_Desc=纳伦库尔的灵魂消耗你的生存意志，降低
 
 tagGDX2EnemySkillD23=瘟疫降临
 tagGDX2EnemySkillD23_Desc=附近有种生物让空气中充满了有毒气体。
+

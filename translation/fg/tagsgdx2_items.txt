@@ -1195,19 +1195,19 @@ tagGDX2ItemSetD213Name=拜斯迈的饰品
 tagGDX2ItemSetD213Desc="曾经她身为凡人之时，低语女士就以收集威力强大的物品来控制孱弱生物闻名于世。在她成神之后，便不再需要这些琐碎的装饰品了。"
 
 tagGDX2ItemSetD214Name=科凡沙魔
-tagGDX2ItemSetD214Desc=科凡沙魔渴望成为科凡沙漠的毒蛇，难以捉摸…迅速…且致命。
+tagGDX2ItemSetD214Desc="科凡沙魔渴望成为科凡沙漠的毒蛇，难以捉摸…迅速…且致命。"
 
 tagGDX2ItemSetD215Name=皮兰的沉思
-tagGDX2ItemSetD215Desc=受到老师们的蔑视后，皮兰发誓要在奥术史上留下自己的印记，但同时他的实验也扭曲了自己的身形。
+tagGDX2ItemSetD215Desc="受到老师们的蔑视后，皮兰发誓要在奥术史上留下自己的印记，但同时他的实验也扭曲了自己的身形。"
 
 tagGDX2ItemSetD216Name=塔戈的技艺
-tagGDX2ItemSetD216Desc=传说是由星辰的锻造大师亲手锻造而成，这盔甲展现了身体和意志的力量。
+tagGDX2ItemSetD216Desc="传说是由星辰的锻造大师亲手锻造而成，这盔甲展现了身体和意志的力量。"
 
 tagGDX2ItemSetD217Name=虚魂
-tagGDX2ItemSetD217Desc=这个曾经被祝福的盔甲现在充满了邪恶的能量，虚空已经永远地腐蚀了它的心。
+tagGDX2ItemSetD217Desc="这个曾经被祝福的盔甲现在充满了邪恶的能量，虚空已经永远地腐蚀了它的心。"
 
 tagGDX2ItemSetD218Name=腐魔
-tagGDX2ItemSetD218Desc=腐魔酷爱杀戮，甚至在猎物腐烂很久之后还穿着它的皮肉。
+tagGDX2ItemSetD218Desc="腐魔酷爱杀戮，甚至在猎物腐烂很久之后还穿着它的皮肉。"
 
 tagGDX2ItemSetD219Name=永恒之夜的盔甲
 tagGDX2ItemSetD219Desc="摩根尼斯凝视着黑暗，直到黑暗的回眸。"

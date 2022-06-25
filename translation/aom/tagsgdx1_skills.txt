@@ -623,6 +623,7 @@ tagGDX1RelicSkillD108Desc=夜刃大师尼达拉最喜爱的技能，释放飞刃
 tagGDX1RelicSkillD109Name=时间循环
 tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备法器副手。
 
+
 tagGDX1RelicSkillD110Name=鲜血脊刺
 tagGDX1RelicSkillD110Desc=以扇形向敌人施放数根涂满鲜血的脊骨。
 
@@ -634,7 +635,6 @@ tagGDX1RelicSkillD112Desc=这个古代圣物爆发出的毁灭性火焰，不会
 
 tagGDX1RelicSkillD113Name=莫格卓根的热情
 tagGDX1RelicSkillD113Desc=野兽之神的祝福围绕着你和你的仆从，保护你免受伤害。^o这项技能必须保持开启以持续生效。
-
 
 tagGDX1RelicSkillD114Name=召唤死亡追猎者
 tagGDX1RelicSkillD114Desc=召唤出死亡追猎者，它便是象征着莫格卓根怒火的可怕化身。它能够粉碎附近敌人对物理，毒素和流血效果的抗性。^o同一时间只能召唤一头死亡追猎者。死亡追猎者会受到玩家伤害加成的影响。
@@ -788,6 +788,7 @@ tagGDX1EnemySkillA11_Desc=虚空压迫者的出现将你淹没在黑暗中，降
 tagGDX1EnemySkillA12=黑暗光环
 tagGDX1EnemySkillA12_Desc=一头来自暗黑的在猎杀着你，它撕裂着你的抗性。
 
+
 tagGDX1EnemySkillB01=时间停止光环
 tagGDX1EnemySkillB01_Desc=时间扭曲体的出现，减缓你的行动。
 
@@ -841,7 +842,6 @@ tagGDX1EnemySkillD15_Desc=此处虚化之力强横，你将受到伤害并被削
 
 tagGDX1EnemySkillD16=恐惧降临
 tagGDX1EnemySkillD16_Desc=一头强大的猛兽在附近游荡，你的心中充满恐惧，并且周围的生物受到了该猛兽的鼓舞。
-
 
 tagGDX1EnemySkillD17=燃烧之血
 tagGDX1EnemySkillD17_Desc=加尔加伯的燃烧之血灼烧着你的抗性。

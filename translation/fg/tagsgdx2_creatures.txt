@@ -356,8 +356,8 @@ tagGDX2Boss_RoguelikePath_Boss_03=消化者 戈布利克斯
 tagGDX2Boss_RiggsCollector_01=里格斯的“同伙”
 
 
-tagGDX2Miniboss_Kymon_01=凯蒙复仇者 ~ 修士 塞格留斯
-tagGDX2Miniboss_Kymon_02=凯蒙复仇者 ~ 修女 克里姆荪
+tagGDX2Miniboss_Kymon_01=凯蒙复仇者 ~ 塞格留斯修士
+tagGDX2Miniboss_Kymon_02=凯蒙复仇者 ~ 克里姆荪修女
 tagGDX2Miniboss_Kymon_03=奥西尔的高阶祭司 ~ 雷姆祖尔
 
 tagGDX2Miniboss_Beast_01=科凡沙漠之王 ~ 甘纳·瓦卡

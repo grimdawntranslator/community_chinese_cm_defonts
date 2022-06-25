@@ -1069,7 +1069,7 @@ tagLoreObj_AreaCAetherial_NoteA01Name=混元体
 tagLoreObj_AreaCAetherial_NoteA01Text=意见已经达成一致。霍姆斯特德的避难所将会在两周内攻陷。随着烈焰使者从北方稳步而来，它走过的痕迹只留下火焰，它的到来使得我们有足够的力量进攻西边的人类大本营。复生者们不知疲倦的在牢笼里工作，将虚化能量注入收集来的人类与巨魔体内。但真正的工作会在谷仓内完成。{^n}{^n}事实证明人类会是……很难对付的寄主，他们的意识强力地与虚化能量作斗争。但血肉呢？很容易适应与感染。我抬头看着填满谷仓的散发着臭气的腐败尸体，感叹生命如此脆弱，就像一匹空白的布，一匹我们可以随意涂抹凯恩命运的布。{^n}{^n}血肉塑造者 赛奥丁·马瑟尔
 
 tagLoreObj_BlackLegion_NoteA01Name=黑色军团侦查报告
-tagLoreObj_BlackLegion_NoteA01Text=我写下这份书信来报告虚灵在霍姆斯特德北方愈演愈烈的活动。我动身前往山麓并穿过一些低墙院落，栅栏以及一些农舍。我小心翼翼地赶路，保证自己不被仍在田地间游荡的危险份子发现。在走到两座山间的山谷附近时，我见到了难以置信的一幕。{^n}{^n}一根既不是石头也不是血肉的怪异黑柱像低沉的阴云一般缓缓漂移。一抹绿色火光在它的核心处燃烧，巨大的缠绕触手从移动底壳上垂落而下。我越发惊惧地目睹了这个邪恶的方尖碑缓缓停下，并毫无征兆地将触手扎进了地下。土地开始枯萎并开始发出和它一样的腐化绿光。随后方尖碑将它自己也拉进了地面。随着一声毁天灭地的巨响，它开始发出无法直视的光芒。它的力量渗入了地下，传播着扭曲与腐化。{^n}{^n}我在那里徘徊了将近一个小时，而在这期间，方尖碑周围很大一片区域都已经被改变了。我刚要离开的时候，方尖碑又从地下拔出并开始前往未被感染的地区进行再次的循环。我们必须赶紧采取措施了，否则什么都剩不下了。{^n}{^n} --黑色军团第六团侦察兵，瑞纳尔·奥布莱奇
+tagLoreObj_BlackLegion_NoteA01Text=我写下这份书信来报告虚灵在霍姆斯特德北方愈演愈烈的活动。我动身前往山麓并穿过一些低墙院落，栅栏以及一些农舍。我小心翼翼地赶路，保证自己不被仍在田地间游荡的危险份子发现。在走到两座山间的山谷附近时，我见到了难以置信的一幕。{^n}{^n}一根既不是石头也不是血肉的怪异黑柱像低沉的阴云一般缓缓漂移。一抹绿色火光在它的核心处燃烧，巨大的扭动触手从移动黑色外壳上垂落而下。我越发惊惧地目睹了这个邪恶的方尖碑缓缓停下，并毫无征兆地将触手扎进了地下。土地开始枯萎并开始发出和它一样的腐化绿光。随后方尖碑将它自己也拉进了地面。随着一声毁天灭地的巨响，它开始发出无法直视的光芒。它的力量渗入了地下，传播着扭曲与腐化。{^n}{^n}我在那里徘徊了将近一个小时，而在这期间，方尖碑周围很大一片区域都已经被改变了。我刚要离开的时候，方尖碑又从地下拔出并开始前往未被感染的地区进行再次的循环。我们必须赶紧采取措施了，否则什么都剩不下了。{^n}{^n} --黑色军团第六团侦察兵，瑞纳尔·奥布莱奇
 
 tagLoreObj_BlackLegion_NoteA02Name=禁卫军的报告
 tagLoreObj_BlackLegion_NoteA02Text=空气中弥漫着硫磺与烟味。在写这篇报告的时候我难以呼吸。我们被袭击了，完全没有胜算。某种虚灵变异怪物从前方大地下出现并在所过之处散布虚化之火。我从没见过这种东西。{^n}{^n}队长命令我们突围并除掉那个可怕的东西，但他在战斗初始就被杀了。兄弟们都恐慌并被迫撤退了。我设法集合剩下的人马，但很明显我们都无法击败它。我将队伍带回了入口并发出完全撤回圣像堡的命令。{^n}{^n}随着虚灵快速接近，我们没有足够的时间来作选择了。我让军需官将剩下的炸药都给我。我们控制了隧道入口并将炸药引爆，有效地把山中的通道和虚灵一并封住了。{^n}{^n}我很遗憾地汇报，随着双子瀑布大桥的毁坏和通道的封闭，我们现在无法与南方联通了，但我很欣慰地了解到我们见到的献祭怪物并没有将虚火蔓延到山脉峭壁上。{^n}{^n}-禁卫军 马库斯·艾丁
@@ -1360,42 +1360,42 @@ tagNPC_SmithA01=安格瑞姆
 tagStoreTitle_SmithA01=锻造大师
 tagStoreDesc_SmithA01_1={}精湛技艺
 tagStoreDesc_SmithA01_2=安格瑞姆运用他多年的经验打造出致命的武器和坚不可摧的护甲。
-tagStoreDesc_SmithA01_3=
+tagStoreDesc_SmithA01_3= 
 tagStoreDesc_SmithA01_4=锻造的武器、护甲和饰品会被注入以下属性之一：
 
 tagNPC_SmithA02=邓肯
 tagStoreTitle_SmithA02=玄秘铁匠
 tagStoreDesc_SmithA02_1={}玄秘锻造
 tagStoreDesc_SmithA02_2=邓肯运用实验性的技术为武器和护甲注入魔力
-tagStoreDesc_SmithA02_3=
+tagStoreDesc_SmithA02_3= 
 tagStoreDesc_SmithA02_4=锻造的武器、护甲和饰品会被注入以下属性之一：
 
 tagNPC_SmithA03=沃德里克
 tagStoreTitle_SmithA03=军团铁匠
 tagStoreDesc_SmithA03_1={}知己知彼
 tagStoreDesc_SmithA03_2=沃德里克研究了人类的敌人之后，学会了如何通过锻造反制它们的力量。
-tagStoreDesc_SmithA03_3=
+tagStoreDesc_SmithA03_3= 
 tagStoreDesc_SmithA03_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
 tagNPC_SmithA04=霍鲁斯
 tagStoreTitle_SmithA04=被诅咒的铁匠
 tagStoreDesc_SmithA04_1={}亡灵天赋
 tagStoreDesc_SmithA04_2=霍鲁斯以特殊的存在方式存于世间，承载了数个世纪的锻造知识。
-tagStoreDesc_SmithA04_3=
+tagStoreDesc_SmithA04_3= 
 tagStoreDesc_SmithA04_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
 tagNPC_SmithA05=艾特姆·法尔德
 tagStoreTitle_SmithA05=神力铁匠
 tagStoreDesc_SmithA05_1={}神力锻造
 tagStoreDesc_SmithA05_2=据说艾特姆·法尔德的锻锤是由星辰本身熔炼而成，可锻造最高至75级的传奇装备。
-tagStoreDesc_SmithA05_3=
+tagStoreDesc_SmithA05_3= 
 tagStoreDesc_SmithA05_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
 tagNPC_SmithA06=哈伦娜
 tagStoreTitle_SmithA06=军团铁匠
 tagStoreDesc_SmithA06_1={}知己知彼
 tagStoreDesc_SmithA06_2=哈伦娜对敌人进行了研究并通过熔炉习得了对抗强敌的方法。
-tagStoreDesc_SmithA06_3=
+tagStoreDesc_SmithA06_3= 
 tagStoreDesc_SmithA06_4=已制作完成的武器，护甲和首饰拥有以下属性之一：
 
 tagNPC_PowerupsS01=不朽的大法师 ~ 泰拉利亚

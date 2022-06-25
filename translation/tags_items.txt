@@ -1030,7 +1030,7 @@ tagHeadD018=凛冬之王的头冠
 tagheadD018Desc="赫若瑟纳尔国王的头冠，他是北方流域的统治者，也是伟大白色巨狼的儿子。"
 tagHeadD019=特洛赞的风帽
 tagHeadD020=瓦尔登的风帽
-tagHeadD021=^f放逐者的秘密
+tagHeadD021=^f放逐者的秘密☆
 tagHeadD022=邪术凝视
 tagHeadD022Desc="这顶头盔私语着你难以理解的话语。"
 tagHeadD023=三巫神之契约
@@ -1144,7 +1144,7 @@ tagShoulderD016=德里格的披肩
 tagShoulderD017=死亡印记护肩
 tagShoulderD018=伊斯坎德拉的肩铠
 tagShoulderD019=尤尔托斯的肩甲
-tagShoulderD020=^m莫格卓根的斗篷
+tagShoulderD020=^m莫格卓根的斗篷☆
 tagShoulderD020Desc="莫格卓根的化身所穿的斗篷。"
 tagShoulderD021=特洛赞的斗篷
 tagShoulderD022=黑炎披风
@@ -1667,8 +1667,8 @@ tagRingD011=仁慈之手
 tagRingD012=复仇之拳
 tagRingD013=祈愿者的燃烧之手
 tagRingD014=祈愿者的电击之触
-tagRingD015=^f阿卡莫斯的恐惧之触
-tagRingD016=^f阿卡莫斯的痛苦之触
+tagRingD015=^f阿卡莫斯的恐惧之触☆
+tagRingD016=^f阿卡莫斯的痛苦之触☆
 
 
 tagRingF001=恶魔的战争印戒
@@ -2382,7 +2382,7 @@ tagCraftRandomLegendary_CasterWeapon=传奇施法者武器
 
 tagSuppliesIncomplete=部分锻造材料
 tagSuppliesComplete=锻造材料
-tagSuppliesNumber={%s0-%d1/%d2}
+tagSuppliesNumber={%s0 - %d1 / %d2}
 tagSuppliesBonus=
 tagSuppliesHelp=[锻造材料用于设计图的打造]
 tagSuppliesError=
@@ -2638,7 +2638,7 @@ tagEnchantmentSoulboundConfirmation=确定使用这件增幅？附魔这件装�
 tagEnchantmentSoulboundOverwrite=确定覆盖已有的增幅？附魔这件装备会使它变为灵魂绑定。
 tagEnchantmentSoulboundRemoval=你确定要替换已经存在的增幅吗？覆盖掉现存的增幅会移除灵魂绑定状态。
 
-tagEnchantTest=TESTNAME
+tagEnchantTest=TEST NAME
 tagEnchantTestDesc="A test description."^w^n(Used in rings)
 
 tagEnchantA001A=蝎尾狮毒液
@@ -3237,7 +3237,7 @@ tagComponentNumber={%s0 - %d1 / %d2}
 tagComponentNumberRare={%s0}{%s1 - %d2 / %d3}
 tagComponentBonus=完整镶嵌物奖励：
 tagComponentQualities=镶嵌物品质：
-tagComponentHelp=[右键点击以镶嵌或组合]
+tagComponentHelp=[右键点击以镶嵌]
 tagComponentError=[无法使用-需求未满足]
 tagComponentCombine=[右键点击以组合]
 tagComponentConfirmation=你确定要组合成完整镶嵌物吗？
@@ -3587,7 +3587,7 @@ tagBoosterEXILE_C03=神话级放逐者通缉令
 #Misc 杂项
 
 tagMoney01=铁币
-tagMoneyFormat={^s}{%d0}{%s1}
+tagMoneyFormat={^s}{%d0}  {%s1}
 
 tagPotionHealthA01=生命药水
 tagPotionHealthA01Desc="愈合伤口，修复骨折。"

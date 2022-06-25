@@ -162,7 +162,7 @@ tagClass01SkillDescription16=经历了无数战火洗礼，你已经见识过了
 tagClass01SkillName17=^g<^F士兵^g>^c防守反击
 tagClass01SkillDescription17=进入极度灵敏的状态来发动闪电般的反击。^o这项技能必须保持开启以持续生效。
 
-tagClass01SkillName18=^g<^F士兵^g>^c防护训练
+tagClass01SkillName18=^g<^F士兵^g>^c盾牌训练
 tagClass01SkillDescription18=对使用盾牌进行战斗的技艺进行大量研习而提高可操控性与机动性。使你的盾牌绝对不会成为累赘。^o需要一面盾牌。
 
 
@@ -1479,7 +1479,7 @@ tagItemSkillD046Name=野兽呼唤
 tagItemSkillD046Desc=发出野性咆哮，激励你的仆从。
 
 tagItemSkillD047Name=风暴召唤
-tagItemSkillD047Desc=召唤一阵静态风暴电能环绕周身。
+tagItemSkillD047Desc=召唤一场静态能量风暴。
 
 tagItemSkillD048Name=腐蚀之池
 tagItemSkillD048Desc=召唤一个邪恶的酸性之池来瓦解你的敌人。
@@ -1594,7 +1594,7 @@ tagItemSkillD082Name=毒害
 tagItemSkillD082Desc=用带毒的利爪发动一次精准的打击。
 
 tagItemSkillD083Name=永恒鬼影
-tagItemSkillD083Desc=向你的敌人放射一只痛苦的鬼魂并在敌人之间传播。
+tagItemSkillD083Desc=在你的目标身上施加一个折磨鬼影并在敌人之间传播。
 
 tagItemSkillD084Name=清除
 tagItemSkillD084Desc=用精准一击结束敌人的性命。^o这是一项远程技能，由默认武器攻击触发。
@@ -2759,7 +2759,7 @@ tagDevotionEffectB04Desc=撕碎你的敌人，精妙的割开敌人的动脉并�
 tagDevotionEffectB05=槌撞
 tagDevotionEffectB05Desc=以暴熊之力撞击附近的敌人。
 tagDevotionEffectB06=刀锋之怒
-tagDevotionEffectB06Desc=释放一阵爆发的幻影刀阵，轻易地穿透你的敌人。^o以触发者为中心，360°发射。
+tagDevotionEffectB06Desc=释放一阵爆发的幻影刀阵，轻易地穿透你的敌人。^o刀锋最初造成 30% 的伤害降低并向外扩张，直至达到其最大强度。
 tagDevotionEffectB07=裂地
 tagDevotionEffectB07Desc=撕裂大地，向附近的敌人喷涌岩浆和硫磺。^o擅长对付大体积目标，会对其造成多重伤害。
 tagDevotionEffectB07_Pet01=岩浆

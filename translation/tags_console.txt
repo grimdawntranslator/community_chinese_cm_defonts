@@ -1,0 +1,137 @@
+#Setup Menu
+tagConsoleSetupScreen=调整显示区域
+tagConsoleSetupScreenInfo=调整盒子直至边角不在屏幕上可见为止。
+tagConsoleSetupGamma=调整亮度
+tagConsoleSetupGammaInfo=调整亮度水平，直到几乎看不到标志。
+tagConsoleSetupContinue=继续
+tagConsoleSetupDefault=默认
+tagConsoleSetupReset=重置
+tagConsoleSetupBack=后退
+tagConsoleSetupDone=完成
+
+#Main Menu
+tagConsoleMenuSignIn=登录
+tagConsoleSwitchProfile=Switch Profile
+tagMenuDelete01=您确定要永久删除此角色吗?
+tagXboxLiveUnavailable=无法连接到 XBox Live。请检查您的网络连接后再次尝试。
+tagInviteInfo=等级范围: {%d0} - {%d1}
+tagInviteInfoHardcore=等级范围: {%d0} - {%d1} (硬核)
+tagConsoleCreateCharacter=创建
+tagCloudSaveLimit=《恐怖黎明》云存储已满，您在新建角色前必须删除一个已存在的角色。
+
+#Options Menu
+tagKeybindingTitle01=控制器
+tagConsoleMenuScreenSetup=屏幕设置
+tagConsoleMenuScreenSetupDesc=更改屏幕的可见区域以匹配您的显示。
+tagConsoleMenuGammaSetup=调整伽马
+tagConsoleMenuGammaSetupDesc=改变游戏的整体亮度水平。
+tagKeybind36=驻守
+tagControllerBindingMove=移动
+tagControllerBindingCamera=相机
+tagControllerBindingCharacter=角色
+tagControllerBindingMenu=菜单
+tagVideoOption01=分辨率
+tagConsoleResolution1080p=1080p
+tagConsoleResolution1440p=1440p
+tagConsoleResolution4kUHD=4k UHD
+tagConsoleTargetFPS30=30 FPS
+tagConsoleTargetFPS60=60 FPS
+tagConsoleTargetFPSUnlocked=已解锁
+tagConsoleTargetFPS=帧率限制
+tagConsoleTargetFPSDesc=目标渲染帧率。
+tagGameplayOption33=暴击时震动
+tagGameplayDesc33=允许控制器在伤害暴击时震动。
+
+#Exit Menu
+tagOptionsMenuQuit=离开游戏
+tagOptionsMenuExitGameConfirm=您确定要退出游戏吗？
+
+#Items
+tagTransmuteCapture=[按 {^y}Y{^-} to Infuse]
+tagTransmuteApply=[按 {^y}Y{^-} 应用]
+tagTransmuteApplyRemove=[按 {^y}Y{^-} 移除幻化]
+tagScrollDirections=[按 {^y}Y{^-} to Consume]
+tagItemUseDirections=[按 {^y}Y{^-} 使用]
+tagNoteHelp=[按 {^y}Y{^-} 阅读]
+tagEnchantmentUsable=[按 {^y}Y{^-} 增加物品]
+tagComponentHelp=[按 {^y}Y{^-} 嵌入或结合]
+tagComponentCombine=[按 {^y}Y{^-} to Consume]
+tagPotionDirections=[按 {^y}Y{^-} to Consume]
+tagCombineStacks=[按 {^y}R-Stick{^-} 分离堆叠]
+
+#Keybinds
+tagKeybind04=打开地图
+tagKeybind18=使用生命药水
+tagKeybind19=使用能量药水
+
+#UI
+tagConsoleReconnectController=请为用户 {^b}{%t0}{^-} 连接一个控制器。
+tagMPInvite=增加
+tagMPFriends=邀请
+tagConsoleInviteInfo=请选择一个角色并按'开始'加入 {^b}{%t0}{^-}。
+
+#Buttons
+tagControllerButtonDPadUp=DPad Up
+tagControllerButtonDPadDown=DPad Down
+tagControllerButtonDPadLeft=DPad Left
+tagControllerButtonDPadRight=DPad Right
+tagControllerButtonStart=菜单按钮
+tagControllerButtonBack=查看按钮
+tagControllerButtonLeftStick=Left Stick
+tagControllerButtonRightStick=Right Stick
+tagControllerButtonLeftBumper=Left Bumper
+tagControllerButtonRightBumper=Right Bumper
+tagControllerButtonLeftTrigger=Left Trigger
+tagControllerButtonRightTrigger=Right Trigger
+tagControllerButtonA=A
+tagControllerButtonB=B
+tagControllerButtonX=X
+tagControllerButtonY=Y
+
+#TutorialTips
+tagLoadingTip03={^g}提示: {^w}您可以在任意时间在'书典窗口'再次查看教程提示。
+tagLoadingTip21={^g}提示: {^w}您可以在任意时间通过 R-Stick 键旋转相机。
+tagQuickTip08={^z}教程提示{^-}{^n}{^n}{^s}教程提示{^-} 已启用。您可以在任意时间通过选项菜单禁用它。在游戏中，任意时间都可以无障碍的从'书典窗口'获取帮助 {^x}[{%t0}]{^-}。
+tagQuickTip09={^z}商人{^-}{^n}{^n}商人允许你贩卖收集的战利品并购买装备与药水。
+tagQuickTip14={^z}药水{^-}{^n}{^n}药水具有较长的冷却时间，但使用它们时，可以快速恢复您的生命或能量。
+tagQuickTip26={^z}聊天{^-}{^n}{^n}双击 {^x}[{%t0}]{^-} 与其他玩家交谈。
+tagQuickTip27={^z}多人游戏{^-}{^n}{^n}打开'组队窗口'{^n}{^x}[{%t0}]{^-} 来组建队伍。双击与其他玩家交谈。
+tagQuickTip30={^z}未分配的技能！{^-}{^n}{^n}主动技能必须分配到技能条来使用它们。
+tagQuickTip61={^z}信仰之力{^-}{^n}{^n}点击信仰窗口中的图标并在列表中选择一个技能，可以分配您的信仰之力到一个技能上。
+tagTutorialTip10TextA=Secured Riftgates allow you to traverse quickly between locations. Use a Riftgate to open the World Map and select a destination.
+tagTutorialTip10TextB=As an Aether-touched human, you are capable of opening Personal Riftgates. To activate your Personal Riftgate, press {^x}[{%t0}]{^-}.
+tagTutorialTip14TextA=Health and Energy Potions restore your character's health and energy, respectively. To drink a potion, press the assigned button.
+tagTutorialTip14TextC=按已分配的对应按钮来使用药水。
+tagTutorialTip15TextE=Attribute points are assigned in the Character Window which can be opened by pressing {^x}[{%t0}]{^-}. To assign an attribute point, press the "+" next to the appropriate attribute.
+tagTutorialTip15TextF=Skill points are assigned by opening the Skill Window which can be opened by pressing {^x}[{%t0}]{^-}.
+tagTutorialTip16TextB=To equip an item, drag it from your inventory or move it to an appropriate equipment slot. You may drop an item by moving it out of the character window, or by pressing {^x}[{%t0}]{^-}.
+tagTutorialTip16TextC=Spend attribute points by pressing the "+" buttons to the left of the desired attribute. Each attribute point increases the attribute by 8.
+tagTutorialTip20TextB=Using a component allows you to attach it to an item. Note that each component can only go in certain item types.
+tagTutorialTip22TextB=If you invest skill points in your skill mastery, you will unlock new tiers of skills. You can increase your mastery level by pressing the mastery button in the lower left of the Skill Window.
+tagTutorialTip23TextA=Active skills (square icons) need to be assigned to your skill bar before you can use them.
+tagTutorialTip23TextB=Skills are assigned by accessing the Skills menu.
+tagTutorialTip23TextC=Activate skills on the skill bar by pressing the assigned button.
+tagTutorialTip26TextA=You can use the Chat Window to send messages to other players in your game session.
+tagTutorialTip26TextB=
+tagTutorialTip27TextA=Joining a party with other players allows you to share experience and loot. You can access the Group Window by pressing {^x}[{%t0}]{^-}. Parties are also important for PvP sessions.
+tagTutorialTip27TextB=
+tagTutorialTip33TextB=To apply skill points to an ability, press an unlocked skill icon in the Skill Window. The first skill point will allow you to use the ability. Additional skill points will make the ability more powerful.
+tagTutorialTip35TextA=Pets automatically travel and fight alongside you.
+tagTutorialTip35TextB=
+tagTutorialTip35TextC=You can order all pets to attack or move to a target by commanding them using the Pet Attack skill.
+tagTutorialTip36TextA=Spirit Guides allow you to undo your skill point selections. Press a skill icon in the Spirit Guide's UI to remove one point from that skill. The cost of doing so increases as you remove subsequent skill points.
+tagTutorialTip37TextB=
+tagTutorialTip38TextD=
+tagTutorialTip43TextB=Using a blueprint will add it to your Blacksmith's list of items if the item has not already been learned.
+tagTutorialTip49TextB=
+tagTutorialTip50TextB=Using an augment allows you to apply it to an appropriate item. Once applied, an Augment cannot be removed, but it can be replaced with another.
+tagTutorialTip51TextA=
+tagTutorialTip59TextC=When a shrine is cleansed you earn a devotion point. To allocate your Devotion Points visit the Devotion Window, which can be accessed through the Skill Window.
+tagTutorialTip60TextF=Bright blue stars indicate where you can put a Devotion Point in next. Activating a star unlocks its bonus.
+
+#InGame
+tagConsoleXBoxLiveUnavailable=无网络连接
+tagConsoleMultiplayerHighLatency=高延迟
+
+#Dialogs
+tagConsoleConfirmReportUser=您想报告 {^b}{%t0}{^-}?

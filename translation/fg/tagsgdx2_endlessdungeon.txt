@@ -62,9 +62,9 @@ tagGDX2EndlessDungeon_Boss_Summon02=饥渴黑暗
 tagGDX2EndlessDungeon_Boss_Summon02_Skill=饥渴黑暗
 tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=无尽黑暗产生的刺骨的饥渴在缓慢吞噬着你...
 
-tagGDX2EndlessDungeon_S201=完全正常的盾牌☆
+tagGDX2EndlessDungeon_S201=完全正常的盾牌
 tagGDX2EndlessDungeon_S201_Desc="左撇子会懂的。"
-tagGDX2EndlessDungeon_S202=^l白骨之戟
+tagGDX2EndlessDungeon_S202=白骨之戟
 tagGDX2EndlessDungeon_S203=莱奥维纳斯的戒指
 tagGDX2EndlessDungeon_S203_Desc="一枚保存完好的戒指，用一种可塑性很强的陌生材料制成，看起来相当愚蠢。"
 
