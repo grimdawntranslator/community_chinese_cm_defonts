@@ -1,5 +1,4 @@
-# 格式：头衔 ~ 职业/称谓/状态 名称<阵营> [其他]
-# TODO: FORMAT CREATURES NAME
+
 #CreatureFriendly
 
 tagGDX1FriendlyMalmouth_Guard01=马尔茅斯反抗军 ~ 游击兵
@@ -305,24 +304,24 @@ tagGDX1EnemyTrapA02=巫登沼泽蘑菇
 #Pets
 
 tagGDX1PetArcaneSeal=奥术秘印
-tagGDX1PetConcussiveRune=震荡神符
-tagGDX1PetIceRune=寒潮神符
+tagGDX1PetConcussiveRune=震荡符文
+tagGDX1PetIceRune=寒潮符文
 tagGDX1PetManticore02=死亡追猎者
 
 tagGDX1PetBlightBeast=疫病野兽
 tagGDX1PetBlightBeastB=不稳定畸变
 tagGDX1PetMaggot=蛆虫
-tagGDX1PetWraith=碎裂的幽灵
+tagGDX1PetWraith=精魂幽灵
 tagGDX1PetSkeleton01=骷髅战士
 tagGDX1PetSkeleton01b=骷髅弓箭手
-tagGDX1PetSkeleton01c=骷髅奥术师
+tagGDX1PetSkeleton01c=骷髅法师
 tagGDX1PetSkeleton01d=骷髅亡魂
 
 tagGDX1DevotionPet_ArcaneCurrent=奥术电流
 
 tagGDX1ItemPetGhostCrab=灵魂蟹
-tagGDX1ItemPetSkeletalGolem=骷髅仆从
-tagGDX1ItemPetWraith=束缚的幽灵
+tagGDX1ItemPetSkeletalGolem=骸骨仆从
+tagGDX1ItemPetWraith=束缚幽灵
 tagGDX1ItemPetKasparov=净化水晶
 tagGDX1ItemPetHargate=虚化水晶
 tagGDX1ItemPetKasparovSkill=结晶
@@ -450,7 +449,7 @@ tagGDX1DevotionAetherialCorruption_H04=提兰达尔 ~ [时光扭曲]
 
 tagGDX1DevotionAetherialFleshshaper_H01=菲纳德尔扎德 ~ [燃烧]
 tagGDX1DevotionAetherialFleshshaper_H02=诺克萨斯 ~ [冰冻]
-tagGDX1DevotionAetherialFleshshaper_H03=卡萨拉斯 ~ [电击]
+tagGDX1DevotionAetherialFleshshaper_H03=卡萨拉斯 ~ [迅捷]
 tagGDX1DevotionAetherialFleshshaper_H04=珀兰达罗斯 ~ [免疫控制]
 
 tagGDX1DevotionBasilisk_H01=风暴之肤 ~ 拉加斯林

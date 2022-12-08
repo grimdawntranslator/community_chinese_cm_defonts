@@ -1,5 +1,5 @@
 tagTitleScreenText=恐怖黎明{^n}©2022 Crate Entertainment,LLC{^n}{^n}请访问我们的官网 www.grimdawn.com 并参与到恐怖黎明的开发中来！
-tagDemoScreenText=感谢参与！{^n}{^n}《恐怖黎明》现在已在 Steam 上发布，也可以访问我们的官网 www.grimdawn.com 。
+tagDemoScreenText=感谢参与！{^n}{^n}《恐怖黎明》现在已在 Steam 上发布，也可以访问 www.grimdawn.com 获取游戏信息。
 tagMenu01=开始游戏
 tagMenu02=自定义游戏
 tagMenu03=信息
@@ -223,7 +223,7 @@ tagHUDDesc01=勾选后，在其他玩家上方显示生命条。（仅限多人�
 tagHUDDesc02=勾选后，在玩家（和宠物，需启用）上方显示生命值。
 tagHUDDesc03=勾选后，在受伤怪物上方显示生命条。
 tagHUDDesc04=勾选后，在受伤怪物上方显示生命值。
-tagHUDDesc05=勾选后，显示强大敌人的指示图标，例如精英，Boss，复仇者 Boss。
+tagHUDDesc05=勾选后，显示强大敌人的指示图标，例如精英，Boss，复仇 Boss。
 tagHUDDesc06=勾选后，在您的角色上方显示生命条。
 tagHUDDesc07=勾选后，在玩家宠物上方显示生命条。
 tagHUDDesc08=勾选后，不管其受伤状态，总是在怪物上方显示生命条。

@@ -665,7 +665,7 @@ tagGDX1RingA103=^w保护者指环
 tagGDX1RingA104=^w保护者戒指
 
 tagGDX1RingB101=^l生命指环
-tagGDX1RingB101_Desc="戒指中的荆棘在吸血，似乎能让藤蔓恢复新生。"^o后缀：迅速，进击，保护，怒吼巨兽等；前缀：雷击，不朽，风暴，谋杀者（蔓藤）等。
+tagGDX1RingB101_Desc="戒指中的荆棘在吸血，似乎能让藤蔓恢复新生。"^o迅速，进击，保护，怒吼巨兽，雷击，不朽，风暴，谋杀者（蔓藤）等，仅供参考。
 tagGDX1RingB102=^l藤蔓指环
 tagGDX1RingB103=^l加尔加伯的指环
 tagGDX1RingB103_Desc="触摸这枚正在燃烧的戒指是痛苦的，但不会对实体造成伤害。"
@@ -798,7 +798,7 @@ tagGDX1MedalB108=^y守望者徽章
 tagGDX1MedalB109=^l斯拉萨尔的盾徽
 tagGDX1MedalB109_Desc="利齿充满着被虚化力量扭曲的毒液。"
 tagGDX1MedalB110=^l普拉格尤斯的标记
-tagGDX1MedalB111=纳梅迪亚之眼
+tagGDX1MedalB111=^l纳梅迪亚之眼
 tagGDX1MedalB111_Desc="毫无生机的眼球仍在抽搐。"
 
 tagGDX1MedalC101=神圣标记
@@ -982,7 +982,7 @@ tagGDX1Blueprint_ArmorC115=设计图：^b神话 圣契的不洁面容
 tagGDX1Blueprint_ArmorC116=设计图：^b神话 黎明守卫头盔
 tagGDX1Blueprint_ArmorC117=设计图：^b神话 持火者的夹克
 tagGDX1Blueprint_ArmorC118=设计图：^b神话 卡里多的战衣
-tagGDX1Blueprint_ArmorC119=设计图：^b神话 密耳弥冬的面甲
+tagGDX1Blueprint_ArmorC119=设计图：^b神话 密尔弥冬的面甲
 tagGDX1Blueprint_ArmorC120=设计图：^b神话 莫格卓根的风帽
 tagGDX1Blueprint_ArmorC121=设计图：^b神话 完美主义者的风帽
 
@@ -1503,10 +1503,10 @@ tagGDX1CompA107Name=^g10^h-^e黑夜之印
 tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA108Name=^g06^h-^e毁灭之印
-tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人。"^w^n(用于所有武器，盾牌和法器副手)
+tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，那些藐视天神之人将在燃烧中毁灭。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA109Name=^g05^h-^e暗影之印
-tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器。"^w^n(用于所有武器，盾牌和法器副手)
+tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨毒酸注入武器。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA110Name=^g01^h-^e共鸣之印
 tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用。"^w^n(用于所有武器，盾牌和法器副手)
@@ -1523,11 +1523,11 @@ tagGDX1CompA113Desc="刻在宝石侧面的符文可以强化防护性能。"^w^n
 tagGDX1CompA114Name=^g12^h-^e血腥水晶
 tagGDX1CompA114Desc="曾经白如珍珠的水晶吸收了无数杀戮的鲜血。"^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA115Name=^cm1^h-^o魔法大地
-tagGDX1CompA115Desc="充满大地的生命精华能促进健康生长。"^w^n(用于所有护甲)
+tagGDX1CompA115Name=^cm1^h-^o魔法之土
+tagGDX1CompA115Desc="泥土中被注入了生命精华以促发生机。"^w^n(用于所有护甲)
 
 tagGDX1CompA116Name=^cm4^h-^o魔法焚烧铠甲片
-tagGDX1CompA116Desc="破碎的铠甲片吸收了致命奥数攻击的魔法能量。"^w^n(用于所有护甲)
+tagGDX1CompA116Desc="破碎的铠甲片吸收了致命奥术攻击的魔法能量。"^w^n(用于所有护甲)
 
 tagGDX1CompA117Name=^cm2^h-^o刀刃铠甲片
 tagGDX1CompA117Desc="铠甲上装满了成排的致命刀刃。是强盗和残酷暴君的最爱。"^w^n(用于所有护甲)
@@ -1637,7 +1637,7 @@ tagGDX1ItemSetD106Name=岩石守卫
 tagGDX1ItemSetD106Desc="岩石守卫的装备，曼海尔信仰的忠诚守护者。"
 
 tagGDX1ItemSetD107Name=军团之要塞
-tagGDX1ItemSetD107Desc="帕里奥纳·达尔的装备，黑色军团的持盾少女。"
+tagGDX1ItemSetD107Desc="黑色军团的持盾少女，帕里奥纳·达尔的装备。"
 
 tagGDX1ItemSetD108Name=戈尔巴的愤怒
 tagGDX1ItemSetD108Desc="戈尔巴的铠甲，罗斯纳尔的野蛮女儿，绰号白狼毒牙。"
@@ -1768,19 +1768,19 @@ tagGDX1SuffixA101=之
 
 tagGDX1SuffixB101_Wpn_A=^g·受折磨灵魂
 tagGDX1SuffixB102_Wpn_A=^g·灵魂守护
-tagGDX1SuffixB103_Wpn_A=^g·焚烧符文★
-tagGDX1SuffixB104_Wpn_A=^g·灵魂牢笼
+tagGDX1SuffixB103_Wpn_A=^g·焚烧符文☆
+tagGDX1SuffixB104_Wpn_A=^g·灵魂牢笼☆
 tagGDX1SuffixB105_Wpn_A=^g·天神愤怒
 
 tagGDX1SuffixB101_Ar_A=^g·受折磨灵魂
 tagGDX1SuffixB102_Ar_A=^g·受折磨灵魂
 tagGDX1SuffixB103_Ar_A=^g·灵魂守护
-tagGDX1SuffixB104_Ar_A=^g·焚烧符文★
+tagGDX1SuffixB104_Ar_A=^g·焚烧符文
 tagGDX1SuffixB105_Ar_A=^g·灵魂牢笼
 tagGDX1SuffixB106_Ar_A=^g·灵魂牢笼
 
 tagGDX1SuffixB101_Sh_A=^g·受折磨灵魂
-tagGDX1SuffixB102_Sh_A=^g·焚烧符文★
+tagGDX1SuffixB102_Sh_A=^g·焚烧符文
 tagGDX1SuffixB103_Sh_A=^g·灵魂牢笼
 tagGDX1SuffixB104_Sh_A=^g·天神愤怒
 tagGDX1SuffixB105_Sh_A=^g·虚灵屏障

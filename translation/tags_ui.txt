@@ -1194,7 +1194,7 @@ tagCharStatsSlowResist={^P}减速抗性
 tagCharStatsSlowResistInfo=对所有能减慢你攻击、施法和移动速度的效果的抗性。
 
 #Retaliation反击
-tagCharStatsDamageReflect=伤害反击
+tagCharStatsDamageReflect=伤害反弹
 tagCharStatsDamageReflectInfo=你所受到的伤害会被反馈给攻击者的百分比。
 
 tagCharStatsCurrentLifeReflect=生命反击
@@ -1717,7 +1717,7 @@ tagCharDeflectProjectiles={%.0f0}% {^E}的几率无视投射物
 tagCharIncreasedExperience={^E}经验获取 {^H}{%+.0f0}%
 tagCharLightRadius={^E}光照范围 {^H}{%+.0f0}%
 
-tagCharItemGlobalReduction={^E}装备物品所需属性 {^H}{%.0f0}%
+tagCharItemGlobalReduction={^E}降低装备物品所需属性 {^H}{%.0f0}%
 tagCharLevelReqReduction={^E}装备物品所需等级 {^H}-{%.0f0}
 tagCharArmorStrengthReqReduction={^E}装备护甲所需{^O}体格 {^H}-{%.0f0}%
 tagCharArmorDexterityReqReduction={^E}装备护甲所需{^Z}灵巧 {^H}-{%.0f0}%
@@ -2418,7 +2418,7 @@ tagHeroXPShort={%d0} 英雄经验
 tagBossXPShort={%d0} 头领经验
 tagBossXPLong01=击杀头领怪物
 tagBossXPLong02=获得 {%d0} 经验
-tagHeroXPLong01=击英雄怪物杀
+tagHeroXPLong01=击杀英雄怪物
 tagHeroXPLong02=获得 {%d0} 经验
 
 tagPetBonusNameAllPets=所有战宠加成

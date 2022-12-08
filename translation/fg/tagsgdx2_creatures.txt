@@ -283,7 +283,7 @@ tagGDX2EnemyWormB01=愤怒肠虫
 
 
 #Pets
-tagGDX2Pet_CelestialGuardian01=至高之神的仆从
+tagGDX2Pet_CelestialGuardian01=至高神守护者
 tagGDX2Pet_CelestialGuardian01B=德里格之嗣
 
 tagGDX2Pet_Item_SandDevil01=沙魔
